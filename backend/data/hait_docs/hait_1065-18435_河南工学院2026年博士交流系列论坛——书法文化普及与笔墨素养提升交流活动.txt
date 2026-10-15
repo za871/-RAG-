@@ -1,0 +1,17 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} h2{ mso-style-name:"标题 2"; mso-style-noshow:yes; mso-style-next:正文; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; mso-outline-level:2; font-family:宋体; font-weight:bold; font-size:18.0000pt;} h4{ mso-style-name:"标题 4"; mso-style-noshow:yes; mso-style-next:正文; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; mso-outline-level:4; font-family:宋体; font-weight:bold; font-size:12.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; color:rgb(128,0,128);} span.16{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} span.17{ font-family:'Times New Roman'; color:rgb(0,0,255);} span.18{ font-family:'Times New Roman'; color:rgb(255,255,255); font-weight:bold;} span.19{ font-family:'Times New Roman';} span.20{ font-family:'Times New Roman'; font-size:13.5000pt;} span.21{ font-family:'Times New Roman'; font-size:13.5000pt;} span.22{ font-family:'Times New Roman'; font-size:13.5000pt;} span.23{ font-family:'Times New Roman'; font-size:13.5000pt;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+为搭建我校博士群体文化交流平台，丰富高层次人才精神文化生活，传承中华优秀传统书法文化，夯实人文艺术素养，推动美育文化建设与学科文化融合发展，营造浓厚书香校园氛围，现决定举办“博士交流系列论坛——书法文化普及与笔墨素养提升交流活动”。具体安排如下：
+一、组织单位
+主办单位：科研处
+承办单位：艺术设计学院
+二、活动时间：2026年4月30日上午09:00-11:00
+三、活动地点：创新楼艺工坊
+四、参与人员
+艺术设计学院全体博士，经济学院、管理学院、外语学院、马克思主义学院热爱书法、对传统文化研习感兴趣的博士及其他教职员工（限30人）。
+五、活动安排
+1.领导致辞
+2.书法文化常识与基础笔法知识普及分享
+3.日常书法练习技巧与审美提升经验交流
+4.现场互动研讨
+科研处（学科办）
+2026年4月29日

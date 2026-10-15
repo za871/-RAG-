@@ -1,0 +1,47 @@
+# Milvus standalone（单容器）。
+#
+# 用官方 standalone_embed.sh 的嵌入式模式：etcd 嵌在容器内、对象存储用本地磁盘，
+# 所以不需要单独的 etcd / minio 容器。
+#
+# 为什么不用经典的三件套（etcd + minio + milvus）：
+# MinIO 已下架 Docker Hub 上的 minio/minio 仓库（pull 直接报 not found），
+# quay.io/minio/minio 则要鉴权（401），本地环境拉不到，因此改用嵌入式模式。
+#
+#   docker compose up -d                  启动
+#   curl http://localhost:9091/healthz    健康检查（期望 OK）
+#   docker compose down                   停止（volumes/ 里的数据保留）
+#
+# 注意：COMMON_STORAGETYPE=local 表示向量和元数据都落在 ./volumes/milvus，
+# 只适合单机开发。要上生产得换回 S3/MinIO 这类共享对象存储。
+#
+# 镜像版本要和 pymilvus 对齐：pymilvus 3.0.0 对应 Milvus 3.0.x。
+services:
+  standalone:
+    container_name: milvus-standalone
+    image: milvusdb/milvus:v3.0.2
+    command: ["milvus", "run", "standalone"]
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      # v3.0 起部署模式由 DEPLOY_MODE 决定，光靠 `milvus run standalone` 这个参数不够：
+      # 不设它时 paramtable 按 distributed 初始化，会在 EtcdConfig.Init 里直接
+      # panic("embedded etcd can not be used under distributed mode")，容器起不来。
+      # 值必须是大写的 STANDALONE，写成小写同样命中上面那个 panic。
+      DEPLOY_MODE: STANDALONE
+      ETCD_USE_EMBED: "true"
+      ETCD_DATA_DIR: /var/lib/milvus/etcd
+      ETCD_CONFIG_PATH: /milvus/configs/embedEtcd.yaml
+      COMMON_STORAGETYPE: local
+    volumes:
+      - ./volumes/milvus:/var/lib/milvus
+      - ./embedEtcd.yaml:/milvus/configs/embedEtcd.yaml
+    healthcheck:
+      # start_period 给足：首次启动要初始化元数据，通常 30~60 秒
+      test: ["CMD", "curl", "-f", "http://localhost:9091/healthz"]
+      interval: 30s
+      start_period: 90s
+      timeout: 20s
+      retries: 3
+    ports:
+      - "19530:19530"
+      - "9091:9091"

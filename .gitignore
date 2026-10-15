@@ -1,0 +1,29 @@
+# ---------- 密钥与本地配置 ----------
+# 真实的 .env 含 DEEPSEEK_API_KEY 和 MySQL 口令，绝不入库；模板见 backend/.env.example
+# （这个规则匹配任意层级的 .env，但不会误伤 .env.example——那是另一个文件名）
+.env
+.env.local
+*.local
+
+# ---------- Python ----------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---------- Milvus 的运行时数据 ----------
+# Docker 卷（etcd + minio），163MB，是「本机跑到什么状态」而不是源码。
+# 换台机器用 deploy/docker-compose.yml 重新起就行，不需要跟着代码走
+backend/deploy/volumes/
+
+# ---------- 前端 ----------
+node_modules/
+dist/
+.vite/
+
+# ---------- IDE / 工具 ----------
+.idea/
+.claude/settings.local.json
+*.log

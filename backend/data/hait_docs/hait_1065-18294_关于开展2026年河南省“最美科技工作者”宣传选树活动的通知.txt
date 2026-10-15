@@ -1,0 +1,31 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:Calibri;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门：
+ 根据河南省科学技术协会《关于开展2026年河南省“最美科技工作者”宣传选树活动的通知》要求，现将有关事宜通知如下：
+ 一、总体要求
+ 以习近平新时代中国特色社会主义思想为指导，认真贯彻落实党的二十大和二十届历次全会精神，深入学习贯彻习近平总书记在河南考察时重要讲话精神和关于河南工作的重要论述精神，通过“最美科技工作者”宣传选树，团结引领广大科技工作者深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，聚焦“1+2+4+N”目标任务体系，为奋力谱写中原大地推进中国式现代化新篇章争先创优、赋能添彩。
+ 二、主办单位
+ 中共河南省委组织部、中共河南省委宣传部、河南省科学技术协会、中共河南省委军民融合发展委员会办公室、河南省教育厅、河南省科学技术厅、河南省广播电视局。
+ 三、选树范围及人数
+ （一）选树范围：推荐人选为目前在豫工作的科技工作者（含省外引进），突出基层一线和青年科技工作者优秀典型，不包括现役军人、公务员、有关涉密人员和参照《中华人民共和国公务员法》管理的党政机关现任县处级以上行政职务者。
+ （二）选树人数：2026年河南省“最美科技工作者”选树10名。
+ 四、推荐名额
+ 我校可推荐“最美科技工作者”候选人1名。
+ 五、选树条件
+ （一）政治过硬。思想政治坚定，忠实践行习近平新时代中国特色社会主义思想，热爱祖国、服务人民，坚决拥护中国共产党领导和社会主义制度，自觉维护改革发展稳定大局，具有良好的政治素养。清正廉洁，遵纪守法，作风优良。
+ （二）业绩突出。针对不同类别科技工作者，分类参考以下选树标准：
+ 1.坚持面向世界科技前沿，在前沿领域和基础研究上作出重要贡献的科技工作者。重点关注：在基础研究领域取得系统性、原创性重大成果，或提出具有重要科学价值的理论、学说，得到国内外同行高度认可；对提升河南基础研究水平有显著带动作用。
+ 2.坚持面向国家重大需求，突破关键核心技术，为解决经济社会发展瓶颈制约或国家安全重大挑战作出重要贡献的科技工作者。重点关注：在关键技术研发、重大工程实施、核心装备研制等方面取得突破性创新，解决了产业发展和国家安全重大技术难题；研发的新技术、新产品、新工艺得到广泛应用，产生了显著的经济效益或社会效益；获得重要发明专利或科技奖励。
+ 3.坚持面向经济主战场，聚焦河南特色产业集群，推动科技成果转化应用，为构建新发展格局作出重要贡献的科技工作者。重点关注：在推动科技成果向现实生产力转化中发挥关键作用，成功将先进适用技术推广应用于生产生活，覆盖面广，带动性强；显著提升了生产效率、产品质量或资源利用效率，创造了可观的经济效益或社会效益，有力推动河南经济转型升级、创新发展。
+ 4.坚持面向人民生命健康，为保护人民群众生命安全和身体健康作出重要贡献的科技工作者。重点关注：在疾病预防、诊断、治疗、康复等方面取得重要创新成果或技术突破，显著提升诊疗水平；在重大公共卫生事件或地方病、传染病防治中做出突出贡献；在民族医药传承创新方面取得显著成绩；在基层医疗服务中惠及广大患者，获得良好口碑。
+ 5.坚持服务社会，为乡村振兴、共同富裕、公民科学素质提升等作出重要贡献的科技工作者。乡村振兴、共同富裕方面重点关注：长期在乡村或基层一线工作；克服困难，将科技知识、技术、成果直接服务于当地发展和民生改善；事迹感人，深受当地干部群众认可和欢迎，为巩固拓展脱贫攻坚成果、促进乡村振兴做出实实在在的贡献。公民科学素质提升方面重点关注：长期致力于科学普及工作，科普形式创新，内容丰富，受众广泛，效果显著，有效提升公民科学素质，在科技传播、弘扬科学精神和科学家精神方面有重要影响力。
+ （三）事迹感人。注重候选人的精神之美，其先进事迹鲜活感人，适合公开宣传，有较强的代表性、认可度和影响力。在此基础上，综合评价其科技成果的科学、技术、经济、社会、文化等价值，不以科研成果先进性或经济价值作为唯一指标，克服唯论文、唯职称、唯学历、唯奖项倾向。
+ 六、材料报送要求
+ 请各部门于3月31日前提交以下材料纸质版（一式一份）至科研处，同时发送电子版至科研处邮箱kyc@hait.edu.cn，清单如下：
+ 1.2026年河南省“最美科技工作者”推荐表；
+ 2.2026年河南省“最美科技工作者”候选人汇总表（需部门负责人签字，加盖部门公章）；
+ 3.候选人相关佐证材料。
+ 所提交材料涉及国家秘密的，要严格遵守保密相关规定。
+ 联系方式：0373-3691985 王老师
+ 科研处
+ 2026年3月23日

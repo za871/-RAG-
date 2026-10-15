@@ -1,0 +1,24 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正小标宋简体";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 全校师生：
+ 五十载薪火相传，砥砺前行，半世纪辛勤耕耘，桃李芬芳。为庆祝我校建校50周年，营造浓厚学术氛围，启迪创新思维，开阔师生视野，学校特举办“办学50周年校庆系列学术讲座”。学校荣幸邀请到三位国内知名专家来校作专题报告。欢迎广大师生踊跃参加。具体事宜通知如下：
+ 一、讲座时间安排
+ 时间
+ 专家
+ 报告地点
+ 10月19日
+10:00-10:40
+ 国家杰青、教育部长江学者、中原工学院校长夏元清教授专场报告会
+ 创新楼报告厅
+ 10月19日
+10:40-11:20
+ 加拿大工程院院士、郑州大学学术副校长杨天若教授专场报告会
+ 10月19日
+11:20-12:00
+ 教育部长江学者奖励计划青年学者、山东大学郑捷教授专场报告会
+ 二、主讲人简介：
+ 1.夏元清，男，控制科学与工程领域专家。国家杰出青年科学基金获得者，教育部长江学者特聘教授，国家“万人计划”领军人才，IEEE Fellow，CAA Fellow，享受国务院政府特殊津贴专家。现任中原工学院校长，北京理工大学讲席教授；国务院学位委员会第八届学科评议组成员，中国计算机学会大数据专家委员会委员，中国仪器仪表学会物联网工作委员会副理事长，中国指挥与控制学会云控制与决策专业委员会主任委员，天基智能信息处理全国重点实验室副主任。长期致力于无人系统协同控制、云控制与决策等领域研究，在国际上首次提出“云控制”概念。主持国家重点研发计划、国家自然科学基金重点项目等多项国家级课题。成果获国家科技进步奖二等奖等多项重要奖项，并自2014年起连续入选Elsevier中国高被引学者，荣登斯坦福全球前2%顶尖科学家榜单，荣获“2024年河南省最美科技工作者”称号。
+ 2.杨天若，郑州大学学术副校长，学科首席教授，计算机与人工智能学院、软件学院院长。毕业于清华大学计算机系，获计算机和应用物理双学士学位，加拿大维多利亚大学获计算机科学博士学位。加拿大工程院院士，加拿大工程研究院院士，欧洲科学院院士，美国国家人工智能科学院院士，IEEE/IET/AAIA会士，国家海外高层次人才入选者，科睿唯安全球高被引科学家，斯坦福全球前2%科学家，ScholarGPS全球前0.05%顶尖学者，ACM杰出科学家，国家科技创新2030新一代人工智能重大项目首席科学家。主要从事人—机—物智能研究。
+ 3.郑捷，1999-2005就读于清华大学经济管理学院，先后获得经济学学士与硕士学位，期间曾获评清华大学优秀毕业生、北京市优秀毕业生；此后，2005-2011就读于美国圣路易斯华盛顿大学，先后获得经济学硕士与博士学位，期间曾获评经济系最佳助教奖、博士生三年级最佳论文奖，师从著名学者David K.Levine教授。现任山东大学经济研究院教授、博士生导师；山东大学特聘教授，济南市“海右计划”哲学社会科学领域中青年学术骨干，山东省“泰山学者计划”特聘专家，教育部长江学者奖励计划青年学者；山东大学理论与实验经济学研究中心（CREATE）主任，清华大学互联网产业研究院产业学者，清华大学经济科学与政策实验室（ESPEL）创建人之一。
+ 科研处
+ 2025年10月18日

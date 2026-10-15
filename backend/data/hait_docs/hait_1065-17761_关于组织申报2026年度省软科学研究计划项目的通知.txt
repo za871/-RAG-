@@ -1,0 +1,27 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin-top:0.0000pt; margin-right:0.0000pt; margin-bottom:0.0000pt; margin-left:0.0000pt; text-indent:0.0000pt; mso-pagination:none; text-align:left; font-family:'Times New Roman'; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:12.0000pt;} span.10{ font-family:'Times New Roman'; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:12.0000pt;} span.15{ font-family:宋体; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:14.0000pt;} span.16{ font-family:'Times New Roman'; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:8.5000pt;} span.17{ font-family:宋体; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:21.0000pt;} span.18{ font-family:'Times New Roman'; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:10.0000pt;} p.19{ mso-style-name:"Body text|2"; margin-top:0.0000pt; margin-right:0.0000pt; margin-bottom:0.0000pt; margin-left:0.0000pt; text-indent:0.0000pt; mso-pagination:none; text-align:left; font-family:'Times New Roman'; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:8.5000pt;} p.20{ mso-style-name:"Body text|1"; margin-top:0.0000pt; margin-right:0.0000pt; margin-bottom:0.0000pt; margin-left:0.0000pt; text-indent:20.0000pt; mso-pagination:none; text-align:left; line-height:187%; font-family:宋体; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:14.0000pt;} p.21{ mso-style-name:"Heading \#1|1"; margin-top:0.0000pt; margin-right:0.0000pt; margin-bottom:27.0000pt; margin-left:0.0000pt; text-indent:0.0000pt; mso-pagination:none; text-align:center; mso-outline-level:1; line-height:34.1500pt; mso-line-height-rule:exactly; font-family:宋体; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:21.0000pt;} p.22{ mso-style-name:"Header or footer|2"; margin-top:0.0000pt; margin-right:0.0000pt; margin-bottom:0.0000pt; margin-left:0.0000pt; text-indent:0.0000pt; mso-pagination:none; text-align:left; font-family:'Times New Roman'; color:rgb(0,0,0); letter-spacing:0.0000pt; font-size:10.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:61.2000pt; margin-bottom:77.4000pt; margin-left:81.7500pt; margin-right:84.9500pt; size:595.0000pt 842.0000pt; vsb_temp:18.0000pt; mso-header-margin:39.8000pt; mso-footer-margin:56.0000pt; mso-footer:url("/_vsl/05E144FA9F547C102B7D249173DFBF95/365987D9/5B9") f0;} div.Section0{page:Section0;}
+ 各部门（单位）：
+ 根据《河南省科学技术厅 河南省财政厅关于组织申报2026年度省软科学研究计划项目的通知》文件精神，为深入实施创新驱动、科教兴省、人才强省战略，助力全省经济社会高质量发展，省科技厅、省财政厅决定组织申报2026年度省软科学研究计划项目。现将有关事项通知如下。现将我校有关事项通知如下。
+ 一、申报要求
+ （一）项目申请人填写申报材料时，须按照填报要求注意信息回避，在申请书第二、三、四、五部分不得出现项目负责人、申请单位、个人代表作等相关信息。对未按要求进行信息回避的，将按无效申报处理。不接受涉密内容项目申报，申报材料请作脱密处理。
+ （二）项目申请人年龄不超过60岁，青年项目不超过35岁，在同一类科技计划中只能申报一个项目，已承担省财政支持的科研项目尚未结项或验收的，不得申请新的项目资金。同一项目负责人原则上每年只能承担一个省财政资金支持的项目，申报同一年度多类计划项目的，将根据各类计划项目立项时间的先后顺序进行查重确定。
+ （三）各申报院部应加强项目筛选审核，强化科研诚信管理，加强科技伦理审查。同一项目已获得省级财政资金支持的，严禁重复或变相重复申请专项资金立项支持。
+ （四）全面推行科研经费“包干制”，不再编制项目经费预算，不需要填写申请省财政经费资助额度。实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责。
+ 二、申报程序
+ （一）用户注册。申报人用户须在河南政务服务网（http://www.hnzwfw.gov.cn）注册并实名认证后，才能登录系统，已完成注册和认证的用户仍使用原账号。
+ （二）项目信息填报。项目申报人按照指南要求，使用个人账号登录“河南省科技计划项目管理系统（http://xm.hnkjt.gov.cn/）”填写项目申报书。
+ （三）审核推荐。严格按照申报指南和限额推荐要求审核项目，将审核通过的项目申报书提交至省科技厅，同时将申请财政经费的项目申报书转送财政主管部门（单位）备案。
+ 三、受理时间
+ 个人在线填报、提交申请材料的时间为9月10日至10月13日。本次申报材料以院部为单位统一报送至行政楼C0820办公室，每个项目需报送纸质材料2份（正反打印、简装、脱密）及电子版（个人申请书和相关附件合并为一个PDF文件，发送至科研处邮箱kycxm@hait.edu.cn），各院部需同时报送本院部盖章确认的申报项目推荐汇总表一份（请根据院部审核意见排序，电子版发送到邮箱），截止时间为10月13日上午10：00前，逾期不再接收。 
+ 此次申报时间有限，请各项目申请人严格按照时间要求进行填报、提交，逾期系统将自动关闭相应权限；系统关闭后，任何个人不得再修改、补充申报材料。
+ 四、联系方式
+ （一）校外联系方式
+ （1）系统注册、填报、提交等问题咨询
+ 省科学技术情报中心：0371—65974111
+ （2）项目指南咨询
+ 省科技厅规划政法处：0371—65907334
+ （二）校内联系方式
+ 联系人：科研处项目科
+ 联系电话：3691219
+ 科研处（学科办）
+ 2025年9月10日

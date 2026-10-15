@@ -1,0 +1,46 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正小标宋_GBK";} @font-face{ font-family:"方正仿宋_GB2312";} @font-face{ font-family:"黑体";} @list l0:level1{ mso-level-start-at:2; mso-level-number-format:chinese-counting; mso-level-suffix:none; mso-level-text:"%1、"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0.0000pt; text-indent:0.0000pt;} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} h2{ mso-style-name:"标题 2"; mso-style-noshow:yes; mso-style-next:正文; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:宋体; font-weight:bold; font-size:18.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; mso-ansi-font-style:italic;} span.16{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} p.p{ mso-style-name:"普通\(网站\)"; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt; mso-font-kerning:1.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} table.MsoTableGrid{ mso-style-name:网格型; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-border-top-alt:1px solid #000; mso-border-left-alt:1px solid #000; mso-border-bottom-alt:1px solid #000; mso-border-right-alt:1px solid #000; mso-border-insideh:1px solid #000; mso-border-insidev:1px solid #000; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各院部：
+ 为提升我校第三届大学生职业规划大赛（以下简称“大赛”）的组织水平与参赛质量，加强就业指导教师队伍的专业化建设，助力学生明确职业方向、提升就业竞争力，实现“以赛促教、以赛促学、以赛促就”的育人目标，经研究，决定举办大赛指导教师专题培训。现将有关事项通知如下：
+ 一、培训目标
+ 本次培训旨在助力教师精准把握大赛规则与评审标准，强化成长赛道作品的成长轨迹呈现，提升就业赛道作品的岗位胜任力论证，系统提升教师的专业化指导能力。引导教师将赛事指导与就业育人相融合，立足国家战略与学生发展需要，助力学生实现高质量就业，落实“为党育人、为国育才”的根本使命。
+ 二、培训对象
+ 拟担任本届大赛学生指导工作的教师，具体包括：就业指导课程任课教师、一线就业工作人员、有意向参与大赛指导的专业课教师。
+ 三、培训形式与安排
+ 所有拟担任本届大赛指导教师的人员均须完成系统培训并取得相应证书，方可指导学生参赛。
+ 学校将组织多轮次集中培训（资深专家线上录播课程），共设2次必学课程（6课时）和1次选学课程（3课时）。参训教师可根据个人时间，从以下安排中自行选择场次，完成全部必学内容：
+ 课程类型
+ 内容
+ 第一轮
+ 第二轮
+ 第三轮
+ 必学1
+ 学生赛道备赛指导
+ 场次：A1 智慧教室913
+11.5 8:30-11:00
+ 场次：B1 智慧教室915
+11.5 14:30-17:00
+ 场次：C1 智慧教室913
+11.6 8:30-11:30
+ 必学2
+ 场次：A2 智慧教室913
+11.5 14:30-17:30
+ 场次：B2 智慧教室915
+11.6 8:30-11:30
+ 场次：C2 智慧教室913
+11.6 14:30-17:00
+ 选学1
+ 教师赛道备赛指导
+ 场次：D1 智慧教室913
+11.6 14:30-17:30
+ 场次：D2 智慧教室913
+11.7 8:30-11:30
+ 扫描二维码，在线填写报名信息 
+ 确因时间安排无法参加集中培训的教师，亦可自行参加其他正规机构举办的同类专题培训，并于11月15日前向招就处提交培训证书复印件完成备案。
+ 四、相关要求
+ 1.各学院应充分认识大赛对提升人才培养质量、展示育人成果的重要作用，积极组织不少于3名教师参训。鼓励专业课教师参与大赛指导，并将赛事理念融入教学改革与创新实践。
+ 2.就业指导课程教师原则上须全员参训，并积极承担大赛指导工作。其指导的优秀作品经审核通过后，可通过绿色通道直接晋级校级决赛，不占学院推荐名额。
+ 3.未履行指导职责的就业指导教师，不参与当学期就业指导课程教学质量院部评价，同时不得申报当年度省教育厅就业创业类相关研究课题及学校教改、教学创新等项目。
+ 4.参训教师须按要求完成全部学习内容，严格遵守培训纪律，严禁迟到早退；课程内容仅限集中学习，禁止私自录制、传播。
+ 招生与就业处
+ 2025年11月4日

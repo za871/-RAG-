@@ -1,0 +1,33 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门（单位）：
+ 为深入学习贯彻党的二十大和二十届二中、三中全会精神，贯彻落实习近平总书记关于哲学社会科学工作的重要论述和在河南考察时重要讲话精神，支持高水平哲学社会科学原创学术著作出版，推出具有学术传承创新价值的精品力作，省教育厅决定开展2026年度河南省高校哲学社会科学优秀著作资助项目申报工作，现将我校有关事项通知如下：
+ 一、资助范围
+ 1.学习宣传研究阐释党的创新理论特别是习近平新时代中国特色社会主义思想的最新成果；
+ 2.对学术发展具有重要推动作用的基础性研究和具有原创性的理论研究成果；
+ 3.科学理论与生产实践紧密结合并能带来较大社会效益的应用研究成果；
+ 4.具有重要学术价值和社会影响的文献研究和译著，不含工具书、论文及论文集、教材、研究报告、软件等。
+ 二、申报条件
+ 1.申报著作须坚持正确的政治方向、文字精炼、标注规范，具有重要的学术价值，无意识形态问题。
+ 2.申报人必须是普通高等学校的在职在编教师，具有良好的政治思想素质和独立开展科研工作能力；每个申请人只能申报一个项目；多人合作完成的须以第一作者名义申报。
+ 3.申报著作必须是已完成的书稿。
+ 4.有下列情形之一的不可申报：
+ （1）已得到其他项目资助或其他单位出版资助的成果；（2）申请成果存在知识产权纠纷的；
+ （3）已出版的成果；
+ （4）申请人所主持的河南省高校哲学社会科学研究项目三年内因各种原因被撤销者。
+ 三、申报限额
+ 本次申报我校限额1项
+ 四、申报办法
+ 1.本次申报以部门为单位集中申报，不受理个人申报。各部门应落实意识形态工作责任制，对申报材料严格把关，确保填报信息的准确、真实，并组织专家进行初审，提高申报质量。
+ 2.申报优秀著作资助需提交以下材料：
+ （1）《河南省高校哲学社会科学优秀著作资助申请评审书》一式5份，其中3份作匿名处理，不得出现姓名、所在学校等信息。申请人可登录河南省高校哲学社会科学研究信息网（https://jyt.henan.gov.cn/sk）自行下载填写、打印。
+ （2）已完成的书稿4套（书稿匿名，不得出现姓名、所在学校等相关信息；如书稿超过50万字，需另外报送4份成果概要--含全书目录、参考文献、2万字左右的成果内容介绍），书稿和成果概要均用A4纸双面印制、左侧装订成册。
+ （3）书稿查重报告1份，重复率20%以内。
+ 3.部门填写提交《河南省高校哲学社会科学优秀著作资助申报一览表》1份，并加盖部门公章。
+ 4.以上材料于2025年7月18日前报送至科研处C0821，电子版发至邮箱kycxm@hait.edu.cn。
+ 五、出版说明
+ 经评审确定的优秀著作成果，采取以下两种方式资助出版：1.由省教育厅联系郑州大学出版社统一出版。2.已与国内权威出版社签订出版协议并确定出版者，由省教育厅给予一定经费资助出版。所有出版成果均需在显著位置标注“河南省高等学校哲学社会科学优秀著作卓越文库”。
+ 联系人：科研处项目科 
+ 联系电话：3691213
+ 科研处（学科办）
+ 2025年6月24日

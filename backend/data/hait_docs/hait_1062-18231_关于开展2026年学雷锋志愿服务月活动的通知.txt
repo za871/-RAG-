@@ -1,0 +1,39 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正小标宋_GBK";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} @font-face{ font-family:"楷体_GB2312";} @list l0:level1{ mso-level-start-at:2; mso-level-number-format:chinese-counting; mso-level-suffix:none; mso-level-text:"（%1）"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0.0000pt; text-indent:0.0000pt;} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各基层团委、学生组织:
+ 2026年3月5日是第63个学雷锋纪念日，是第27个中国青年志愿者服务日。为深入学习贯彻党的二十大和二十届历次全会精神，深入贯彻习近平总书记致中国志愿服务联合会第三届会员代表大会重要贺信精神，完善新时代青年志愿服务体系，引领全校广大团员青年传承雷锋精神，弘扬志愿精神，建功高效能治理，为奋力谱写中原大地推进中国式现代化新篇章贡献青春力量，决定在我校开展2026年学雷锋志愿服务月活动，现将有关事项通知如下:
+ 一、活动主题
+ 青春奋进“十五五” 志愿建功新时代
+ 二、活动时间
+ 2026年3月
+ 三、活动人员
+ 全体在校生
+ 四、活动内容
+ （一）开展“青春奋进‘十五五’ 志愿建功新时代”主题团日活动
+ 各团支部要开展一次主题团日活动，通过主题演讲、情景再现、互动交流等多种形式，讲好新时代雷锋故事，涵育家国情怀，展现青年志愿力量。
+ （二）聚焦国家战略，服务学校发展
+ 围绕乡村振兴、科教兴国、绿色发展、对外开放等国家战略，组织青年志愿者勇当先锋，充分发挥学生自身学科特长，开展形式多样的志愿服务活动。聚焦黄河流域生态保护，组织青年志愿者开展生态文明宣讲、校园及周边植绿增绿、巡河净滩、绿色研学等活动；深入乡村实施政策宣讲、农技推广、乡风文明建设等乡村振兴服务；讲好河南故事。
+ （三）深入开展“我为同学做实事”主题活动
+ 持续深化“我为同学做实事”主题活动，围绕学生在学业发展、心理健康、素养提升、权益维护、生活保障等方面的普遍需求和现实困难，组织开展特色实践活动，切实做到为学生们解决问题，推动学生全面综合发展。
+ （四）开展社区志愿服务活动
+ 深化青年志愿者服务社区行动，持续开展助老“金晖行动”、青少年关爱帮扶、助残“阳光行动”、心理健康教育等志愿服务。立足地方实际，在重点社区建立常态化接力服务队，组织动员社区青少年积极参与，精心培育特色化、品牌化社区服务项目，切实满足社区群众多样化服务需求，以青春力量助力基层治理效能提升。
+ （五）开展文明校园志愿服务
+ 组织青年志愿者围绕校园环境整治、公共秩序维护、文明行为引导、文明礼仪宣传等重点内容开展实践服务，引导广大学生自觉践行文明规范，弘扬校园新风正气，营造整洁有序、文明和谐、向上向善的校园环境，以实际行动助力文明校园建设走深走实。
+ （六）其他志愿服务活动
+ 开展力所能及的扶弱助残、社会服务、爱心公益等各类社会关注、群众所需、青年能为的志愿服务活动。
+ 五、工作要求
+ （一）提高政治站位，强化思想引领
+ 各基层团委、学生组织要深刻把握新时代学雷锋活动的重要意义，将其作为加强青年思想政治引领、培育和践行社会主义核心价值观的重要载体，引导广大团员青年感悟雷锋精神内涵，厚植爱党爱国爱校情怀。
+ （二）突出主题主线，丰富活动载体
+ 紧扣活动主题，结合学院专业特色与青年特点，围绕文明校园建设、心理健康服务、学业帮扶、社区实践、公益服务、敬老助困等内容，策划开展形式多样、贴近学生、务实有效的志愿服务活动，杜绝形式主义。
+ （三）加强组织统筹，严守安全底线
+ 健全活动组织机制，明确责任分工，规范志愿服务流程，强化安全教育与管理，确保活动有序、安全、高效开展。活动过程中，要自觉维护学校形象和青年志愿者良好风貌。
+ （四）强化宣传引导，营造浓厚氛围
+ 充分利用校园新媒体、宣传栏、主题班会等阵地，及时宣传活动动态、典型事迹和优秀志愿者风采，讲好雷锋故事，传播青春正能量，推动学雷锋活动常态化、长效化。
+ 六、材料报送
+ （一）活动策划
+ 各基层团委需结合专业特点和学生特长,做好学雷锋志愿服务月活动策划，于3月9日（周一）前将电子版发送至邮箱：hngxyxtw@163.com。
+ （二）活动总结材料
+ 各基层团委及时报送学雷锋志愿服务月材料，公众号相关推送链接于3月29日（周日）前分享至工作群，活动总结（800字左右）、活动照片（不少于5张）于3月29日（周日）前一并报送至邮箱：hngxyxtw@163.com。
+ 共青团河南工学院委员会
+ 2026年3月5日

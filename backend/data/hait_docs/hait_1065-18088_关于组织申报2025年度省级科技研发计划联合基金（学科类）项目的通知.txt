@@ -1,0 +1,25 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; font-size:13.5000pt;} span.16{ font-family:'Times New Roman'; font-size:13.5000pt;} span.17{ font-family:'Times New Roman'; color:rgb(128,0,128);} span.18{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} span.19{ font-family:'Times New Roman'; color:rgb(0,0,255);} span.20{ font-family:'Times New Roman'; font-size:13.5000pt;} span.21{ font-family:'Times New Roman';} span.22{ font-family:'Times New Roman'; font-size:13.5000pt;} span.23{ font-family:'Times New Roman'; color:rgb(255,255,255); font-weight:bold;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+各部门：
+2025年度省级科技研发计划联合基金（学科类）项目，以提升科技创新支撑能力为导向，采用“定向支持+公开竞争”的方式，重点支持我省高等院校、科研院所等单位，围绕基础研究、应用研究、交叉学科及前沿技术研究开展协同攻关，进一步加强一流学科建设与培育，加快青年科研人才培养步伐，服务我省高质量发展大局。根据河南省科学技术厅 河南省财政厅《关于组织申报2025年度省级科技研发计划联合基金（学科类）项目的通知》（豫科项〔2025〕53号）要求，现将我校有关事项通知如下。
+一、申报要求
+（一）项目重点支持特色学科建设和青年人才培养，分为应用研究类方向和基础研究类方向。项目申报须严格遵循联合基金指南发布的资助领域范围，对超出指南范围的项目申请不予受理。不接受涉密内容项目申报，请作脱密处理。
+（二）项目申报实行限额推荐，具体申报指标将在申报系统中设置（系统暂未公布）；联合资助方申报对应领域方向不受名额限制。
+（三）鼓励科研人员持续开展创新研究。除国家和省重大科技项目（含重点研发计划项目）及2025年度已获省财政资金支持的项目外，允许有其他省级科技计划在研项目的负责人申报；已承担省财政资助的科研项目、逾期未结题验收的，不得申报。同一申报人限申报一项联合基金项目。
+（四）提高项目推荐质量，各申报单位应加强科研伦理和学风建设，对照指南内容结合自身优势进行项目凝练，同一项目已获得省级财政资金支持的，严禁重复或变相重复申请；项目申报单位拟推荐项目情况需经内部公示。
+（五）加强科研诚信建设，申请人应对申请书真实性负责。申请人使用虚假材料申请项目，一经查实，视情节轻重，除撤销立项项目、收回已拨经费外，还将列入科技计划项目不良信用行为记录。
+项目申报具体要求和指南方向详见附件。
+二、受理时间
+个人和法人在线填报、提交申请材料的时间为截止至2026年1月8日18:00。本次申报材料以院部为单位统一报送至行政楼C0821办公室，每个项目需报送纸质材料2份（正反打印、简装）及电子版（个人申请书和相关附件合并为一个PDF文件，发送至科研处邮箱kycxm@hait.edu.cn），逾期不再接收。
+三、联系方式
+（一）校外联系方式
+1.系统注册、填报、提交等问题咨询
+省科学技术情报中心： 0371-65974111
+2.综合业务咨询
+科技项目统筹推进处 0371-86561692
+（二）校内联系方式
+联系人：科研处项目科
+联系电话：3691212
+邮箱：kycxm@hait.edu.cn
+科研处（学科办）
+2025年12月19日

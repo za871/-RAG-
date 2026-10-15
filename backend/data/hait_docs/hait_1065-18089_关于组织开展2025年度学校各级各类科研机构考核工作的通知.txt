@@ -1,0 +1,21 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} @font-face{ font-family:"仿宋";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各院（部）：
+ 根据《河南工学院科研机构年度考核办法》相关规定，为加强对我校科研机构建设与管理，客观评价科研机构的工作成效，促进科研机构在学校科学研究、学科建设和人才培养中发挥充分的作用，决定对校内各级各类科研机构进行考核。
+ 一、考核范围
+ 学校各级各类科研机构，包括省级重点实验室、省级工程技术研究中心、省级工程研究中心、市重点实验室、市工程技术研究中心以及校设科研机构等；2025年度新成立的各级各类科研机构暂不参与本次考核，具体考核名单见附件1。所有需要考核的机构独立参与考核，暂不优化重组，待本年度考核完毕，次年4月统一进行优化重组工作。
+ 二、考核办法与原则
+ 1、按照新文件《河南工学院科研机构年度考核办法》文件中科研绩效积分标准规定进行考核（附件2、附件5），各科研机构填报《河南工学院科研机构建设进展年度评估考核表》（附件3）（各类成果完成人中，请在机构负责人姓名后加“*”），并提交佐证材料，负责人对材料真实性负责；
+ 2、机构成员以2022年度机构人员确认名单为准，不得随意增减（附件6）；
+ 3、每一项成果仅供一个科研机构使用，若重复使用则使用该成果的科研机构，该项成果均不计分。已录入科研系统的论文、项目、专利成果不再提供复印件，未录入的则需提供相应佐证，否则不予认定。
+ 4、不计分成果不允许填写，若自评得分高于最终评审得分50%以上，则直接按照最低格次认定；
+ 5、各院（部）结合以上原则审核所属科研机构的《河南工学院科研机构建设进展年度评估考核表》及佐证材料的真实性，院长或科研副院长签字，并在考核表上加盖部门公章。
+ 三、材料报送
+ 1、《河南工学院科研机构建设进展年度评估考核汇总表》（附件4）纸质版一份，电子版（word版）一份；
+ 2、各科研机构《河南工学院科研机构建设进展年度评估考核表》和佐证材料（未录入科研系统的成果），纸质材料合并简装（一式一份），完整版电子材料（PDF版）一份，命名为“学院-科研机构名称-负责人”。
+ 以上材料由院部汇总审核并加盖院部公章后统一报送，不接受个人报送。截止日期：12月31日，如逾期未报按不合格处理。
+ 四、联系方式
+ 联系人：科研处（学科办）项目管理科
+ 接收地址：办公楼C821
+ 科研处（学科办）
+ 2025年12月22日

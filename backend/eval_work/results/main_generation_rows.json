@@ -1,0 +1,6587 @@
+{
+ "hybrid:rerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "question": "“反洗钱知识进校园”活动是由哪家单位主办、由学校哪个单位承办的？",
+   "answer": "“反洗钱知识进校园”活动由中国人民银行新乡市分行主办，由我校经济学院承办 [1]。",
+   "answer_raw": "“反洗钱知识进校园”活动由中国人民银行新乡市分行主办，由我校经济学院承办 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "filename": "hait_1060-18876_关于开展“反洗钱知识进校园”活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9682862758636475
+   ],
+   "usage": {
+    "input_tokens": 753,
+    "output_tokens": 60,
+    "total_tokens": 813,
+    "input_token_details": {
+     "cache_read": 512
+    },
+    "output_token_details": {
+     "reasoning": 34
+    }
+   },
+   "latency_ms": 6044.405200002075,
+   "retrieval_ms": 2828.92,
+   "llm_ms": 3212.58,
+   "total_ms": 6044.25,
+   "gold_doc_ids": [
+    "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "question": "河南工学院招博士时，如果本人不需要学校解决配偶工作，安家费会有什么变化？",
+   "answer": "不需要学校解决配偶工作的，安家费会额外上浮3万元 [1]。\n\n- 博士研究生（博士后）按一、二、三类引进并执行相应待遇，其中安家费已有明确标准：一类80万元；二类紧缺专业60万元、其他专业50万元；三类紧缺专业30万元、其他专业25万元 [1]。\n- 在此基础上，若本人不需要解决配偶工作，其安家费额外上浮3万元 [1]。",
+   "answer_raw": "不需要学校解决配偶工作的，安家费会额外上浮3万元 [1]。\n\n- 博士研究生（博士后）按一、二、三类引进并执行相应待遇，其中安家费已有明确标准：一类80万元；二类紧缺专业60万元、其他专业50万元；三类紧缺专业30万元、其他专业25万元 [1]。\n- 在此基础上，若本人不需要解决配偶工作，其安家费额外上浮3万元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "filename": "hait_1063-18291_河南工学院2026年诚聘国内外高层次人才公告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9934272766113281
+   ],
+   "usage": {
+    "input_tokens": 995,
+    "output_tokens": 182,
+    "total_tokens": 1177,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 83
+    }
+   },
+   "latency_ms": 6879.3525000000955,
+   "retrieval_ms": 3755.35,
+   "llm_ms": 3122.63,
+   "total_ms": 6879.28,
+   "gold_doc_ids": [
+    "c6c1ec8d-561b-45dd-9474-7a988cb8dc06"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "question": "教师参加“智变·重构·共生”AI时代教学新生态专题培训，是通过什么方式授课的？",
+   "answer": "本次培训采用超星在线直播方式授课，并支持回看 [1]。\n\n- 参训教师使用“学习通”APP，在首页右上角扫码或输入班级邀请码加入课程班级，进入“课程—我学的课—章节”观看直播或回放 [1]。",
+   "answer_raw": "本次培训采用超星在线直播方式授课，并支持回看 [1]。\n\n- 参训教师使用“学习通”APP，在首页右上角扫码或输入班级邀请码加入课程班级，进入“课程—我学的课—章节”观看直播或回放 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "filename": "hait_1063-18783_关于开展2026年秋季学期“智变·重构·共生” AI时代教学新生态构建与教师发展公益直播周学习的.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9061340689659119
+   ],
+   "usage": {
+    "input_tokens": 795,
+    "output_tokens": 93,
+    "total_tokens": 888,
+    "input_token_details": {
+     "cache_read": 640
+    },
+    "output_token_details": {
+     "reasoning": 31
+    }
+   },
+   "latency_ms": 5361.50120000093,
+   "retrieval_ms": 3622.85,
+   "llm_ms": 1737.38,
+   "total_ms": 5361.39,
+   "gold_doc_ids": [
+    "1dd2a31c-b08a-4735-902d-525c74b98b7f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-04",
+   "status": "error",
+   "error": "LLMError: 调用大模型失败（model=deepseek-v4-flash）：Request timed out.",
+   "latency_ms": 155253.87620000402
+  },
+  {
+   "qid": "b0-05",
+   "status": "error",
+   "error": "LLMError: 调用大模型失败（model=deepseek-v4-flash）：Request timed out.",
+   "latency_ms": 155431.44570000004
+  },
+  {
+   "qid": "b0-06",
+   "status": "ok",
+   "question": "报名“理响中原 社科润心”微视频，作品需要发布到哪些平台才算完成上传？",
+   "answer": "报名“理响中原 社科润心”微视频，完成上传需要发布到以下平台：\n\n- 参赛视频作品须由学校审核通过后，上传至“顶端新闻”客户端或哔哩哔哩（B站）公开发布，且全程公开可播、不得下架或设密 [1]。\n- 同时，还须将学校审核通过后的视频上传至百度网盘共享，以便于存档复核 [1]。",
+   "answer_raw": "报名“理响中原 社科润心”微视频，完成上传需要发布到以下平台：\n\n- 参赛视频作品须由学校审核通过后，上传至“顶端新闻”客户端或哔哩哔哩（B站）公开发布，且全程公开可播、不得下架或设密 [1]。\n- 同时，还须将学校审核通过后的视频上传至百度网盘共享，以便于存档复核 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "11010882-0287-4a01-94c6-65155abecedf",
+     "filename": "hait_1065-18743_关于组织报送2026年度河南省“理响中原 社科润心”微视频的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.5730938911437988,
+    0.4063517153263092
+   ],
+   "usage": {
+    "input_tokens": 1678,
+    "output_tokens": 220,
+    "total_tokens": 1898,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 123
+    }
+   },
+   "latency_ms": 115770.7847000056,
+   "retrieval_ms": 3704.23,
+   "llm_ms": 4060.76,
+   "total_ms": 7766.67,
+   "gold_doc_ids": [
+    "11010882-0287-4a01-94c6-65155abecedf"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-07",
+   "status": "ok",
+   "question": "各部门最晚要在什么时候、把自查材料交到哪个房间，否则就拿不到本季度的文明奖了？",
+   "answer": "最晚须在9月30日（本周三）下午下班前，将自查材料以纸质形式、加盖公章后交到办公楼A0912房间，逾期不报者视为自动放弃本季度文明奖 [1]。\n\n分点说明：\n- 截止时间：9月30日（本周三）下午下班前 [1]。\n- 提交方式：以纸质形式提交，并加盖公章 [1]。\n- 提交地点：办公楼A0912房间 [1]。\n- 逾期后果：视为自动放弃本季度文明奖 [1]。",
+   "answer_raw": "最晚须在9月30日（本周三）下午下班前，将自查材料以纸质形式、加盖公章后交到办公楼A0912房间，逾期不报者视为自动放弃本季度文明奖 [1]。\n\n分点说明：\n- 截止时间：9月30日（本周三）下午下班前 [1]。\n- 提交方式：以纸质形式提交，并加盖公章 [1]。\n- 提交地点：办公楼A0912房间 [1]。\n- 逾期后果：视为自动放弃本季度文明奖 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "b20471de-7515-48e1-a648-6275f456ed02",
+     "filename": "hait_1058-18905_关于报送2026年第三季度文明奖自查情况的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9759357571601868
+   ],
+   "usage": {
+    "input_tokens": 530,
+    "output_tokens": 188,
+    "total_tokens": 718,
+    "input_token_details": {
+     "cache_read": 256
+    },
+    "output_token_details": {
+     "reasoning": 69
+    }
+   },
+   "latency_ms": 5901.9278999985545,
+   "retrieval_ms": 2933.56,
+   "llm_ms": 2967.08,
+   "total_ms": 5901.83,
+   "gold_doc_ids": [
+    "b20471de-7515-48e1-a648-6275f456ed02"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "APITimeoutError: Request timed out."
+   }
+  },
+  {
+   "qid": "b0-08",
+   "status": "error",
+   "error": "LLMError: 调用大模型失败（model=deepseek-v4-flash）：Request timed out.",
+   "latency_ms": 156273.7449999986
+  },
+  {
+   "qid": "b0-09",
+   "status": "error",
+   "error": "LLMError: 调用大模型失败（model=deepseek-v4-flash）：Request timed out.",
+   "latency_ms": 154353.88619999867
+  },
+  {
+   "qid": "b0-10",
+   "status": "ok",
+   "question": "推荐2027年全国“最美教师”河南储备人选，对被推荐教师的从教年限有什么要求？",
+   "answer": "结论：原则上要求教龄5年以上，事迹特别突出可适当放宽 [1]。\n\n说明：\n- 推荐标准中对从教年限的要求是：原则上教龄5年以上，事迹特别突出可适当放宽 [1]。",
+   "answer_raw": "结论：原则上要求教龄5年以上，事迹特别突出可适当放宽 [1]。\n\n说明：\n- 推荐标准中对从教年限的要求是：原则上教龄5年以上，事迹特别突出可适当放宽 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3695880d-c33e-46cb-9830-686914d330d1",
+     "filename": "hait_1063-18946_关于开展2027年全国“最美教师”河南储备人选推荐工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9925602674484253,
+    0.9921477437019348
+   ],
+   "usage": {
+    "input_tokens": 1427,
+    "output_tokens": 93,
+    "total_tokens": 1520,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 46
+    }
+   },
+   "latency_ms": 6245.053699996788,
+   "retrieval_ms": 3840.4,
+   "llm_ms": 2403.32,
+   "total_ms": 6244.96,
+   "gold_doc_ids": [
+    "3695880d-c33e-46cb-9830-686914d330d1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-11",
+   "status": "ok",
+   "question": "学校2026年专业技术人员继续教育，全年累计学时以及公需科目学时的下限各是多少？",
+   "answer": "学校2026年专业技术人员继续教育全年累计学时下限为不少于90学时，其中公需科目不少于30学时[1]。\n\n分点说明：\n- 全年累计应不少于90学时[1]。\n- 公需科目不少于30学时[1]。\n- 同时，专业科目不少于60学时[1]。",
+   "answer_raw": "学校2026年专业技术人员继续教育全年累计学时下限为不少于90学时，其中公需科目不少于30学时[1]。\n\n分点说明：\n- 全年累计应不少于90学时[1]。\n- 公需科目不少于30学时[1]。\n- 同时，专业科目不少于60学时[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "filename": "hait_1063-18825_关于做好2026年专业技术人员继续教育工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9965128302574158,
+    0.6510135531425476
+   ],
+   "usage": {
+    "input_tokens": 1363,
+    "output_tokens": 112,
+    "total_tokens": 1475,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 44
+    }
+   },
+   "latency_ms": 5535.184299995308,
+   "retrieval_ms": 3294.78,
+   "llm_ms": 2239.3,
+   "total_ms": 5535.11,
+   "gold_doc_ids": [
+    "bd26c29b-fc75-40bf-a031-79186d070732"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-12",
+   "status": "ok",
+   "question": "第十八届全国大学生数学竞赛初赛，获奖总名额和一等奖名额分别控制在参赛人数的多少以内？",
+   "answer": "第十八届全国大学生数学竞赛初赛获奖总名额不超过赛区总参赛人数的30%，其中一等奖不超过6% [1]。",
+   "answer_raw": "第十八届全国大学生数学竞赛初赛获奖总名额不超过赛区总参赛人数的30%，其中一等奖不超过6% [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "148364a1-228b-4539-8328-2d498f0677c8",
+     "filename": "hait_1060-18850_关于参加第十八届全国大学生数学竞赛的报名通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.918001115322113
+   ],
+   "usage": {
+    "input_tokens": 936,
+    "output_tokens": 49,
+    "total_tokens": 985,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 22
+    }
+   },
+   "latency_ms": 4710.0267999994685,
+   "retrieval_ms": 3566.1,
+   "llm_ms": 1142.83,
+   "total_ms": 4709.95,
+   "gold_doc_ids": [
+    "148364a1-228b-4539-8328-2d498f0677c8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-13",
+   "status": "ok",
+   "question": "2026年度河南省社科规划项目中，重大项目立项能够获得多少资助经费？",
+   "answer": "2026年度河南省哲学社会科学规划项目中，重大项目资助20万元 [3]。\n\n- 重大项目资助经费为20万元 [3]。\n- 项目立项后先拨付40%启动资金，剩余经费在项目通过结项鉴定后拨付 [3]。",
+   "answer_raw": "2026年度河南省哲学社会科学规划项目中，重大项目资助20万元 [3]。\n\n- 重大项目资助经费为20万元 [3]。\n- 项目立项后先拨付40%启动资金，剩余经费在项目通过结项鉴定后拨付 [3]。",
+   "citations": [
+    {
+     "index": 3,
+     "document_id": "4de59af8-fae0-4e8d-ae06-1a1116f9cc71",
+     "filename": "hait_1065-18725_关于组织申报2026年河南省哲学社会科学规划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    0.8595008254051208,
+    0.700840950012207,
+    0.6305580139160156,
+    0.587722659111023
+   ],
+   "usage": {
+    "input_tokens": 2700,
+    "output_tokens": 121,
+    "total_tokens": 2821,
+    "input_token_details": {
+     "cache_read": 0
+    },
+    "output_token_details": {
+     "reasoning": 65
+    }
+   },
+   "latency_ms": 4244.4123000022955,
+   "retrieval_ms": 3014.51,
+   "llm_ms": 1228.81,
+   "total_ms": 4244.33,
+   "gold_doc_ids": [
+    "4de59af8-fae0-4e8d-ae06-1a1116f9cc71"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-14",
+   "status": "ok",
+   "question": "2026年10月16日学校安排了两场学术讲座，这两场讲座的题目分别是什么？",
+   "answer": "2026年10月16日安排的两场学术讲座题目分别是：\n\n1. 《激光喷丸强化技术及其应用》，时间是2026年10月16日（星期五）下午4:30，地点在教1楼C208[1]。\n2. 《高速铜缆的设计与挑战》，时间是2026年10月16日（周五）上午10:00-11:00，地点在教学1号楼A104[2]。",
+   "answer_raw": "2026年10月16日安排的两场学术讲座题目分别是：\n\n1. 《激光喷丸强化技术及其应用》，时间是2026年10月16日（星期五）下午4:30，地点在教1楼C208[1]。\n2. 《高速铜缆的设计与挑战》，时间是2026年10月16日（周五）上午10:00-11:00，地点在教学1号楼A104[2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "90419e11-c50b-488d-b6d6-247127d0298d",
+     "filename": "hait_1060-18948_学术讲座——《激光喷丸强化技术及其应用》.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "ffd14dbf-bb63-486e-ae7b-25d9ad2dc9d0",
+     "filename": "hait_1060-18942_学术讲座——《高速铜缆的设计与挑战》.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    0.977721631526947,
+    0.9626825451850891,
+    0.5262470245361328,
+    0.4520855247974396
+   ],
+   "usage": {
+    "input_tokens": 1673,
+    "output_tokens": 192,
+    "total_tokens": 1865,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 99
+    }
+   },
+   "latency_ms": 5087.640000005194,
+   "retrieval_ms": 3021.14,
+   "llm_ms": 2065.13,
+   "total_ms": 5087.56,
+   "gold_doc_ids": [
+    "ffd14dbf-bb63-486e-ae7b-25d9ad2dc9d0",
+    "90419e11-c50b-488d-b6d6-247127d0298d"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-15",
+   "status": "ok",
+   "question": "学校向上级推荐的“河南省教育厅学术技术带头人”和“全国最美教师河南储备人选”名额各是多少？",
+   "answer": "学校向上级推荐的两类人选名额分别为：\n\n1. “河南省教育厅学术技术带头人”推荐名额为2名 [1]。\n2. “全国最美教师河南储备人选”推荐名额为1名 [2]。",
+   "answer_raw": "学校向上级推荐的两类人选名额分别为：\n\n1. “河南省教育厅学术技术带头人”推荐名额为2名 [1]。\n2. “全国最美教师河南储备人选”推荐名额为1名 [2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c5cab3c2-17f5-49bf-be30-d4300dff0a88",
+     "filename": "hait_1063-18722_关于做好2026年度河南省教育厅学术技术带头人人选推荐工作的通知.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "3695880d-c33e-46cb-9830-686914d330d1",
+     "filename": "hait_1063-18946_关于开展2027年全国“最美教师”河南储备人选推荐工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9662975668907166,
+    0.7996606826782227
+   ],
+   "usage": {
+    "input_tokens": 1386,
+    "output_tokens": 78,
+    "total_tokens": 1464,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 31
+    }
+   },
+   "latency_ms": 4777.761699995608,
+   "retrieval_ms": 3809.33,
+   "llm_ms": 966.96,
+   "total_ms": 4777.69,
+   "gold_doc_ids": [
+    "c5cab3c2-17f5-49bf-be30-d4300dff0a88",
+    "3695880d-c33e-46cb-9830-686914d330d1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-16",
+   "status": "ok",
+   "question": "河南工学院第八届教师课堂教学创新比赛共设置了哪几个赛道？",
+   "answer": "河南工学院第八届教师课堂教学创新比赛共设置7个赛道：新工科、新文科、基础课程、课程思政、产教融合、人工智能、实验教学 [1]。",
+   "answer_raw": "河南工学院第八届教师课堂教学创新比赛共设置7个赛道：新工科、新文科、基础课程、课程思政、产教融合、人工智能、实验教学 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "effd8815-b373-4104-9c49-97421f9983d9",
+     "filename": "hait_1064-18909_关于举办河南工学院第八届教师课堂教学创新比赛的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9575828909873962
+   ],
+   "usage": {
+    "input_tokens": 1005,
+    "output_tokens": 75,
+    "total_tokens": 1080,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 35
+    }
+   },
+   "latency_ms": 5117.934200003219,
+   "retrieval_ms": 3688.69,
+   "llm_ms": 1428.06,
+   "total_ms": 5117.87,
+   "gold_doc_ids": [
+    "effd8815-b373-4104-9c49-97421f9983d9"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-01",
+   "status": "ok",
+   "question": "申报2027年度省软科学研究计划项目时，申请书的第二、三、四、五部分不允许出现哪些内容？",
+   "answer": "申报2027年度省软科学研究计划项目时，申请书第二、三、四、五部分不得出现项目负责人、申请单位、个人代表作等相关信息 [1]。\n\n说明：\n- 项目申请人填写申报材料时，须按照填报要求注意信息回避，即上述部分不得出现项目负责人、申请单位、个人代表作等相关信息 [1]。\n- 对未按要求进行信息回避的，将按无效申报处理 [1]。",
+   "answer_raw": "申报2027年度省软科学研究计划项目时，申请书第二、三、四、五部分不得出现项目负责人、申请单位、个人代表作等相关信息 [1]。\n\n说明：\n- 项目申请人填写申报材料时，须按照填报要求注意信息回避，即上述部分不得出现项目负责人、申请单位、个人代表作等相关信息 [1]。\n- 对未按要求进行信息回避的，将按无效申报处理 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0066078e-dc75-4649-9126-389610c8c38f",
+     "filename": "hait_1065-18762_关于组织申报2027年度省软科学研究计划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9930645823478699,
+    0.9927588701248169
+   ],
+   "usage": {
+    "input_tokens": 1692,
+    "output_tokens": 171,
+    "total_tokens": 1863,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 79
+    }
+   },
+   "latency_ms": 7914.674199993897,
+   "retrieval_ms": 5592.97,
+   "llm_ms": 2320.15,
+   "total_ms": 7914.61,
+   "gold_doc_ids": [
+    "0066078e-dc75-4649-9126-389610c8c38f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-02",
+   "status": "ok",
+   "question": "国家语言文字“十五五”科研规划项目的申报中，重大项目的申报人必须具备什么职称？",
+   "answer": "国家语言文字“十五五”科研规划项目申报中，重大项目申报人必须具备正高级专业技术职称 [1]。\n\n依据：申报人应具有副高级以上（含）专业技术职称或者具有博士学位，但不具备以上条件的须提供2名正高级专业技术职称同行专家书面推荐；同时明确规定重大项目申报人必须具有正高级专业技术职称，原则上还应有主持并完成过省部级以上（含）科研项目的经历 [1]。",
+   "answer_raw": "国家语言文字“十五五”科研规划项目申报中，重大项目申报人必须具备正高级专业技术职称 [1]。\n\n依据：申报人应具有副高级以上（含）专业技术职称或者具有博士学位，但不具备以上条件的须提供2名正高级专业技术职称同行专家书面推荐；同时明确规定重大项目申报人必须具有正高级专业技术职称，原则上还应有主持并完成过省部级以上（含）科研项目的经历 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a6184240-5551-4550-821b-fe07a2cdf6e8",
+     "filename": "hait_1065-18766_关于组织申报国家语言文字“十五五”科研规划2026年度项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9987803101539612,
+    0.636076033115387
+   ],
+   "usage": {
+    "input_tokens": 1589,
+    "output_tokens": 106,
+    "total_tokens": 1695,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 16
+    }
+   },
+   "latency_ms": 4717.385100004321,
+   "retrieval_ms": 3302.31,
+   "llm_ms": 1413.72,
+   "total_ms": 4717.32,
+   "gold_doc_ids": [
+    "a6184240-5551-4550-821b-fe07a2cdf6e8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-03",
+   "status": "ok",
+   "question": "第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）的主办单位是哪两家？",
+   "answer": "第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）的主办单位为郑州大学、河南工学院 [1]。",
+   "answer_raw": "第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）的主办单位为郑州大学、河南工学院 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "ba996929-1130-46a0-a516-1ff839a6e919",
+     "filename": "hait_1065-18767_关于举办“第七届电气、电子信息与通信工程 国际学术会议（EEICE 2026)”的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9860554933547974,
+    0.5952231287956238
+   ],
+   "usage": {
+    "input_tokens": 1503,
+    "output_tokens": 47,
+    "total_tokens": 1550,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 16
+    }
+   },
+   "latency_ms": 4388.860999999451,
+   "retrieval_ms": 3337.36,
+   "llm_ms": 1050.36,
+   "total_ms": 4388.79,
+   "gold_doc_ids": [
+    "ba996929-1130-46a0-a516-1ff839a6e919"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-04",
+   "status": "ok",
+   "question": "2027年度河南省高等学校重点科研项目中的指导性计划项目，研究经费从哪里来？",
+   "answer": "2027年度河南省高等学校重点科研项目中的指导性计划项目，其研究经费由承担学校统筹解决，不来自省财政专项经费支持[1]。\n\n具体说明：\n- 指导性计划项目的研究经费，承担学校可统筹使用高校专项业务经费及事业收入给予支持[1]。\n- 与之相对，资助性计划项目的研究经费由省财政专项经费支持，每项3万元[1]。",
+   "answer_raw": "2027年度河南省高等学校重点科研项目中的指导性计划项目，其研究经费由承担学校统筹解决，不来自省财政专项经费支持[1]。\n\n具体说明：\n- 指导性计划项目的研究经费，承担学校可统筹使用高校专项业务经费及事业收入给予支持[1]。\n- 与之相对，资助性计划项目的研究经费由省财政专项经费支持，每项3万元[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "124fd4a0-b9f9-46b0-b3f3-65f46e7ffed8",
+     "filename": "hait_1065-18814_河南省教育厅关于2027年度河南省高等学校重点科研项目计划立项的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.997708797454834,
+    0.9086264967918396
+   ],
+   "usage": {
+    "input_tokens": 1544,
+    "output_tokens": 136,
+    "total_tokens": 1680,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 47
+    }
+   },
+   "latency_ms": 5221.320500000729,
+   "retrieval_ms": 2968.07,
+   "llm_ms": 2252.1,
+   "total_ms": 5221.25,
+   "gold_doc_ids": [
+    "124fd4a0-b9f9-46b0-b3f3-65f46e7ffed8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-05",
+   "status": "ok",
+   "question": "安全生产举报奖励知识网络答题活动要通过哪个客户端参与答题？",
+   "answer": "该活动需通过顶端新闻客户端参与答题 [1]。\n\n- 参与方式为扫描二维码打开顶端新闻客户端参与答题活动 [1]。",
+   "answer_raw": "该活动需通过顶端新闻客户端参与答题 [1]。\n\n- 参与方式为扫描二维码打开顶端新闻客户端参与答题活动 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c1d3c39b-a3d2-48b2-9708-adec3da61d47",
+     "filename": "hait_1070-18776_关于开展安全生产举报奖励知识网络答题活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.7800500392913818
+   ],
+   "usage": {
+    "input_tokens": 618,
+    "output_tokens": 56,
+    "total_tokens": 674,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 26
+    }
+   },
+   "latency_ms": 4490.678899994236,
+   "retrieval_ms": 3014.67,
+   "llm_ms": 1474.93,
+   "total_ms": 4490.62,
+   "gold_doc_ids": [
+    "c1d3c39b-a3d2-48b2-9708-adec3da61d47"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-06",
+   "status": "ok",
+   "question": "国庆假期期间，留校师生被明确禁止擅自进入校园里的哪些地方？",
+   "answer": "国庆假期期间，留校师生被明确禁止擅自进入校园施工区域、楼顶、水域等危险点位[1]。",
+   "answer_raw": "国庆假期期间，留校师生被明确禁止擅自进入校园施工区域、楼顶、水域等危险点位[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "de7c28d5-5864-4775-bf15-0ed552375af8",
+     "filename": "hait_1070-18918_2026年国庆节假期校园安全温馨提示.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9755714535713196
+   ],
+   "usage": {
+    "input_tokens": 878,
+    "output_tokens": 55,
+    "total_tokens": 933,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 28
+    }
+   },
+   "latency_ms": 4132.41079999716,
+   "retrieval_ms": 3229.74,
+   "llm_ms": 901.3,
+   "total_ms": 4132.31,
+   "gold_doc_ids": [
+    "de7c28d5-5864-4775-bf15-0ed552375af8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-07",
+   "status": "ok",
+   "question": "横向科研项目办结项时，交上去的电子材料里每个负责人的文件夹该怎么起名？",
+   "answer": "横向科研项目结项时，电子版材料需按要求建立单人单文件夹[1]，文件夹命名格式为“主持人姓名+项目名称+项目编号”[1]。",
+   "answer_raw": "横向科研项目结项时，电子版材料需按要求建立单人单文件夹[1]，文件夹命名格式为“主持人姓名+项目名称+项目编号”[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "14999d1d-bd46-4b16-bb96-c809755be5be",
+     "filename": "hait_1065-18809_关于组织开展2026年河南工学院横向科研项目第二批次集中结项的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9727862477302551,
+    0.6730538606643677
+   ],
+   "usage": {
+    "input_tokens": 1255,
+    "output_tokens": 110,
+    "total_tokens": 1365,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 74
+    }
+   },
+   "latency_ms": 5180.594299999939,
+   "retrieval_ms": 3341.4,
+   "llm_ms": 1837.82,
+   "total_ms": 5180.53,
+   "gold_doc_ids": [
+    "14999d1d-bd46-4b16-bb96-c809755be5be"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-08",
+   "status": "ok",
+   "question": "省软科学研究计划项目在经费管理上采用什么做法？申报人还要不要编制经费预算？",
+   "answer": "省软科学研究计划项目在经费管理上实行科研经费“包干制”，申报人不再编制项目经费预算 [1]。\n\n具体做法：\n- 实行科研经费“包干制”，申报人不再编制项目经费预算，也不需要填写申请省财政经费资助额度 [1]。\n- 同时实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责 [1]。",
+   "answer_raw": "省软科学研究计划项目在经费管理上实行科研经费“包干制”，申报人不再编制项目经费预算 [1]。\n\n具体做法：\n- 实行科研经费“包干制”，申报人不再编制项目经费预算，也不需要填写申请省财政经费资助额度 [1]。\n- 同时实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0066078e-dc75-4649-9126-389610c8c38f",
+     "filename": "hait_1065-18762_关于组织申报2027年度省软科学研究计划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9604858756065369,
+    0.9349130988121033,
+    0.7090561389923096
+   ],
+   "usage": {
+    "input_tokens": 2227,
+    "output_tokens": 136,
+    "total_tokens": 2363,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 42
+    }
+   },
+   "latency_ms": 5185.58689999918,
+   "retrieval_ms": 3402.57,
+   "llm_ms": 1780.4,
+   "total_ms": 5185.48,
+   "gold_doc_ids": [
+    "0066078e-dc75-4649-9126-389610c8c38f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-09",
+   "status": "ok",
+   "question": "申报2026年省社科规划项目时，论证材料里绝对不能暴露什么东西？",
+   "answer": "论证材料（《项目论证活页》）中绝对不能出现任何可能透露申报人身份的信息[1]。\n\n具体包括：不得出现“研究基础”等前期研究基础内容，也不得出现包括前期研究基础在内的任何可能透露申请人身份信息的内容，否则不予受理[1]。",
+   "answer_raw": "论证材料（《项目论证活页》）中绝对不能出现任何可能透露申报人身份的信息[1]。\n\n具体包括：不得出现“研究基础”等前期研究基础内容，也不得出现包括前期研究基础在内的任何可能透露申请人身份信息的内容，否则不予受理[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6b18bcb5-f9d0-41aa-9692-66e4fdf5880a",
+     "filename": "hait_1065-18760_关于做好2026年省社科规划项目申报工作的补充通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9713528156280518,
+    0.9636155962944031,
+    0.7865377068519592
+   ],
+   "usage": {
+    "input_tokens": 1971,
+    "output_tokens": 358,
+    "total_tokens": 2329,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 298
+    }
+   },
+   "latency_ms": 6451.72630000161,
+   "retrieval_ms": 3608.41,
+   "llm_ms": 2842.14,
+   "total_ms": 6451.65,
+   "gold_doc_ids": [
+    "6b18bcb5-f9d0-41aa-9692-66e4fdf5880a"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-10",
+   "status": "ok",
+   "question": "参加“三微”作品征集展播活动，把作品交给保卫处时要用什么介质报送？",
+   "answer": "报送介质为U盘或光盘 [1]。\n\n具体说明：\n- 作品需以U盘或光盘形式报送至保卫处302办公室 [1]。\n- 同时还需报送《作品版权承诺书》《作品登记表》纸质版，各院部负责人签字并加盖公章 [1]。\n- 报送截止时间为10月15日（星期日）前 [1]。",
+   "answer_raw": "报送介质为U盘或光盘 [1]。\n\n具体说明：\n- 作品需以U盘或光盘形式报送至保卫处302办公室 [1]。\n- 同时还需报送《作品版权承诺书》《作品登记表》纸质版，各院部负责人签字并加盖公章 [1]。\n- 报送截止时间为10月15日（星期日）前 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3687c4f6-0611-44a8-8c64-2b30a7adae84",
+     "filename": "hait_1070-18911_关于组织参加“深化扫黑除恶 守护你我平安”“三微”作品征集展播活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.8222387433052063
+   ],
+   "usage": {
+    "input_tokens": 498,
+    "output_tokens": 112,
+    "total_tokens": 610,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 32
+    }
+   },
+   "latency_ms": 4753.409800003283,
+   "retrieval_ms": 2964.24,
+   "llm_ms": 1788.02,
+   "total_ms": 4753.34,
+   "gold_doc_ids": [
+    "3687c4f6-0611-44a8-8c64-2b30a7adae84"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-11",
+   "status": "ok",
+   "question": "2026年度河南省政府决策研究招标课题的A类项目能拿到多少资助经费？",
+   "answer": "A类项目资助3万元[1]。立项后先拨付2万元启动资金，剩余经费在项目通过结项鉴定后拨付[1]。",
+   "answer_raw": "A类项目资助3万元[1]。立项后先拨付2万元启动资金，剩余经费在项目通过结项鉴定后拨付[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "5ee0606f-8c24-48be-afed-5f8d73f068b0",
+     "filename": "hait_1065-18755_关于组织申报2026年度河南省政府决策研究课题招标工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.8893011808395386,
+    0.7483161687850952,
+    0.4821721911430359
+   ],
+   "usage": {
+    "input_tokens": 2009,
+    "output_tokens": 66,
+    "total_tokens": 2075,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 32
+    }
+   },
+   "latency_ms": 4253.667500001029,
+   "retrieval_ms": 2675.45,
+   "llm_ms": 1576.99,
+   "total_ms": 4253.6,
+   "gold_doc_ids": [
+    "5ee0606f-8c24-48be-afed-5f8d73f068b0"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-12",
+   "status": "ok",
+   "question": "新乡市“揭榜挂帅”项目中，单个项目申请的财政支持资金最高不超过多少？",
+   "answer": "单个项目申请财政支持资金最高不超过300万元 [1]。\n\n依据：新乡市“揭榜挂帅”项目揭榜条件中规定，项目实施周期原则上不超过3年，单个项目申请财政支持资金最高不超过300万元 [1]。",
+   "answer_raw": "单个项目申请财政支持资金最高不超过300万元 [1]。\n\n依据：新乡市“揭榜挂帅”项目揭榜条件中规定，项目实施周期原则上不超过3年，单个项目申请财政支持资金最高不超过300万元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6dab4365-4652-4c71-9f53-5be9806b43a1",
+     "filename": "hait_1065-18810_关于开展2026年“揭榜挂帅”项目申报的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.998893678188324,
+    0.8592301607131958,
+    0.43129098415374756
+   ],
+   "usage": {
+    "input_tokens": 1960,
+    "output_tokens": 100,
+    "total_tokens": 2060,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 48
+    }
+   },
+   "latency_ms": 5598.7806000048295,
+   "retrieval_ms": 3752.1,
+   "llm_ms": 1845.54,
+   "total_ms": 5598.71,
+   "gold_doc_ids": [
+    "6dab4365-4652-4c71-9f53-5be9806b43a1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-13",
+   "status": "ok",
+   "question": "入选河南省科普专家团后，团队在2年备案期内至少要策划开展多少场科普活动？",
+   "answer": "2年备案期内团队策划开展的科普活动不少于10场 [1]。\n\n分点说明：\n- 上述场次要求出自考核要求部分，即2年备案期内团队策划开展科普活动不少于10场 [1]。\n- 其中线下活动不少于6场，线下参与总人数不少于2000人次 [1]。\n- 支持开展线上科普直播等活动，单次活动线上参与总人数不少于200人次 [1]。",
+   "answer_raw": "2年备案期内团队策划开展的科普活动不少于10场 [1]。\n\n分点说明：\n- 上述场次要求出自考核要求部分，即2年备案期内团队策划开展科普活动不少于10场 [1]。\n- 其中线下活动不少于6场，线下参与总人数不少于2000人次 [1]。\n- 支持开展线上科普直播等活动，单次活动线上参与总人数不少于200人次 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa",
+     "filename": "hait_1065-18920_关于组织申报2027年度河南省科普专家团的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9997015595436096,
+    0.9448531866073608
+   ],
+   "usage": {
+    "input_tokens": 1118,
+    "output_tokens": 158,
+    "total_tokens": 1276,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 67
+    }
+   },
+   "latency_ms": 5443.275599995104,
+   "retrieval_ms": 3510.38,
+   "llm_ms": 1931.7,
+   "total_ms": 5443.2,
+   "gold_doc_ids": [
+    "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-14",
+   "status": "ok",
+   "question": "2026年9月22日下午在办公楼12楼第三会议室同时安排了一场学术讲座和一场动员会，它们分别是什么活动？",
+   "answer": "2026年9月22日下午在办公楼12楼第三会议室安排的两场活动分别是：\n\n1. 学术讲座：题目为《高校教师做科研与申报国家基金项目的几点个人体会》，由付景保主讲，时间为2026年9月22日（星期二）下午3:00，地点为办公楼12楼第三会议室[1]。\n2. 动员会：2027年度国家基金申报动员会议，时间为2026年9月22日15:00，地点为办公楼12楼第三会议室，主持人为杨捷[3]。",
+   "answer_raw": "2026年9月22日下午在办公楼12楼第三会议室安排的两场活动分别是：\n\n1. 学术讲座：题目为《高校教师做科研与申报国家基金项目的几点个人体会》，由付景保主讲，时间为2026年9月22日（星期二）下午3:00，地点为办公楼12楼第三会议室[1]。\n2. 动员会：2027年度国家基金申报动员会议，时间为2026年9月22日15:00，地点为办公楼12楼第三会议室，主持人为杨捷[3]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "85f06ed6-ee8f-44bf-b72e-2a1eb1f5a740",
+     "filename": "hait_1065-18873_学术讲座——《高校教师做科研与申报国家基金项目的几点个人体会》.txt"
+    },
+    {
+     "index": 3,
+     "document_id": "0639fb63-7d5a-4e6e-a016-373f379ff4f1",
+     "filename": "hait_1065-18874_关于组织2027年度国家基金申报动员会议的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9593043327331543,
+    0.8609082102775574,
+    0.6359162926673889
+   ],
+   "usage": {
+    "input_tokens": 1351,
+    "output_tokens": 420,
+    "total_tokens": 1771,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 303
+    }
+   },
+   "latency_ms": 5975.682199998118,
+   "retrieval_ms": 3082.18,
+   "llm_ms": 2891.92,
+   "total_ms": 5975.62,
+   "gold_doc_ids": [
+    "85f06ed6-ee8f-44bf-b72e-2a1eb1f5a740",
+    "0639fb63-7d5a-4e6e-a016-373f379ff4f1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-15",
+   "status": "ok",
+   "question": "2027年度河南省科普专家团和科普作品创作项目这两项申报，纸质材料的报送截止日期是同一天吗？电子版材料的最后期限又是哪天？",
+   "answer": "两项申报的纸质材料报送截止日期是同一天，电子版材料的最后期限也是同一天。\n\n1. 科普专家团申报：请各单位于2026年10月23日前将4份申报书及证明材料纸质件等报送至科研处 [1]；并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [1]。\n\n2. 科普作品创作项目申报：请各单位于2026年10月23日前将4份申报书、附件证明材料和知识产权保护承诺书纸质件等报送至科研处 [2]；并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [2]。\n\n综上，两项申报的纸质材料截止日期同为2026年10月23日 [1][2]，电子版材料截止日期同为2026年10月28日 [1][2]。",
+   "answer_raw": "两项申报的纸质材料报送截止日期是同一天，电子版材料的最后期限也是同一天。\n\n1. 科普专家团申报：请各单位于2026年10月23日前将4份申报书及证明材料纸质件等报送至科研处 [1]；并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [1]。\n\n2. 科普作品创作项目申报：请各单位于2026年10月23日前将4份申报书、附件证明材料和知识产权保护承诺书纸质件等报送至科研处 [2]；并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [2]。\n\n综上，两项申报的纸质材料截止日期同为2026年10月23日 [1][2]，电子版材料截止日期同为2026年10月28日 [1][2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa",
+     "filename": "hait_1065-18920_关于组织申报2027年度河南省科普专家团的通知.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "825c89dd-c464-4a4f-a56b-3534d84fc463",
+     "filename": "hait_1065-18921_关于组织申报2027年度河南省科普作品创作项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.996881365776062,
+    0.9907371401786804,
+    0.9803911447525024
+   ],
+   "usage": {
+    "input_tokens": 1640,
+    "output_tokens": 267,
+    "total_tokens": 1907,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 71
+    }
+   },
+   "latency_ms": 5735.592400000314,
+   "retrieval_ms": 3581.04,
+   "llm_ms": 2153.31,
+   "total_ms": 5735.52,
+   "gold_doc_ids": [
+    "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa",
+    "825c89dd-c464-4a4f-a56b-3534d84fc463"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-16",
+   "status": "ok",
+   "question": "2027年度河南省科普作品创作项目重点支持哪五个方向？",
+   "answer": "2027年度河南省科普作品创作项目重点支持以下五个方向[1]：\n\n1. 加强爱国主义教育，弘扬科学家精神[1]；\n2. 普及基础前沿学科知识[1]；\n3. 服务国家战略与我省产业创新[1]；\n4. 助力我省乡村全面振兴[1]；\n5. 回应我省科技热点和社会焦点[1]。\n\n以上方向的支持类别包括科普图书、科普视频和科普文创三类[1]。",
+   "answer_raw": "2027年度河南省科普作品创作项目重点支持以下五个方向[1]：\n\n1. 加强爱国主义教育，弘扬科学家精神[1]；\n2. 普及基础前沿学科知识[1]；\n3. 服务国家战略与我省产业创新[1]；\n4. 助力我省乡村全面振兴[1]；\n5. 回应我省科技热点和社会焦点[1]。\n\n以上方向的支持类别包括科普图书、科普视频和科普文创三类[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "825c89dd-c464-4a4f-a56b-3534d84fc463",
+     "filename": "hait_1065-18921_关于组织申报2027年度河南省科普作品创作项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9991748929023743,
+    0.6155647039413452,
+    0.4036082327365875
+   ],
+   "usage": {
+    "input_tokens": 1677,
+    "output_tokens": 174,
+    "total_tokens": 1851,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 75
+    }
+   },
+   "latency_ms": 5314.983700001903,
+   "retrieval_ms": 3542.69,
+   "llm_ms": 1770.84,
+   "total_ms": 5314.87,
+   "gold_doc_ids": [
+    "825c89dd-c464-4a4f-a56b-3534d84fc463"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-01",
+   "status": "ok",
+   "question": "2026级新生在学习通里进入河南工学院图书馆页面，需要输入哪个图书馆邀请码？",
+   "answer": "需要输入的图书馆邀请码是：**hngxytsg** [1]。\n\n说明：下载登录“学习通APP”后，在右上方输入该邀请码，即可进入“河南工学院图书馆”页面，使用各类线上学习资源 [1]。",
+   "answer_raw": "需要输入的图书馆邀请码是：**hngxytsg** [1]。\n\n说明：下载登录“学习通APP”后，在右上方输入该邀请码，即可进入“河南工学院图书馆”页面，使用各类线上学习资源 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "b29a32e0-ca34-4039-b170-91ba5e465731",
+     "filename": "hait_1091-18880_关于开展“悦见工图·阅见美好”2026级新生入馆教育系列活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9989593029022217,
+    0.417318195104599
+   ],
+   "usage": {
+    "input_tokens": 1139,
+    "output_tokens": 86,
+    "total_tokens": 1225,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 31
+    }
+   },
+   "latency_ms": 5068.911299997126,
+   "retrieval_ms": 3260.0,
+   "llm_ms": 1807.45,
+   "total_ms": 5068.83,
+   "gold_doc_ids": [
+    "b29a32e0-ca34-4039-b170-91ba5e465731"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-02",
+   "status": "ok",
+   "question": "学校校务公开工作办公室挂靠在哪个部门？",
+   "answer": "学校校务公开工作办公室挂靠在校长办公室 [1]。\n\n依据：学校设立校务公开领导小组，领导小组下设校务公开工作办公室，挂靠校长办公室，同时下设校务公开监督办公室，挂靠监察审计处（或校工会）[1]。",
+   "answer_raw": "学校校务公开工作办公室挂靠在校长办公室 [1]。\n\n依据：学校设立校务公开领导小组，领导小组下设校务公开工作办公室，挂靠校长办公室，同时下设校务公开监督办公室，挂靠监察审计处（或校工会）[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "166dc7d0-aea5-468c-99ed-8dc984bfa043",
+     "filename": "hait_1141-2746_河南机电高等专科学校校务公开工作暂行规定.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9884545803070068,
+    0.6424446105957031,
+    0.5072605609893799
+   ],
+   "usage": {
+    "input_tokens": 2265,
+    "output_tokens": 78,
+    "total_tokens": 2343,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 21
+    }
+   },
+   "latency_ms": 4936.760099997628,
+   "retrieval_ms": 3465.57,
+   "llm_ms": 1469.23,
+   "total_ms": 4936.66,
+   "gold_doc_ids": [
+    "166dc7d0-aea5-468c-99ed-8dc984bfa043"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-03",
+   "status": "ok",
+   "question": "学校学术委员会的委员经民主推荐产生后，由谁审定、由谁聘任？",
+   "answer": "学校学术委员会的委员经民主推荐产生后，由学校党委会审定、由校长聘任 [1]。\n\n- 审定主体：学校党委会 [1]。\n- 聘任主体：校长 [1]。",
+   "answer_raw": "学校学术委员会的委员经民主推荐产生后，由学校党委会审定、由校长聘任 [1]。\n\n- 审定主体：学校党委会 [1]。\n- 聘任主体：校长 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "filename": "hait_1141-15097_河南工学院章程.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9971910119056702
+   ],
+   "usage": {
+    "input_tokens": 990,
+    "output_tokens": 108,
+    "total_tokens": 1098,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 64
+    }
+   },
+   "latency_ms": 3931.6125999976066,
+   "retrieval_ms": 2099.61,
+   "llm_ms": 1830.15,
+   "total_ms": 3931.55,
+   "gold_doc_ids": [
+    "a201b2ec-1467-41be-9bd1-15bbe9b093a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-04",
+   "status": "ok",
+   "question": "2026级新生入学教育实行哪三段式的安排？",
+   "answer": "2026级新生入学教育实行“前置教育+集中教育+分散教育”三段式安排 [1]。\n\n- 前置教育：将部分教育环节前置至报到之前，做好预报到阶段思想引导与政策宣讲，实现“未报到先教育” [1]。\n- 集中教育：时间为8月下旬至9月中旬，利用军训期间、开学典礼统筹开展集中专题教育 [1]。\n- 分散教育：时间贯穿第一学年上学期，由各学院参照新生入学教育的内容，结合本院专业特色、学生学情，常态化开展延伸教育活动 [1]。",
+   "answer_raw": "2026级新生入学教育实行“前置教育+集中教育+分散教育”三段式安排 [1]。\n\n- 前置教育：将部分教育环节前置至报到之前，做好预报到阶段思想引导与政策宣讲，实现“未报到先教育” [1]。\n- 集中教育：时间为8月下旬至9月中旬，利用军训期间、开学典礼统筹开展集中专题教育 [1]。\n- 分散教育：时间贯穿第一学年上学期，由各学院参照新生入学教育的内容，结合本院专业特色、学生学情，常态化开展延伸教育活动 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+     "filename": "hait_1123-18774_关于做好2026级新生入学教育工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    0.9988725781440735,
+    0.5210672616958618,
+    0.3199971318244934,
+    0.2653163969516754
+   ],
+   "usage": {
+    "input_tokens": 2317,
+    "output_tokens": 168,
+    "total_tokens": 2485,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 46
+    }
+   },
+   "latency_ms": 5119.958700001007,
+   "retrieval_ms": 3407.43,
+   "llm_ms": 1710.64,
+   "total_ms": 5119.88,
+   "gold_doc_ids": [
+    "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-05",
+   "status": "ok",
+   "question": "体检时如果有学生存在晕针晕血史，学校要求在什么环节提前告知现场工作人员？",
+   "answer": "有晕针晕血史的学生，应在采血前提前告知现场工作人员 [1]。",
+   "answer_raw": "有晕针晕血史的学生，应在采血前提前告知现场工作人员 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "83c1aa34-3e3f-443e-9e2e-7a40181fa771",
+     "filename": "hait_1094-18808_关于开展2026年新生体检工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9733518362045288
+   ],
+   "usage": {
+    "input_tokens": 679,
+    "output_tokens": 33,
+    "total_tokens": 712,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 13
+    }
+   },
+   "latency_ms": 5610.637300000235,
+   "retrieval_ms": 3984.89,
+   "llm_ms": 1624.14,
+   "total_ms": 5610.54,
+   "gold_doc_ids": [
+    "83c1aa34-3e3f-443e-9e2e-7a40181fa771"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-06",
+   "status": "ok",
+   "question": "2026级学生参加心理健康状况测评，手机端要在微信里搜索打开哪个小程序？",
+   "answer": "2026级学生参加心理健康状况测评，手机端需在微信中搜索并打开的小程序是“荔枝心理测评”[1]。\n\n具体操作要点：\n- 打开微信，搜索小程序“荔枝心理测评”点击进入[1]。\n- 点击“登录”，输入手机号（需和老师导入的手机号一致），选择“入学年份2026”，点击“获取验证码”进行登录[1]。\n- 若收不到验证码，大概率是小程序缓存问题，可重启手机，或切换至网页端完成测评[1]。",
+   "answer_raw": "2026级学生参加心理健康状况测评，手机端需在微信中搜索并打开的小程序是“荔枝心理测评”[1]。\n\n具体操作要点：\n- 打开微信，搜索小程序“荔枝心理测评”点击进入[1]。\n- 点击“登录”，输入手机号（需和老师导入的手机号一致），选择“入学年份2026”，点击“获取验证码”进行登录[1]。\n- 若收不到验证码，大概率是小程序缓存问题，可重启手机，或切换至网页端完成测评[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a68ade80-e842-4e8f-b191-27d9a1290889",
+     "filename": "hait_1123-18932_关于开展2026级学生心理健康状况测评工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9896738529205322
+   ],
+   "usage": {
+    "input_tokens": 888,
+    "output_tokens": 126,
+    "total_tokens": 1014,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 10
+    }
+   },
+   "latency_ms": 4762.772499998391,
+   "retrieval_ms": 3418.75,
+   "llm_ms": 1342.5,
+   "total_ms": 4762.68,
+   "gold_doc_ids": [
+    "a68ade80-e842-4e8f-b191-27d9a1290889"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-07",
+   "status": "ok",
+   "question": "用人单位想去参加这次秋季双选会，最晚要在什么时候之前把参会手续办完？",
+   "answer": "最晚应在 **2026年10月12日下午17:30之前** 完成报名手续 [1]。\n\n分点说明：\n- 报名时间为2026年9月14日至10月12日下午17:30 [1]。\n- 报名需通过审核：未注册单位须先登录河南工学院就业信息网注册并提交材料进行资质审核，审核通过后再登录报名系统选择【双选会】栏目报名；已注册且通过资质审核的单位可直接登录报名 [1]。\n- 审核通过后，还须在后台“招聘管理”中【我的双选会】查看“审核状态”，通过后点击【确认参会】以下载“双选会参会凭证” [1]。\n- 展位号在报名结束后统一分配，于10月13日分配完毕后可登录系统查询下载，凭“参会凭证”入校 [1]。",
+   "answer_raw": "最晚应在 **2026年10月12日下午17:30之前** 完成报名手续 [1]。\n\n分点说明：\n- 报名时间为2026年9月14日至10月12日下午17:30 [1]。\n- 报名需通过审核：未注册单位须先登录河南工学院就业信息网注册并提交材料进行资质审核，审核通过后再登录报名系统选择【双选会】栏目报名；已注册且通过资质审核的单位可直接登录报名 [1]。\n- 审核通过后，还须在后台“招聘管理”中【我的双选会】查看“审核状态”，通过后点击【确认参会】以下载“双选会参会凭证” [1]。\n- 展位号在报名结束后统一分配，于10月13日分配完毕后可登录系统查询下载，凭“参会凭证”入校 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "19da7c3e-0acb-447c-8f5e-355db8c42f5b",
+     "filename": "hait_1071-18937_“豫荐未来 青春启航” 河南工学院2027届毕业生秋季双选会邀请函.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.5827551484107971
+   ],
+   "usage": {
+    "input_tokens": 942,
+    "output_tokens": 281,
+    "total_tokens": 1223,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 95
+    }
+   },
+   "latency_ms": 4255.75039999967,
+   "retrieval_ms": 2683.81,
+   "llm_ms": 1570.36,
+   "total_ms": 4255.65,
+   "gold_doc_ids": [
+    "19da7c3e-0acb-447c-8f5e-355db8c42f5b"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-08",
+   "status": "ok",
+   "question": "学院把教学信息员的申请材料汇总收齐后，纸质版要送到学校哪个地方？",
+   "answer": "学院汇总收齐后，纸质版材料应统一报送至教学质量监控与评估中心，地点为图书馆8楼A0818 [1]。\n\n说明：\n- 报送人为各学院教学秘书，需汇总《河南工学院学生教学信息员申请表》（附件1）和《河南工学院学生教学信息员汇总表》（附件2）后统一报送 [1]。\n- 报送截止时间为2026年10月15日下午17:00之前 [1]。\n- 电子版材料发至邮箱hngxyjpzx@hait.edu.cn [1]。",
+   "answer_raw": "学院汇总收齐后，纸质版材料应统一报送至教学质量监控与评估中心，地点为图书馆8楼A0818 [1]。\n\n说明：\n- 报送人为各学院教学秘书，需汇总《河南工学院学生教学信息员申请表》（附件1）和《河南工学院学生教学信息员汇总表》（附件2）后统一报送 [1]。\n- 报送截止时间为2026年10月15日下午17:00之前 [1]。\n- 电子版材料发至邮箱hngxyjpzx@hait.edu.cn [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6ee59a68-bf75-4226-ae83-923d81259bca",
+     "filename": "hait_1072-18926_关于聘任2026级学生教学信息员的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.900265097618103
+   ],
+   "usage": {
+    "input_tokens": 930,
+    "output_tokens": 187,
+    "total_tokens": 1117,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 67
+    }
+   },
+   "latency_ms": 3006.695899995975,
+   "retrieval_ms": 2055.41,
+   "llm_ms": 950.12,
+   "total_ms": 3006.58,
+   "gold_doc_ids": [
+    "6ee59a68-bf75-4226-ae83-923d81259bca"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-09",
+   "status": "ok",
+   "question": "各学院秋季心理健康活动办完之后，总结等材料最迟什么时候要交上去？",
+   "answer": "最迟应于**11月3日17:00前**报送[1]。\n\n分点说明：\n- 报送时间：请于11月3日17:00前，将本学院秋季学期心理健康教育活动总结报送至大学生心理健康教育中心邮箱xinli@hait.edu.cn[1]。\n- 报送内容：总结需包含活动开展情况、特色成果、精选活动照片等[1]。\n- 邮件命名：邮件主题统一命名为“XX学院2026秋季心理健康教育活动总结”[1]。",
+   "answer_raw": "最迟应于**11月3日17:00前**报送[1]。\n\n分点说明：\n- 报送时间：请于11月3日17:00前，将本学院秋季学期心理健康教育活动总结报送至大学生心理健康教育中心邮箱xinli@hait.edu.cn[1]。\n- 报送内容：总结需包含活动开展情况、特色成果、精选活动照片等[1]。\n- 邮件命名：邮件主题统一命名为“XX学院2026秋季心理健康教育活动总结”[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb33443c-3252-4e6a-aabb-162b1f5bba59",
+     "filename": "hait_1123-18842_关于开展2026年度“予你四季，铸梦河工”大学生心理健康教育系列活动（秋季篇）的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9622558951377869,
+    0.49240148067474365,
+    0.40385258197784424
+   ],
+   "usage": {
+    "input_tokens": 1554,
+    "output_tokens": 150,
+    "total_tokens": 1704,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 41
+    }
+   },
+   "latency_ms": 4802.573399996618,
+   "retrieval_ms": 3425.07,
+   "llm_ms": 1375.94,
+   "total_ms": 4802.44,
+   "gold_doc_ids": [
+    "eb33443c-3252-4e6a-aabb-162b1f5bba59"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-10",
+   "status": "ok",
+   "question": "推荐参评“最美退役军人”，除了填写推荐表，还要另外准备一份多少字、写什么内容的文稿？",
+   "answer": "除填写推荐表外，还需另外准备一份3000字左右的先进事迹材料，以电子版形式报送 [1]。",
+   "answer_raw": "除填写推荐表外，还需另外准备一份3000字左右的先进事迹材料，以电子版形式报送 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6140d562-c822-45ad-a8d9-a739c81908ed",
+     "filename": "hait_1123-18758_关于开展2026年河南省“最美退役军人”“最美拥军人物”推荐工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.7186104655265808,
+    0.636749804019928
+   ],
+   "usage": {
+    "input_tokens": 1094,
+    "output_tokens": 58,
+    "total_tokens": 1152,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 31
+    }
+   },
+   "latency_ms": 4916.088799996942,
+   "retrieval_ms": 4030.46,
+   "llm_ms": 884.43,
+   "total_ms": 4915.99,
+   "gold_doc_ids": [
+    "6140d562-c822-45ad-a8d9-a739c81908ed"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-11",
+   "status": "ok",
+   "question": "新生入馆教育的线上知识答题闯关，一共设置了多少个关卡？",
+   "answer": "线上知识答题闯关一共设置了十个关卡 [1]。\n\n说明：闯关系统每一关包含知识点学习、答题闯关、本关排行板块，闯关失败可反复答题，直至全部关卡通过；闯关活动时间为2026年9月22日—10月20日 [1]。",
+   "answer_raw": "线上知识答题闯关一共设置了十个关卡 [1]。\n\n说明：闯关系统每一关包含知识点学习、答题闯关、本关排行板块，闯关失败可反复答题，直至全部关卡通过；闯关活动时间为2026年9月22日—10月20日 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "b29a32e0-ca34-4039-b170-91ba5e465731",
+     "filename": "hait_1091-18880_关于开展“悦见工图·阅见美好”2026级新生入馆教育系列活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9967515468597412
+   ],
+   "usage": {
+    "input_tokens": 947,
+    "output_tokens": 77,
+    "total_tokens": 1024,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 13
+    }
+   },
+   "latency_ms": 4032.6544999988982,
+   "retrieval_ms": 3448.01,
+   "llm_ms": 583.35,
+   "total_ms": 4032.55,
+   "gold_doc_ids": [
+    "b29a32e0-ca34-4039-b170-91ba5e465731"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-12",
+   "status": "ok",
+   "question": "2018—2019学年，河南工学院全校主动公开的信息一共有多少条？",
+   "answer": "2018—2019学年，河南工学院全校主动公开信息共3169条 [1]。\n\n分项情况如下：\n\n- 通过校园网、广播等媒体公布各类信息345条 [1]；\n- 微信微博推送信息1000余条 [1]；\n- 主动发布通知公告325条 [1]；\n- 通过文件主动公开信息160份 [1]；\n- 通过学校宣传栏发布信息7期 [1]。",
+   "answer_raw": "2018—2019学年，河南工学院全校主动公开信息共3169条 [1]。\n\n分项情况如下：\n\n- 通过校园网、广播等媒体公布各类信息345条 [1]；\n- 微信微博推送信息1000余条 [1]；\n- 主动发布通知公告325条 [1]；\n- 通过文件主动公开信息160份 [1]；\n- 通过学校宣传栏发布信息7期 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "be487760-f912-47f3-85e4-50ffd843dcd2",
+     "filename": "hait_1141-10810_河南工学院2019年度信息公开工作报告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    0.9868840575218201,
+    0.9809571504592896,
+    0.9667999744415283,
+    0.9660128355026245
+   ],
+   "usage": {
+    "input_tokens": 2795,
+    "output_tokens": 262,
+    "total_tokens": 3057,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 165
+    }
+   },
+   "latency_ms": 4790.591500001028,
+   "retrieval_ms": 2987.79,
+   "llm_ms": 1800.48,
+   "total_ms": 4790.49,
+   "gold_doc_ids": [
+    "be487760-f912-47f3-85e4-50ffd843dcd2"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-13",
+   "status": "ok",
+   "question": "河南工学院的校庆日是哪一天？",
+   "answer": "河南工学院的校庆日是10月16日 [1]。",
+   "answer_raw": "河南工学院的校庆日是10月16日 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "filename": "hait_1141-15097_河南工学院章程.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.8942620158195496
+   ],
+   "usage": {
+    "input_tokens": 974,
+    "output_tokens": 34,
+    "total_tokens": 1008,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 20
+    }
+   },
+   "latency_ms": 3925.311700004386,
+   "retrieval_ms": 3163.39,
+   "llm_ms": 760.76,
+   "total_ms": 3925.21,
+   "gold_doc_ids": [
+    "a201b2ec-1467-41be-9bd1-15bbe9b093a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-14",
+   "status": "ok",
+   "question": "2022—2023学年和2023—2024学年，学校主动公开的信息条数分别是多少？",
+   "answer": "2022—2023学年全校主动公开信息3473条[1]，2023—2024学年全校主动公开信息3011条[2]。\n\n- 2022—2023学年：全校主动公开信息3473条，其中通过校园网、广播等媒体公布各类信息1405条，微信微博抖音推送信息1500条，主动发布通知公告358条，通过学校宣传栏发布信息210期[1]。\n- 2023—2024学年：全校主动公开信息3011条，其中通过校园网、广播等媒体公布各类信息949条，微信微博抖音推送信息1500条，主动发布通知公告336条，通过学校宣传栏发布信息226期[2]。",
+   "answer_raw": "2022—2023学年全校主动公开信息3473条[1]，2023—2024学年全校主动公开信息3011条[2]。\n\n- 2022—2023学年：全校主动公开信息3473条，其中通过校园网、广播等媒体公布各类信息1405条，微信微博抖音推送信息1500条，主动发布通知公告358条，通过学校宣传栏发布信息210期[1]。\n- 2023—2024学年：全校主动公开信息3011条，其中通过校园网、广播等媒体公布各类信息949条，微信微博抖音推送信息1500条，主动发布通知公告336条，通过学校宣传栏发布信息226期[2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "688aea9d-bebb-4b9e-a8bd-5d8b7ec30dda",
+     "filename": "hait_1141-15860_河南工学院2023年度信息公开工作报告.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "cac5224f-b8ac-4934-8c64-a8247cf368fd",
+     "filename": "hait_1141-16934_河南工学院2023—2024学年年度信息公开工作报告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    0.9976945519447327,
+    0.9968206882476807,
+    0.9752966165542603,
+    0.5498195290565491
+   ],
+   "usage": {
+    "input_tokens": 2660,
+    "output_tokens": 243,
+    "total_tokens": 2903,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 92
+    }
+   },
+   "latency_ms": 3857.70940000657,
+   "retrieval_ms": 2876.94,
+   "llm_ms": 979.25,
+   "total_ms": 3857.63,
+   "gold_doc_ids": [
+    "688aea9d-bebb-4b9e-a8bd-5d8b7ec30dda",
+    "cac5224f-b8ac-4934-8c64-a8247cf368fd"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-15",
+   "status": "ok",
+   "question": "学校章程里规定的校歌，和新生入学教育中要求新生学唱的校歌，是同一首歌吗？它叫什么名字？",
+   "answer": "是同一首歌，它叫《开拓之歌》。\n\n- 学校章程规定，校歌为《开拓之歌》[2]。\n- 新生入学教育中要求新生学唱校歌《开拓之歌》[1]。\n\n因此，两处所指的校歌为同一首歌，名称为《开拓之歌》[1][2]。",
+   "answer_raw": "是同一首歌，它叫《开拓之歌》。\n\n- 学校章程规定，校歌为《开拓之歌》[2]。\n- 新生入学教育中要求新生学唱校歌《开拓之歌》[1]。\n\n因此，两处所指的校歌为同一首歌，名称为《开拓之歌》[1][2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+     "filename": "hait_1123-18774_关于做好2026级新生入学教育工作的通知.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "filename": "hait_1141-15097_河南工学院章程.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.8252305388450623,
+    0.37553954124450684
+   ],
+   "usage": {
+    "input_tokens": 1705,
+    "output_tokens": 107,
+    "total_tokens": 1812,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 37
+    }
+   },
+   "latency_ms": 5092.41209999891,
+   "retrieval_ms": 3860.01,
+   "llm_ms": 1230.69,
+   "total_ms": 5092.32,
+   "gold_doc_ids": [
+    "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+    "a201b2ec-1467-41be-9bd1-15bbe9b093a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-16",
+   "status": "ok",
+   "question": "秋季双选会当天，学校为每家参会单位免费提供哪些物品？",
+   "answer": "学校为每家参会单位免费提供以下物品：一桌两凳、空白海报（60cm×90cm）、手提袋、记号笔、胶带、免费午餐2份 [1]。\n\n具体分点如下：\n- 一桌两凳 [1]\n- 空白海报（60cm×90cm）[1]\n- 手提袋 [1]\n- 记号笔 [1]\n- 胶带 [1]\n- 免费午餐2份 [1]\n\n此外，参会单位还可携带易拉宝等宣传物品 [1]。",
+   "answer_raw": "学校为每家参会单位免费提供以下物品：一桌两凳、空白海报（60cm×90cm）、手提袋、记号笔、胶带、免费午餐2份 [1]。\n\n具体分点如下：\n- 一桌两凳 [1]\n- 空白海报（60cm×90cm）[1]\n- 手提袋 [1]\n- 记号笔 [1]\n- 胶带 [1]\n- 免费午餐2份 [1]\n\n此外，参会单位还可携带易拉宝等宣传物品 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "19da7c3e-0acb-447c-8f5e-355db8c42f5b",
+     "filename": "hait_1071-18937_“豫荐未来 青春启航” 河南工学院2027届毕业生秋季双选会邀请函.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.7317150831222534
+   ],
+   "usage": {
+    "input_tokens": 940,
+    "output_tokens": 169,
+    "total_tokens": 1109,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 55
+    }
+   },
+   "latency_ms": 3666.375300002983,
+   "retrieval_ms": 2596.81,
+   "llm_ms": 1068.32,
+   "total_ms": 3666.28,
+   "gold_doc_ids": [
+    "19da7c3e-0acb-447c-8f5e-355db8c42f5b"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-01",
+   "status": "ok",
+   "question": "学校招标工作领导小组的组长由谁来担任？",
+   "answer": "学校招标工作领导小组的组长由招标项目承办部门的分管校领导担任 [1]。\n\n说明：\n- 学校设招标工作领导小组，其组长由招标项目承办部门的分管校领导担任 [1]。\n- 其成员由归口职能部门、财务处、审计处、监察处、工会和招标项目承办部门负责人及相关专业技术人员组成 [1]。",
+   "answer_raw": "学校招标工作领导小组的组长由招标项目承办部门的分管校领导担任 [1]。\n\n说明：\n- 学校设招标工作领导小组，其组长由招标项目承办部门的分管校领导担任 [1]。\n- 其成员由归口职能部门、财务处、审计处、监察处、工会和招标项目承办部门负责人及相关专业技术人员组成 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "filename": "hait_1141-2768_河南机电高等专科学校招标工作暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9988332390785217,
+    0.6032852530479431
+   ],
+   "usage": {
+    "input_tokens": 1813,
+    "output_tokens": 135,
+    "total_tokens": 1948,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 59
+    }
+   },
+   "latency_ms": 1995.5864000003203,
+   "retrieval_ms": 1285.84,
+   "llm_ms": 708.64,
+   "total_ms": 1995.52,
+   "gold_doc_ids": [
+    "d8740669-6b9f-42fb-99f2-7f520af861a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-02",
+   "status": "ok",
+   "question": "建筑工程质量的保修期是从哪一天开始计算的？",
+   "answer": "建筑工程质量的保修期从工程竣工验收合格之日起计算 [1]。",
+   "answer_raw": "建筑工程质量的保修期从工程竣工验收合格之日起计算 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0a318085-ce27-4386-ba2e-83bcbece7f6a",
+     "filename": "hait_1141-2759_河南机电高等专科学校建筑工程质量保修暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9924026727676392
+   ],
+   "usage": {
+    "input_tokens": 974,
+    "output_tokens": 42,
+    "total_tokens": 1016,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 28
+    }
+   },
+   "latency_ms": 1570.179200003622,
+   "retrieval_ms": 1028.58,
+   "llm_ms": 539.7,
+   "total_ms": 1570.08,
+   "gold_doc_ids": [
+    "0a318085-ce27-4386-ba2e-83bcbece7f6a"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-03",
+   "status": "ok",
+   "question": "部门经费报销的审批采用什么制度？",
+   "answer": "部门经费报销审批采用“一支笔”制度[1][2]。\n\n- 各部门经费报销审批实行“一支笔”制度，各部门行政负责人对所管理经费的使用范围和使用标准严格把关，不得超范围、超标准开支[1]。\n- 经费支出实行部门“一支笔”审批制度；审批人外出需由其他人临时代理审批职责的，需事先通知财务处，由部门行政负责人出具书面委托书并报财务处备案[2]。\n- 报销时须由部门行政负责人“一支笔”审批，需要经办人、验收人、批准人三方签字，手续齐全[1]。",
+   "answer_raw": "部门经费报销审批采用“一支笔”制度[1][2]。\n\n- 各部门经费报销审批实行“一支笔”制度，各部门行政负责人对所管理经费的使用范围和使用标准严格把关，不得超范围、超标准开支[1]。\n- 经费支出实行部门“一支笔”审批制度；审批人外出需由其他人临时代理审批职责的，需事先通知财务处，由部门行政负责人出具书面委托书并报财务处备案[2]。\n- 报销时须由部门行政负责人“一支笔”审批，需要经办人、验收人、批准人三方签字，手续齐全[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9912737011909485,
+    0.9670635461807251,
+    0.660869300365448
+   ],
+   "usage": {
+    "input_tokens": 2580,
+    "output_tokens": 166,
+    "total_tokens": 2746,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 32
+    }
+   },
+   "latency_ms": 5103.919599998335,
+   "retrieval_ms": 3850.6,
+   "llm_ms": 1251.97,
+   "total_ms": 5103.84,
+   "gold_doc_ids": [
+    "37ba4ba7-33cb-48ad-96be-f56c8c9177fe"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-04",
+   "status": "ok",
+   "question": "出差人员由单位或者接待单位免费提供了交通工具的，还能不能领到市内交通费？",
+   "answer": "不能领取市内交通费。\n\n依据如下：\n\n- 出差人员由所在单位、接待单位或相关单位免费提供交通工具的，应如实申报，单位不再发放市内交通费 [1]。\n\n补充说明：市内交通费以城市间交通费票据为凭据，按出差自然（日历）天数实行定额包干，每人每天补助标准为 20 元 [1]；但上述免费提供交通工具的情形属于不再发放市内交通费的情况 [1]。",
+   "answer_raw": "不能领取市内交通费。\n\n依据如下：\n\n- 出差人员由所在单位、接待单位或相关单位免费提供交通工具的，应如实申报，单位不再发放市内交通费 [1]。\n\n补充说明：市内交通费以城市间交通费票据为凭据，按出差自然（日历）天数实行定额包干，每人每天补助标准为 20 元 [1]；但上述免费提供交通工具的情形属于不再发放市内交通费的情况 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9989253878593445
+   ],
+   "usage": {
+    "input_tokens": 1052,
+    "output_tokens": 140,
+    "total_tokens": 1192,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 42
+    }
+   },
+   "latency_ms": 3311.228899998241,
+   "retrieval_ms": 2193.29,
+   "llm_ms": 1116.14,
+   "total_ms": 3311.12,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-05",
+   "status": "ok",
+   "question": "职工住宅楼的楼梯间窗户、楼顶防水屋面这些公共部位由哪个部门负责维修？",
+   "answer": "结论：楼梯间窗户、楼顶防水屋面由后勤管理处负责维修。\n\n说明：\n- 住户门以外的外墙、楼梯、走廊、扶手、楼梯间窗户、楼顶防水屋面，属于由后勤管理处维修的房屋部位 [1]。\n- 职工住宅楼公共部位由学校负责维修，修缮时相关住户应予积极配合 [1]。",
+   "answer_raw": "结论：楼梯间窗户、楼顶防水屋面由后勤管理处负责维修。\n\n说明：\n- 住户门以外的外墙、楼梯、走廊、扶手、楼梯间窗户、楼顶防水屋面，属于由后勤管理处维修的房屋部位 [1]。\n- 职工住宅楼公共部位由学校负责维修，修缮时相关住户应予积极配合 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c790c59c-d187-4388-b62f-5dfe5943a238",
+     "filename": "hait_1141-2760_河南机电高等专科学校职工住宅楼管理暂行规定.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9988631010055542
+   ],
+   "usage": {
+    "input_tokens": 1073,
+    "output_tokens": 122,
+    "total_tokens": 1195,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 48
+    }
+   },
+   "latency_ms": 3704.5606000028783,
+   "retrieval_ms": 2650.91,
+   "llm_ms": 1052.54,
+   "total_ms": 3704.46,
+   "gold_doc_ids": [
+    "c790c59c-d187-4388-b62f-5dfe5943a238"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-06",
+   "status": "ok",
+   "question": "学校专业技术主系列岗位是指哪两类人员？",
+   "answer": "学校专业技术主系列岗位是高校教师和专职科研人员 [1]。\n\n依据：专业技术主系列岗位是高校教师和专职科研人员，专业技术主系列岗位设置463个，占专业技术岗位设置总量的85% [1]。",
+   "answer_raw": "学校专业技术主系列岗位是高校教师和专职科研人员 [1]。\n\n依据：专业技术主系列岗位是高校教师和专职科研人员，专业技术主系列岗位设置463个，占专业技术岗位设置总量的85% [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "da373ff4-f0a8-46a7-936e-7864d6503ad4",
+     "filename": "hait_1141-2756_河南机电高等专科学校岗位设置实施方案.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    0.9746723175048828,
+    0.6255231499671936,
+    0.43263885378837585,
+    0.2795097529888153
+   ],
+   "usage": {
+    "input_tokens": 2624,
+    "output_tokens": 80,
+    "total_tokens": 2704,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 32
+    }
+   },
+   "latency_ms": 4062.1613999974215,
+   "retrieval_ms": 3261.38,
+   "llm_ms": 799.27,
+   "total_ms": 4062.07,
+   "gold_doc_ids": [
+    "da373ff4-f0a8-46a7-936e-7864d6503ad4"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-07",
+   "status": "refused",
+   "question": "学校老师要因公外出办事，动身之前必须先办好什么？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 3039.2607000030694,
+   "retrieval_ms": 3039.16,
+   "llm_ms": 0.0,
+   "total_ms": 3039.18,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b3-08",
+   "status": "ok",
+   "question": "学校的工程出了问题需要维修，如果打电话一直联系不上施工队，接下来学校会怎么办？",
+   "answer": "结论：打电话联系不上施工单位时，学校会以特快专递方式书面通知，逾期未响应则视为默认委托学校维修，由后勤管理处安排第三方维修，费用从质量保证金中支出。[1]\n\n分点说明：\n\n1. 该处理适用于非紧急情况下的维修：通过电话联系无效时，由后勤管理处将维修通知书等资料以特快专递的形式寄达施工单位法人。[1]\n\n2. 若EMS查询系统显示已签收三日内，施工单位仍未派人维修又未说明原因，即视为施工单位默认委托我校维修。[1]\n\n3. 此时由后勤管理处安排第三方进行维修，维修费用从质量保证金中支出。[1]",
+   "answer_raw": "结论：打电话联系不上施工单位时，学校会以特快专递方式书面通知，逾期未响应则视为默认委托学校维修，由后勤管理处安排第三方维修，费用从质量保证金中支出。[1]\n\n分点说明：\n\n1. 该处理适用于非紧急情况下的维修：通过电话联系无效时，由后勤管理处将维修通知书等资料以特快专递的形式寄达施工单位法人。[1]\n\n2. 若EMS查询系统显示已签收三日内，施工单位仍未派人维修又未说明原因，即视为施工单位默认委托我校维修。[1]\n\n3. 此时由后勤管理处安排第三方进行维修，维修费用从质量保证金中支出。[1]",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0a318085-ce27-4386-ba2e-83bcbece7f6a",
+     "filename": "hait_1141-2759_河南机电高等专科学校建筑工程质量保修暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.7422152161598206
+   ],
+   "usage": {
+    "input_tokens": 984,
+    "output_tokens": 287,
+    "total_tokens": 1271,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 143
+    }
+   },
+   "latency_ms": 5042.505999997957,
+   "retrieval_ms": 2902.7,
+   "llm_ms": 2138.07,
+   "total_ms": 5042.45,
+   "gold_doc_ids": [
+    "0a318085-ce27-4386-ba2e-83bcbece7f6a"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-09",
+   "status": "ok",
+   "question": "要招标的项目，如果符合要求的投标单位数量不够，学校会采取什么办法？",
+   "answer": "结论：学校会区分“报名单位不足”和“有效投标单位不足”两种情况处理[1]。\n\n- 每个项目报名单位不得少于3个；少于3个时，可辅以邀请招标方式弥补[1]。\n- 有效投标单位少于3个时，应重新组织招标[1]。\n- 采用邀请招标时，归口职能部门应当向3个及其以上具备承揽招标项目能力、资信良好、互无利益关系的单位发出招标邀请书[1]。",
+   "answer_raw": "结论：学校会区分“报名单位不足”和“有效投标单位不足”两种情况处理[1]。\n\n- 每个项目报名单位不得少于3个；少于3个时，可辅以邀请招标方式弥补[1]。\n- 有效投标单位少于3个时，应重新组织招标[1]。\n- 采用邀请招标时，归口职能部门应当向3个及其以上具备承揽招标项目能力、资信良好、互无利益关系的单位发出招标邀请书[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "filename": "hait_1141-2768_河南机电高等专科学校招标工作暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.8488473296165466,
+    0.7698066234588623
+   ],
+   "usage": {
+    "input_tokens": 1792,
+    "output_tokens": 1176,
+    "total_tokens": 2968,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 1069
+    }
+   },
+   "latency_ms": 7083.648500003619,
+   "retrieval_ms": 1989.83,
+   "llm_ms": 5092.11,
+   "total_ms": 7083.53,
+   "gold_doc_ids": [
+    "d8740669-6b9f-42fb-99f2-7f520af861a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-10",
+   "status": "insufficient_evidence",
+   "question": "师生如果想申请学校公开某项信息，应该去找哪个部门办理？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.29893702268600464,
+    0.2799675464630127
+   ],
+   "usage": {
+    "input_tokens": 1385,
+    "output_tokens": 302,
+    "total_tokens": 1687,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 293
+    }
+   },
+   "latency_ms": 5158.673899997666,
+   "retrieval_ms": 3017.21,
+   "llm_ms": 2139.58,
+   "total_ms": 5158.59,
+   "gold_doc_ids": [
+    "f0a5c4f3-32fc-4302-9c95-9f28c6b0ee18"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b3-11",
+   "status": "ok",
+   "question": "出差到河南省以外的城市，伙食补助费按每人每天多少钱发放？",
+   "answer": "出差到河南省以外的城市，伙食补助费按每人每天50元发放 [1]。\n\n依据：伙食补助费补助标准为省内每人每天30元、省外每人每天50元 [1]。",
+   "answer_raw": "出差到河南省以外的城市，伙食补助费按每人每天50元发放 [1]。\n\n依据：伙食补助费补助标准为省内每人每天30元、省外每人每天50元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9733055233955383,
+    0.9478935599327087
+   ],
+   "usage": {
+    "input_tokens": 1911,
+    "output_tokens": 49,
+    "total_tokens": 1960,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 7
+    }
+   },
+   "latency_ms": 2251.7606999972486,
+   "retrieval_ms": 1627.53,
+   "llm_ms": 622.66,
+   "total_ms": 2251.7,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-12",
+   "status": "ok",
+   "question": "使用专项经费报销时，单笔支出金额超过多少元就必须由主管财务的校领导签字？",
+   "answer": "单笔支出金额超过10000元，就必须由主管财务的校领导签字后报销 [2]。",
+   "answer_raw": "单笔支出金额超过10000元，就必须由主管财务的校领导签字后报销 [2]。",
+   "citations": [
+    {
+     "index": 2,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9948257803916931,
+    0.9916913509368896,
+    0.8630263805389404
+   ],
+   "usage": {
+    "input_tokens": 2325,
+    "output_tokens": 219,
+    "total_tokens": 2544,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 196
+    }
+   },
+   "latency_ms": 5771.940400001768,
+   "retrieval_ms": 4180.79,
+   "llm_ms": 1589.67,
+   "total_ms": 5771.86,
+   "gold_doc_ids": [
+    "37ba4ba7-33cb-48ad-96be-f56c8c9177fe"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-13",
+   "status": "ok",
+   "question": "预计金额在50万元及以上的招标项目，每份招标资料费收取多少钱？",
+   "answer": "预计金额在50万元及以上的招标项目，每份招标资料费收取500元 [1]。",
+   "answer_raw": "预计金额在50万元及以上的招标项目，每份招标资料费收取500元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "filename": "hait_1141-2768_河南机电高等专科学校招标工作暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9980601668357849,
+    0.5828474164009094,
+    0.5518563389778137
+   ],
+   "usage": {
+    "input_tokens": 1602,
+    "output_tokens": 47,
+    "total_tokens": 1649,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 25
+    }
+   },
+   "latency_ms": 2481.82480000105,
+   "retrieval_ms": 1843.21,
+   "llm_ms": 637.33,
+   "total_ms": 2481.74,
+   "gold_doc_ids": [
+    "d8740669-6b9f-42fb-99f2-7f520af861a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-14",
+   "status": "ok",
+   "question": "学校2011年的公开招聘工作，计划引进多少名专任教师，最后确定拟聘用多少人？",
+   "answer": "学校2011年计划引进专任教师30名[3]；但最终确定拟聘用人数在现有证据中记载不一致，无法唯一确定。\n\n- 计划引进人数：校党委研究决定2011年在河南省人社厅、河南省教育厅核定的增人计划内，拟从全国高校公开招聘30名研究生充实专任教师队伍[3]。\n- 拟聘用人数的一种记载：校党委会研究确定10人作为拟聘用对象[1]。\n- 拟聘用人数的另一种记载：公示称前期初步确定拟聘人选12人，并公示了12人名单[2]。\n\n因此，计划引进30名专任教师[3]；最终拟聘用人数依据现有证据不能唯一确定，分别记载为10人[1]和12人[2]。",
+   "answer_raw": "学校2011年计划引进专任教师30名[3]；但最终确定拟聘用人数在现有证据中记载不一致，无法唯一确定。\n\n- 计划引进人数：校党委研究决定2011年在河南省人社厅、河南省教育厅核定的增人计划内，拟从全国高校公开招聘30名研究生充实专任教师队伍[3]。\n- 拟聘用人数的一种记载：校党委会研究确定10人作为拟聘用对象[1]。\n- 拟聘用人数的另一种记载：公示称前期初步确定拟聘人选12人，并公示了12人名单[2]。\n\n因此，计划引进30名专任教师[3]；最终拟聘用人数依据现有证据不能唯一确定，分别记载为10人[1]和12人[2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "64136391-926d-4d8b-80ae-d379686143c1",
+     "filename": "hait_1141-2773_河南机电高等专科学校2011年公开招聘工作情况报告.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "8c1dfc21-17b4-4375-b15a-fcaf6600db74",
+     "filename": "hait_1141-2774_河南机电高等专科学校2011年公开招聘工作情况公示.txt"
+    },
+    {
+     "index": 3,
+     "document_id": "cd506718-d41e-4666-95f9-073ff2f2da28",
+     "filename": "hait_1141-2757_河南机电高等专科学校2011年专任教师公开招聘工作实施方案的报告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    0.9791689515113831,
+    0.966590166091919,
+    0.834862470626831
+   ],
+   "usage": {
+    "input_tokens": 2069,
+    "output_tokens": 1676,
+    "total_tokens": 3745,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 1510
+    }
+   },
+   "latency_ms": 11645.027200000186,
+   "retrieval_ms": 3751.11,
+   "llm_ms": 7892.57,
+   "total_ms": 11644.96,
+   "gold_doc_ids": [
+    "cd506718-d41e-4666-95f9-073ff2f2da28",
+    "64136391-926d-4d8b-80ae-d379686143c1"
+   ],
+   "citation_doc_precision": 0.6666666666666666,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-15",
+   "status": "ok",
+   "question": "同样是去外省，普通公务出差的伙食补助，和到省外单位支援工作期间的伙食补助，标准分别是多少？",
+   "answer": "普通公务出差到外省，伙食补助标准为省外每人每天50元[2]。 \n到省外单位支援工作，在省外单位工作期间，由派出单位按每人每天15元的标准发放伙食补助费[1]；在途期间的伙食补助费按差旅费开支规定执行[1]。",
+   "answer_raw": "普通公务出差到外省，伙食补助标准为省外每人每天50元[2]。  \n到省外单位支援工作，在省外单位工作期间，由派出单位按每人每天15元的标准发放伙食补助费[1]；在途期间的伙食补助费按差旅费开支规定执行[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9860148429870605,
+    0.95831298828125
+   ],
+   "usage": {
+    "input_tokens": 1923,
+    "output_tokens": 592,
+    "total_tokens": 2515,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 523
+    }
+   },
+   "latency_ms": 4823.612399995909,
+   "retrieval_ms": 1800.63,
+   "llm_ms": 3021.57,
+   "total_ms": 4823.52,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-16",
+   "status": "ok",
+   "question": "青年公寓居住人员需要缴纳的费用项目包括哪些？",
+   "answer": "青年公寓居住人员需要缴纳的费用项目包括：房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费[1][2]。\n\n具体说明如下：\n- 凡在新、老校区青年公寓居住的人员，均须按规定缴纳上述相关费用[1]。\n- 费用收缴标准详见附件，附件所列项目同样为房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费[2]。\n- 其中，房租按不同房型和居住情形设有相应标准，如缴纳20000元房款者继续执行以息抵租、免收房租，1室1厅（1人间）为120元/月·套，非本人居住（1人间）为500元/月·套等[2]。\n- 楼道楼梯保洁费中，1人间为6元/月·套，2人间为3元/月·人[2]。\n- 集中供热入网费按政府文件标准执行[2]。",
+   "answer_raw": "青年公寓居住人员需要缴纳的费用项目包括：房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费[1][2]。\n\n具体说明如下：\n- 凡在新、老校区青年公寓居住的人员，均须按规定缴纳上述相关费用[1]。\n- 费用收缴标准详见附件，附件所列项目同样为房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费[2]。\n- 其中，房租按不同房型和居住情形设有相应标准，如缴纳20000元房款者继续执行以息抵租、免收房租，1室1厅（1人间）为120元/月·套，非本人居住（1人间）为500元/月·套等[2]。\n- 楼道楼梯保洁费中，1人间为6元/月·套，2人间为3元/月·人[2]。\n- 集中供热入网费按政府文件标准执行[2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6ae05dfe-a1e9-48f2-8051-f450221a7d25",
+     "filename": "hait_1141-2761_河南机电高等专科学校青年公寓管理及费用收缴暂行办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "6ae05dfe-a1e9-48f2-8051-f450221a7d25",
+     "filename": "hait_1141-2761_河南机电高等专科学校青年公寓管理及费用收缴暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.9988206028938293,
+    0.9737793803215027
+   ],
+   "usage": {
+    "input_tokens": 1208,
+    "output_tokens": 261,
+    "total_tokens": 1469,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 42
+    }
+   },
+   "latency_ms": 4478.861299998243,
+   "retrieval_ms": 3233.52,
+   "llm_ms": 1243.82,
+   "total_ms": 4478.77,
+   "gold_doc_ids": [
+    "6ae05dfe-a1e9-48f2-8051-f450221a7d25"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "u01",
+   "status": "refused",
+   "question": "学校教职工住房公积金的缴存比例是多少？学校和个人各承担多少？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 1416.0134999983711,
+   "retrieval_ms": 1415.92,
+   "llm_ms": 0.0,
+   "total_ms": 1415.93,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u02",
+   "status": "refused",
+   "question": "学校食堂的营业时间是几点到几点？周末会不会调整？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 3123.6355000000913,
+   "retrieval_ms": 3123.53,
+   "llm_ms": 0.0,
+   "total_ms": 3123.54,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u03",
+   "status": "refused",
+   "question": "图书馆的开馆时间和闭馆时间是几点？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 3290.0527999954647,
+   "retrieval_ms": 3289.96,
+   "llm_ms": 0.0,
+   "total_ms": 3289.97,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u04",
+   "status": "refused",
+   "question": "学生宿舍晚上几点熄灯？节假日熄灯时间会延后吗？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 2233.9656000040122,
+   "retrieval_ms": 2233.82,
+   "llm_ms": 0.0,
+   "total_ms": 2233.83,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u05",
+   "status": "refused",
+   "question": "学校校车（通勤班车）的发车时间和行驶路线是怎么安排的？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 3502.7518999995664,
+   "retrieval_ms": 3502.66,
+   "llm_ms": 0.0,
+   "total_ms": 3502.67,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u06",
+   "status": "refused",
+   "question": "学生浴室的开放时间和洗澡的收费标准是多少？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 3638.8810999997077,
+   "retrieval_ms": 3638.8,
+   "llm_ms": 0.0,
+   "total_ms": 3638.81,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u07",
+   "status": "refused",
+   "question": "学生参加城乡居民基本医疗保险的缴费标准和门诊报销流程是什么？",
+   "answer": "检索到的材料与你的问题相关性不足，为避免给出不准确的回答，本次不予作答。请换一种问法或补充背景信息。",
+   "answer_raw": null,
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": false,
+   "llm_insufficient": false,
+   "evidence_count": 0,
+   "evidence_scores": [],
+   "usage": {},
+   "latency_ms": 3850.9940000003553,
+   "retrieval_ms": 3850.91,
+   "llm_ms": 0.0,
+   "total_ms": 3850.92,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u08",
+   "status": "insufficient_evidence",
+   "question": "推荐优秀应届本科毕业生免试攻读研究生（推免）的名额和申请条件是什么？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 2,
+   "evidence_scores": [
+    0.5991216897964478,
+    0.48411989212036133
+   ],
+   "usage": {
+    "input_tokens": 1382,
+    "output_tokens": 32,
+    "total_tokens": 1414,
+    "input_token_details": {
+     "cache_read": 512
+    },
+    "output_token_details": {
+     "reasoning": 23
+    }
+   },
+   "latency_ms": 4345.270300000266,
+   "retrieval_ms": 3294.51,
+   "llm_ms": 1049.28,
+   "total_ms": 4345.16,
+   "gold_doc_ids": []
+  }
+ ],
+ "hybrid:norerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "question": "“反洗钱知识进校园”活动是由哪家单位主办、由学校哪个单位承办的？",
+   "answer": "“反洗钱知识进校园”活动由中国人民银行新乡市分行主办，由我校经济学院承办[1]。",
+   "answer_raw": "“反洗钱知识进校园”活动由中国人民银行新乡市分行主办，由我校经济学院承办[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "filename": "hait_1060-18876_关于开展“反洗钱知识进校园”活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2719,
+    "output_tokens": 52,
+    "total_tokens": 2771,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 26
+    }
+   },
+   "latency_ms": 974.2907000036212,
+   "retrieval_ms": 33.98,
+   "llm_ms": 938.77,
+   "total_ms": 974.15,
+   "gold_doc_ids": [
+    "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "question": "河南工学院招博士时，如果本人不需要学校解决配偶工作，安家费会有什么变化？",
+   "answer": "不需要学校解决配偶工作的，安家费会额外上浮3万元[1]。",
+   "answer_raw": "不需要学校解决配偶工作的，安家费会额外上浮3万元[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "filename": "hait_1063-18291_河南工学院2026年诚聘国内外高层次人才公告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2676,
+    "output_tokens": 41,
+    "total_tokens": 2717,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 22
+    }
+   },
+   "latency_ms": 662.4985999951605,
+   "retrieval_ms": 39.71,
+   "llm_ms": 619.42,
+   "total_ms": 662.37,
+   "gold_doc_ids": [
+    "c6c1ec8d-561b-45dd-9474-7a988cb8dc06"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "question": "教师参加“智变·重构·共生”AI时代教学新生态专题培训，是通过什么方式授课的？",
+   "answer": "该培训采用超星在线直播方式开展，并支持回看[1]。\n\n- 授课方式：本次培训采用超星在线直播方式开展，并支持回看[1]。\n- 参训途径：参训教师使用“学习通”APP，在首页右上角扫码或输入班级邀请码加入课程班级，进入“课程—我学的课—章节”观看直播或回放[1]。",
+   "answer_raw": "该培训采用超星在线直播方式开展，并支持回看[1]。\n\n- 授课方式：本次培训采用超星在线直播方式开展，并支持回看[1]。\n- 参训途径：参训教师使用“学习通”APP，在首页右上角扫码或输入班级邀请码加入课程班级，进入“课程—我学的课—章节”观看直播或回放[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "filename": "hait_1063-18783_关于开展2026年秋季学期“智变·重构·共生” AI时代教学新生态构建与教师发展公益直播周学习的.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2675,
+    "output_tokens": 427,
+    "total_tokens": 3102,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 338
+    }
+   },
+   "latency_ms": 2218.6355000012554,
+   "retrieval_ms": 29.41,
+   "llm_ms": 2187.93,
+   "total_ms": 2218.57,
+   "gold_doc_ids": [
+    "1dd2a31c-b08a-4735-902d-525c74b98b7f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-04",
+   "status": "ok",
+   "question": "申报2027年度河南省重点研发专项，对项目负责人的年龄上限有什么要求？",
+   "answer": "申报2027年度河南省重点研发专项，项目负责人年龄上限为不超过60周岁，即应为1966年6月30日后出生 [2]。\n\n补充说明：该专项鼓励青年创新人才担任项目负责人 [2]。",
+   "answer_raw": "申报2027年度河南省重点研发专项，项目负责人年龄上限为不超过60周岁，即应为1966年6月30日后出生 [2]。\n\n补充说明：该专项鼓励青年创新人才担任项目负责人 [2]。",
+   "citations": [
+    {
+     "index": 2,
+     "document_id": "d88df23a-04c7-445d-95e6-3aa7eefead8c",
+     "filename": "hait_1065-18733_关于组织申报2027年度河南省重点研发专项的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3753,
+    "output_tokens": 136,
+    "total_tokens": 3889,
+    "input_token_details": {
+     "cache_read": 0
+    },
+    "output_token_details": {
+     "reasoning": 89
+    }
+   },
+   "latency_ms": 1046.3597999987542,
+   "retrieval_ms": 33.55,
+   "llm_ms": 1010.89,
+   "total_ms": 1046.27,
+   "gold_doc_ids": [
+    "d88df23a-04c7-445d-95e6-3aa7eefead8c",
+    "91d265d2-97e9-4788-825b-3fb454f18138"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 0.5,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-05",
+   "status": "ok",
+   "question": "2027年度省科技攻关项目在经费管理上全面推行哪一项制度？",
+   "answer": "2027年度省科技攻关项目在经费管理上全面推行科研经费“包干制”[3]。\n\n- 经费支持项目全面推行科研经费“包干制”，实行项目经费定额包干资助，项目申请人不再编制项目经费预算[3]。\n- 同时实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责[3]。",
+   "answer_raw": "2027年度省科技攻关项目在经费管理上全面推行科研经费“包干制”[3]。\n\n- 经费支持项目全面推行科研经费“包干制”，实行项目经费定额包干资助，项目申请人不再编制项目经费预算[3]。\n- 同时实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责[3]。",
+   "citations": [
+    {
+     "index": 3,
+     "document_id": "91d265d2-97e9-4788-825b-3fb454f18138",
+     "filename": "hait_1065-18734_关于组织申报2027年度省科技攻关项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3642,
+    "output_tokens": 163,
+    "total_tokens": 3805,
+    "input_token_details": {
+     "cache_read": 0
+    },
+    "output_token_details": {
+     "reasoning": 74
+    }
+   },
+   "latency_ms": 790.9681000019191,
+   "retrieval_ms": 29.32,
+   "llm_ms": 760.18,
+   "total_ms": 790.83,
+   "gold_doc_ids": [
+    "91d265d2-97e9-4788-825b-3fb454f18138",
+    "ebdc9c4d-e713-45f4-88ed-9da46fcdc0ea"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 0.5,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-06",
+   "status": "ok",
+   "question": "报名“理响中原 社科润心”微视频，作品需要发布到哪些平台才算完成上传？",
+   "answer": "根据证据1，参赛视频作品须由学校审核通过后上传至“顶端新闻”客户端或哔哩哔哩（B站）公开发布，全程公开可播、不得下架或设密 [1]；同时还需将学校审核通过后的视频上传至百度网盘共享，以便存档复核 [1]。",
+   "answer_raw": "根据证据1，参赛视频作品须由学校审核通过后上传至“顶端新闻”客户端或哔哩哔哩（B站）公开发布，全程公开可播、不得下架或设密 [1]；同时还需将学校审核通过后的视频上传至百度网盘共享，以便存档复核 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "11010882-0287-4a01-94c6-65155abecedf",
+     "filename": "hait_1065-18743_关于组织报送2026年度河南省“理响中原 社科润心”微视频的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2658,
+    "output_tokens": 71,
+    "total_tokens": 2729,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 0
+    }
+   },
+   "latency_ms": 482.38770000170916,
+   "retrieval_ms": 22.52,
+   "llm_ms": 458.46,
+   "total_ms": 482.3,
+   "gold_doc_ids": [
+    "11010882-0287-4a01-94c6-65155abecedf"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-07",
+   "status": "ok",
+   "question": "各部门最晚要在什么时候、把自查材料交到哪个房间，否则就拿不到本季度的文明奖了？",
+   "answer": "结论：各部门最晚须在9月30日（本周三）下午下班前，将自查材料以纸质形式加盖公章报送至办公楼A0912房间；逾期不报者，视为自动放弃本季度文明奖 [1]。\n\n说明：\n- 报送时限为9月30日（本周三）下午下班前 [1]。\n- 报送方式为纸质形式，并加盖公章 [1]。\n- 报送地点为办公楼A0912房间 [1]。\n- 逾期不报的后果是视为自动放弃本季度文明奖 [1]。",
+   "answer_raw": "结论：各部门最晚须在9月30日（本周三）下午下班前，将自查材料以纸质形式加盖公章报送至办公楼A0912房间；逾期不报者，视为自动放弃本季度文明奖 [1]。\n\n说明：\n- 报送时限为9月30日（本周三）下午下班前 [1]。\n- 报送方式为纸质形式，并加盖公章 [1]。\n- 报送地点为办公楼A0912房间 [1]。\n- 逾期不报的后果是视为自动放弃本季度文明奖 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "b20471de-7515-48e1-a648-6275f456ed02",
+     "filename": "hait_1058-18905_关于报送2026年第三季度文明奖自查情况的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3826,
+    "output_tokens": 216,
+    "total_tokens": 4042,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 96
+    }
+   },
+   "latency_ms": 1208.5681000025943,
+   "retrieval_ms": 33.03,
+   "llm_ms": 1173.86,
+   "total_ms": 1208.44,
+   "gold_doc_ids": [
+    "b20471de-7515-48e1-a648-6275f456ed02"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-08",
+   "status": "insufficient_evidence",
+   "question": "学校给教师过节、表彰先进的大会安排在什么时间、什么地点举行？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3265,
+    "output_tokens": 111,
+    "total_tokens": 3376,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 102
+    }
+   },
+   "latency_ms": 1199.624600005336,
+   "retrieval_ms": 27.64,
+   "llm_ms": 1170.26,
+   "total_ms": 1199.53,
+   "gold_doc_ids": [
+    "54d7bad6-e7c5-43f5-8e30-1b49dc32e247"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b0-09",
+   "status": "ok",
+   "question": "我想去听那场讲高速铜缆设计与挑战的学术讲座，应该到哪个教室？",
+   "answer": "应到教学1号楼A104 [1]。\n\n- 该讲座题目为“高速铜缆的设计与挑战”，主讲人为石刘建 [1]。\n- 讲座时间为2026年10月16日（周五）上午10:00-11:00，地点为教学1号楼A104 [1]。",
+   "answer_raw": "应到教学1号楼A104 [1]。\n\n- 该讲座题目为“高速铜缆的设计与挑战”，主讲人为石刘建 [1]。\n- 讲座时间为2026年10月16日（周五）上午10:00-11:00，地点为教学1号楼A104 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "ffd14dbf-bb63-486e-ae7b-25d9ad2dc9d0",
+     "filename": "hait_1060-18942_学术讲座——《高速铜缆的设计与挑战》.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3421,
+    "output_tokens": 128,
+    "total_tokens": 3549,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 61
+    }
+   },
+   "latency_ms": 798.8286000036169,
+   "retrieval_ms": 30.0,
+   "llm_ms": 767.48,
+   "total_ms": 798.76,
+   "gold_doc_ids": [
+    "ffd14dbf-bb63-486e-ae7b-25d9ad2dc9d0"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-10",
+   "status": "ok",
+   "question": "推荐2027年全国“最美教师”河南储备人选，对被推荐教师的从教年限有什么要求？",
+   "answer": "结论：推荐2027年全国“最美教师”河南储备人选，原则上要求教龄5年以上，事迹特别突出可适当放宽 [1]。\n\n说明：\n- 储备人选须为一线从事教学工作的在职教师 [1]。\n- 推荐标准中明确：原则上教龄5年以上，事迹特别突出可适当放宽 [1]。\n- 同等条件下，获得市级及以上荣誉者优先考虑 [1]。",
+   "answer_raw": "结论：推荐2027年全国“最美教师”河南储备人选，原则上要求教龄5年以上，事迹特别突出可适当放宽 [1]。\n\n说明：\n- 储备人选须为一线从事教学工作的在职教师 [1]。\n- 推荐标准中明确：原则上教龄5年以上，事迹特别突出可适当放宽 [1]。\n- 同等条件下，获得市级及以上荣誉者优先考虑 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3695880d-c33e-46cb-9830-686914d330d1",
+     "filename": "hait_1063-18946_关于开展2027年全国“最美教师”河南储备人选推荐工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2295,
+    "output_tokens": 122,
+    "total_tokens": 2417,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 35
+    }
+   },
+   "latency_ms": 1049.4687000027625,
+   "retrieval_ms": 33.39,
+   "llm_ms": 1014.51,
+   "total_ms": 1049.37,
+   "gold_doc_ids": [
+    "3695880d-c33e-46cb-9830-686914d330d1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-11",
+   "status": "ok",
+   "question": "学校2026年专业技术人员继续教育，全年累计学时以及公需科目学时的下限各是多少？",
+   "answer": "2026年专业技术人员继续教育全年累计学时下限为90学时，其中公需科目不少于30学时。\n\n- 2026年1月1日至12月31日，专业技术人员参加继续教育的时间累计应不少于90学时 [1]。\n- 其中公需科目不少于30学时，专业科目不少于60学时 [1]。",
+   "answer_raw": "2026年专业技术人员继续教育全年累计学时下限为90学时，其中公需科目不少于30学时。\n\n- 2026年1月1日至12月31日，专业技术人员参加继续教育的时间累计应不少于90学时 [1]。\n- 其中公需科目不少于30学时，专业科目不少于60学时 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "filename": "hait_1063-18825_关于做好2026年专业技术人员继续教育工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2869,
+    "output_tokens": 140,
+    "total_tokens": 3009,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 69
+    }
+   },
+   "latency_ms": 698.3675000010408,
+   "retrieval_ms": 27.49,
+   "llm_ms": 669.26,
+   "total_ms": 698.27,
+   "gold_doc_ids": [
+    "bd26c29b-fc75-40bf-a031-79186d070732"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-12",
+   "status": "ok",
+   "question": "第十八届全国大学生数学竞赛初赛，获奖总名额和一等奖名额分别控制在参赛人数的多少以内？",
+   "answer": "第十八届全国大学生数学竞赛初赛的获奖总名额不超过赛区总参赛人数的30%，其中一等奖不超过6% [1]。",
+   "answer_raw": "第十八届全国大学生数学竞赛初赛的获奖总名额不超过赛区总参赛人数的30%，其中一等奖不超过6% [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "148364a1-228b-4539-8328-2d498f0677c8",
+     "filename": "hait_1060-18850_关于参加第十八届全国大学生数学竞赛的报名通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2910,
+    "output_tokens": 121,
+    "total_tokens": 3031,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 93
+    }
+   },
+   "latency_ms": 1210.7465000008233,
+   "retrieval_ms": 33.46,
+   "llm_ms": 1175.65,
+   "total_ms": 1210.62,
+   "gold_doc_ids": [
+    "148364a1-228b-4539-8328-2d498f0677c8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-13",
+   "status": "ok",
+   "question": "2026年度河南省社科规划项目中，重大项目立项能够获得多少资助经费？",
+   "answer": "2026年度河南省哲学社会科学规划项目中，重大项目资助20万元 [4]。\n\n- 资助金额：重大项目资助20万元 [4]。\n- 拨付方式：项目立项后拨付40%启动资金，剩余经费在项目通过结项鉴定后拨付 [4]。\n\n（说明：证据中该部分表述为“2026年河南省哲学社会科学规划项目”[4]，与提问中的“河南省社科规划项目”对应。）",
+   "answer_raw": "2026年度河南省哲学社会科学规划项目中，重大项目资助20万元 [4]。\n\n- 资助金额：重大项目资助20万元 [4]。\n- 拨付方式：项目立项后拨付40%启动资金，剩余经费在项目通过结项鉴定后拨付 [4]。\n\n（说明：证据中该部分表述为“2026年河南省哲学社会科学规划项目”[4]，与提问中的“河南省社科规划项目”对应。）",
+   "citations": [
+    {
+     "index": 4,
+     "document_id": "4de59af8-fae0-4e8d-ae06-1a1116f9cc71",
+     "filename": "hait_1065-18725_关于组织申报2026年河南省哲学社会科学规划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3372,
+    "output_tokens": 202,
+    "total_tokens": 3574,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 110
+    }
+   },
+   "latency_ms": 1117.4001999970642,
+   "retrieval_ms": 34.99,
+   "llm_ms": 1080.17,
+   "total_ms": 1117.31,
+   "gold_doc_ids": [
+    "4de59af8-fae0-4e8d-ae06-1a1116f9cc71"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-14",
+   "status": "insufficient_evidence",
+   "question": "2026年10月16日学校安排了两场学术讲座，这两场讲座的题目分别是什么？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3398,
+    "output_tokens": 33,
+    "total_tokens": 3431,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 24
+    }
+   },
+   "latency_ms": 465.37159999570576,
+   "retrieval_ms": 32.68,
+   "llm_ms": 430.96,
+   "total_ms": 465.29,
+   "gold_doc_ids": [
+    "ffd14dbf-bb63-486e-ae7b-25d9ad2dc9d0",
+    "90419e11-c50b-488d-b6d6-247127d0298d"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b0-15",
+   "status": "ok",
+   "question": "学校向上级推荐的“河南省教育厅学术技术带头人”和“全国最美教师河南储备人选”名额各是多少？",
+   "answer": "学校向上级推荐的“河南省教育厅学术技术带头人”名额为2名 [2]，“全国‘最美教师’河南储备人选”名额为1名 [1]。",
+   "answer_raw": "学校向上级推荐的“河南省教育厅学术技术带头人”名额为2名 [2]，“全国‘最美教师’河南储备人选”名额为1名 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3695880d-c33e-46cb-9830-686914d330d1",
+     "filename": "hait_1063-18946_关于开展2027年全国“最美教师”河南储备人选推荐工作的通知.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "c5cab3c2-17f5-49bf-be30-d4300dff0a88",
+     "filename": "hait_1063-18722_关于做好2026年度河南省教育厅学术技术带头人人选推荐工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2972,
+    "output_tokens": 164,
+    "total_tokens": 3136,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 128
+    }
+   },
+   "latency_ms": 1035.5678999985685,
+   "retrieval_ms": 30.26,
+   "llm_ms": 1003.79,
+   "total_ms": 1035.43,
+   "gold_doc_ids": [
+    "c5cab3c2-17f5-49bf-be30-d4300dff0a88",
+    "3695880d-c33e-46cb-9830-686914d330d1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b0-16",
+   "status": "ok",
+   "question": "河南工学院第八届教师课堂教学创新比赛共设置了哪几个赛道？",
+   "answer": "河南工学院第八届教师课堂教学创新比赛共设置 7 个赛道，分别为：新工科、新文科、基础课程、课程思政、产教融合、人工智能、实验教学 [1]。",
+   "answer_raw": "河南工学院第八届教师课堂教学创新比赛共设置 7 个赛道，分别为：新工科、新文科、基础课程、课程思政、产教融合、人工智能、实验教学 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "effd8815-b373-4104-9c49-97421f9983d9",
+     "filename": "hait_1064-18909_关于举办河南工学院第八届教师课堂教学创新比赛的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 1478,
+    "output_tokens": 95,
+    "total_tokens": 1573,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 51
+    }
+   },
+   "latency_ms": 736.2539000023389,
+   "retrieval_ms": 33.04,
+   "llm_ms": 701.55,
+   "total_ms": 736.15,
+   "gold_doc_ids": [
+    "effd8815-b373-4104-9c49-97421f9983d9"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-01",
+   "status": "ok",
+   "question": "申报2027年度省软科学研究计划项目时，申请书的第二、三、四、五部分不允许出现哪些内容？",
+   "answer": "申报2027年度省软科学研究计划项目时，申请书第二、三、四、五部分不得出现项目负责人、申请单位、个人代表作等相关信息 [1]。未按要求进行信息回避的，将按无效申报处理 [1]。",
+   "answer_raw": "申报2027年度省软科学研究计划项目时，申请书第二、三、四、五部分不得出现项目负责人、申请单位、个人代表作等相关信息 [1]。未按要求进行信息回避的，将按无效申报处理 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0066078e-dc75-4649-9126-389610c8c38f",
+     "filename": "hait_1065-18762_关于组织申报2027年度省软科学研究计划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3392,
+    "output_tokens": 101,
+    "total_tokens": 3493,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 50
+    }
+   },
+   "latency_ms": 884.7402999963379,
+   "retrieval_ms": 23.36,
+   "llm_ms": 860.01,
+   "total_ms": 884.64,
+   "gold_doc_ids": [
+    "0066078e-dc75-4649-9126-389610c8c38f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-02",
+   "status": "ok",
+   "question": "国家语言文字“十五五”科研规划项目的申报中，重大项目的申报人必须具备什么职称？",
+   "answer": "国家语言文字\"十五五\"科研规划项目申报中，重大项目申报人必须具有正高级专业技术职称 [1]。\n\n分点说明：\n- 申报人应具有副高级以上（含）专业技术职称或者具有博士学位；不具备以上条件的，须提供2名具有正高级专业技术职称（职务）同行专家的书面推荐意见 [1]。\n- 就重大项目而言，申报人必须具有正高级专业技术职称，原则上应有主持并完成过省部级以上（含）科研项目的经历 [1]。",
+   "answer_raw": "国家语言文字\"十五五\"科研规划项目申报中，重大项目申报人必须具有正高级专业技术职称 [1]。\n\n分点说明：\n- 申报人应具有副高级以上（含）专业技术职称或者具有博士学位；不具备以上条件的，须提供2名具有正高级专业技术职称（职务）同行专家的书面推荐意见 [1]。\n- 就重大项目而言，申报人必须具有正高级专业技术职称，原则上应有主持并完成过省部级以上（含）科研项目的经历 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a6184240-5551-4550-821b-fe07a2cdf6e8",
+     "filename": "hait_1065-18766_关于组织申报国家语言文字“十五五”科研规划2026年度项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2821,
+    "output_tokens": 144,
+    "total_tokens": 2965,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 39
+    }
+   },
+   "latency_ms": 1050.1042999967467,
+   "retrieval_ms": 29.21,
+   "llm_ms": 1018.84,
+   "total_ms": 1049.98,
+   "gold_doc_ids": [
+    "a6184240-5551-4550-821b-fe07a2cdf6e8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-03",
+   "status": "ok",
+   "question": "第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）的主办单位是哪两家？",
+   "answer": "第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）的主办单位为以下两家：\n\n1. 郑州大学 [1]\n2. 河南工学院 [1]",
+   "answer_raw": "第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）的主办单位为以下两家：\n\n1. 郑州大学 [1]\n2. 河南工学院 [1]",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "ba996929-1130-46a0-a516-1ff839a6e919",
+     "filename": "hait_1065-18767_关于举办“第七届电气、电子信息与通信工程 国际学术会议（EEICE 2026)”的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3550,
+    "output_tokens": 84,
+    "total_tokens": 3634,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 42
+    }
+   },
+   "latency_ms": 635.965400004352,
+   "retrieval_ms": 21.83,
+   "llm_ms": 612.73,
+   "total_ms": 635.83,
+   "gold_doc_ids": [
+    "ba996929-1130-46a0-a516-1ff839a6e919"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-04",
+   "status": "ok",
+   "question": "2027年度河南省高等学校重点科研项目中的指导性计划项目，研究经费从哪里来？",
+   "answer": "2027年度河南省高等学校重点科研项目中的指导性计划项目，其研究经费由承担学校统筹解决。\n\n- 指导性计划项目的研究经费，承担学校可统筹使用高校专项业务经费及事业收入给予支持 [1]。\n\n补充说明：资助性计划项目的研究经费由省财政专项经费支持，每项3万元，与指导性计划不同 [1]。",
+   "answer_raw": "2027年度河南省高等学校重点科研项目中的指导性计划项目，其研究经费由承担学校统筹解决。\n\n- 指导性计划项目的研究经费，承担学校可统筹使用高校专项业务经费及事业收入给予支持 [1]。\n\n补充说明：资助性计划项目的研究经费由省财政专项经费支持，每项3万元，与指导性计划不同 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "124fd4a0-b9f9-46b0-b3f3-65f46e7ffed8",
+     "filename": "hait_1065-18814_河南省教育厅关于2027年度河南省高等学校重点科研项目计划立项的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3071,
+    "output_tokens": 108,
+    "total_tokens": 3179,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 29
+    }
+   },
+   "latency_ms": 712.9730000015115,
+   "retrieval_ms": 27.46,
+   "llm_ms": 683.52,
+   "total_ms": 712.89,
+   "gold_doc_ids": [
+    "124fd4a0-b9f9-46b0-b3f3-65f46e7ffed8"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-05",
+   "status": "ok",
+   "question": "安全生产举报奖励知识网络答题活动要通过哪个客户端参与答题？",
+   "answer": "安全生产举报奖励知识网络答题活动需通过\"顶端新闻\"客户端参与答题 [1]。\n\n参与方式为：扫描通知中的二维码，打开顶端新闻客户端参与答题活动 [1]。",
+   "answer_raw": "安全生产举报奖励知识网络答题活动需通过\"顶端新闻\"客户端参与答题 [1]。\n\n参与方式为：扫描通知中的二维码，打开顶端新闻客户端参与答题活动 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c1d3c39b-a3d2-48b2-9708-adec3da61d47",
+     "filename": "hait_1070-18776_关于开展安全生产举报奖励知识网络答题活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 970,
+    "output_tokens": 67,
+    "total_tokens": 1037,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 28
+    }
+   },
+   "latency_ms": 474.8039000041899,
+   "retrieval_ms": 30.87,
+   "llm_ms": 442.52,
+   "total_ms": 474.72,
+   "gold_doc_ids": [
+    "c1d3c39b-a3d2-48b2-9708-adec3da61d47"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-06",
+   "status": "ok",
+   "question": "国庆假期期间，留校师生被明确禁止擅自进入校园里的哪些地方？",
+   "answer": "结论：留校师生被明确禁止擅自进入校园施工区域、楼顶、水域等危险点位 [1]。\n\n说明：\n- 留校师生不得擅自进入校园施工区域、楼顶、水域等危险点位，应远离安全盲区，自觉维护校园秩序 [1]。\n- 假期期间学生还应重点做好防溺水等安全知识普及，提高防范能力 [2]。",
+   "answer_raw": "结论：留校师生被明确禁止擅自进入校园施工区域、楼顶、水域等危险点位 [1]。\n\n说明：\n- 留校师生不得擅自进入校园施工区域、楼顶、水域等危险点位，应远离安全盲区，自觉维护校园秩序 [1]。\n- 假期期间学生还应重点做好防溺水等安全知识普及，提高防范能力 [2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "de7c28d5-5864-4775-bf15-0ed552375af8",
+     "filename": "hait_1070-18918_2026年国庆节假期校园安全温馨提示.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "d74d95a2-2a24-4176-ae5d-6e4b107ac573",
+     "filename": "hait_1123-18867_关于做好2026年中秋节、国庆节假期学生安全教育管理工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 1561,
+    "output_tokens": 180,
+    "total_tokens": 1741,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 98
+    }
+   },
+   "latency_ms": 1195.5348999981652,
+   "retrieval_ms": 26.74,
+   "llm_ms": 1166.94,
+   "total_ms": 1195.45,
+   "gold_doc_ids": [
+    "de7c28d5-5864-4775-bf15-0ed552375af8"
+   ],
+   "citation_doc_precision": 0.5,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-07",
+   "status": "ok",
+   "question": "横向科研项目办结项时，交上去的电子材料里每个负责人的文件夹该怎么起名？",
+   "answer": "横向科研项目结项时，电子版材料需按要求建立单人单文件夹，文件夹命名格式为“主持人姓名+项目名称+项目编号” [1]。",
+   "answer_raw": "横向科研项目结项时，电子版材料需按要求建立单人单文件夹，文件夹命名格式为“主持人姓名+项目名称+项目编号” [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "14999d1d-bd46-4b16-bb96-c809755be5be",
+     "filename": "hait_1065-18809_关于组织开展2026年河南工学院横向科研项目第二批次集中结项的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3939,
+    "output_tokens": 73,
+    "total_tokens": 4012,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 38
+    }
+   },
+   "latency_ms": 1160.0134000036633,
+   "retrieval_ms": 39.08,
+   "llm_ms": 1118.57,
+   "total_ms": 1159.89,
+   "gold_doc_ids": [
+    "14999d1d-bd46-4b16-bb96-c809755be5be"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-08",
+   "status": "ok",
+   "question": "省软科学研究计划项目在经费管理上采用什么做法？申报人还要不要编制经费预算？",
+   "answer": "省软科学研究计划项目在经费管理上实行科研经费“包干制”，申报人不再编制项目经费预算[1]。\n\n具体做法如下：\n- 实行科研经费“包干制”，不再编制项目经费预算，不需要填写申请省财政经费资助额度[1]。\n- 实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责[1]。",
+   "answer_raw": "省软科学研究计划项目在经费管理上实行科研经费“包干制”，申报人不再编制项目经费预算[1]。\n\n具体做法如下：\n- 实行科研经费“包干制”，不再编制项目经费预算，不需要填写申请省财政经费资助额度[1]。\n- 实行项目负责人科研诚信承诺制，项目负责人作为第一责任人签署科研诚信承诺书，对项目经费使用的规范性和合法性负责[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0066078e-dc75-4649-9126-389610c8c38f",
+     "filename": "hait_1065-18762_关于组织申报2027年度省软科学研究计划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3656,
+    "output_tokens": 143,
+    "total_tokens": 3799,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 51
+    }
+   },
+   "latency_ms": 912.097200001881,
+   "retrieval_ms": 28.55,
+   "llm_ms": 882.28,
+   "total_ms": 912.02,
+   "gold_doc_ids": [
+    "0066078e-dc75-4649-9126-389610c8c38f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-09",
+   "status": "ok",
+   "question": "申报2026年省社科规划项目时，论证材料里绝对不能暴露什么东西？",
+   "answer": "不能暴露任何可能透露申请人身份的信息，其中明确包括\"前期研究基础\"在内。[1][2]\n\n分点说明：\n1. 2026年《项目论证活页》与往年相比删除了\"研究基础\"的填写内容，各单位要重点审查，活页中不得出现任何可能透露申报人身份的信息。[1]\n2. 属于不予受理的情形之一：即《项目论证活页》中出现包括前期研究基础在内的任何可能透露申请人身份信息的。[1]\n3. 申请人须按要求如实填写申请材料，并保证没有知识产权争议；《项目论证活页》不得出现包括前期研究基础在内的任何可能透露申请人身份的信息。[2]",
+   "answer_raw": "不能暴露任何可能透露申请人身份的信息，其中明确包括\"前期研究基础\"在内。[1][2]\n\n分点说明：\n1. 2026年《项目论证活页》与往年相比删除了\"研究基础\"的填写内容，各单位要重点审查，活页中不得出现任何可能透露申报人身份的信息。[1]\n2. 属于不予受理的情形之一：即《项目论证活页》中出现包括前期研究基础在内的任何可能透露申请人身份信息的。[1]\n3. 申请人须按要求如实填写申请材料，并保证没有知识产权争议；《项目论证活页》不得出现包括前期研究基础在内的任何可能透露申请人身份的信息。[2]",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6b18bcb5-f9d0-41aa-9692-66e4fdf5880a",
+     "filename": "hait_1065-18760_关于做好2026年省社科规划项目申报工作的补充通知.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "4de59af8-fae0-4e8d-ae06-1a1116f9cc71",
+     "filename": "hait_1065-18725_关于组织申报2026年河南省哲学社会科学规划项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2897,
+    "output_tokens": 339,
+    "total_tokens": 3236,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 196
+    }
+   },
+   "latency_ms": 1496.6848000040045,
+   "retrieval_ms": 33.38,
+   "llm_ms": 1462.06,
+   "total_ms": 1496.55,
+   "gold_doc_ids": [
+    "6b18bcb5-f9d0-41aa-9692-66e4fdf5880a"
+   ],
+   "citation_doc_precision": 0.5,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-10",
+   "status": "ok",
+   "question": "参加“三微”作品征集展播活动，把作品交给保卫处时要用什么介质报送？",
+   "answer": "参加“三微”作品征集展播活动，作品需以U盘或光盘形式报送至保卫处302办公室 [2]。\n\n说明：报送时还须同时提交《作品版权承诺书》《作品登记表》纸质版，由各院部负责人签字并加盖公章 [2]。",
+   "answer_raw": "参加“三微”作品征集展播活动，作品需以U盘或光盘形式报送至保卫处302办公室 [2]。\n\n说明：报送时还须同时提交《作品版权承诺书》《作品登记表》纸质版，由各院部负责人签字并加盖公章 [2]。",
+   "citations": [
+    {
+     "index": 2,
+     "document_id": "3687c4f6-0611-44a8-8c64-2b30a7adae84",
+     "filename": "hait_1070-18911_关于组织参加“深化扫黑除恶 守护你我平安”“三微”作品征集展播活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2781,
+    "output_tokens": 153,
+    "total_tokens": 2934,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 91
+    }
+   },
+   "latency_ms": 1005.4710999975214,
+   "retrieval_ms": 28.54,
+   "llm_ms": 975.77,
+   "total_ms": 1005.33,
+   "gold_doc_ids": [
+    "3687c4f6-0611-44a8-8c64-2b30a7adae84"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-11",
+   "status": "ok",
+   "question": "2026年度河南省政府决策研究招标课题的A类项目能拿到多少资助经费？",
+   "answer": "结论：2026年度河南省政府决策研究招标课题的A类项目资助经费为3万元 [1]。\n\n分点说明：\n1. A类项目资助3万元 [1]。\n2. 项目立项后拨付2万元启动资金，剩余经费在项目通过结项鉴定后拨付 [1]。\n3. 立项课题通过结项鉴定的，发放结项证书；未通过结项鉴定的，不发结项证书，并追回资助经费，不进行二次鉴定 [1]。\n\n补充说明：上述证据未明确剩余经费的具体数额，其余额需按\"资助3万元\"与\"立项后拨付2万元\"推算，证据本身未直接给出该数字 [1]。",
+   "answer_raw": "结论：2026年度河南省政府决策研究招标课题的A类项目资助经费为3万元 [1]。\n\n分点说明：\n1. A类项目资助3万元 [1]。\n2. 项目立项后拨付2万元启动资金，剩余经费在项目通过结项鉴定后拨付 [1]。\n3. 立项课题通过结项鉴定的，发放结项证书；未通过结项鉴定的，不发结项证书，并追回资助经费，不进行二次鉴定 [1]。\n\n补充说明：上述证据未明确剩余经费的具体数额，其余额需按\"资助3万元\"与\"立项后拨付2万元\"推算，证据本身未直接给出该数字 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "5ee0606f-8c24-48be-afed-5f8d73f068b0",
+     "filename": "hait_1065-18755_关于组织申报2026年度河南省政府决策研究课题招标工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2696,
+    "output_tokens": 190,
+    "total_tokens": 2886,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 39
+    }
+   },
+   "latency_ms": 995.3139999997802,
+   "retrieval_ms": 20.99,
+   "llm_ms": 973.21,
+   "total_ms": 995.2,
+   "gold_doc_ids": [
+    "5ee0606f-8c24-48be-afed-5f8d73f068b0"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-12",
+   "status": "ok",
+   "question": "新乡市“揭榜挂帅”项目中，单个项目申请的财政支持资金最高不超过多少？",
+   "answer": "单个项目申请财政支持资金最高不超过300万元 [1]。",
+   "answer_raw": "单个项目申请财政支持资金最高不超过300万元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6dab4365-4652-4c71-9f53-5be9806b43a1",
+     "filename": "hait_1065-18810_关于开展2026年“揭榜挂帅”项目申报的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3284,
+    "output_tokens": 32,
+    "total_tokens": 3316,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 18
+    }
+   },
+   "latency_ms": 435.6284000023152,
+   "retrieval_ms": 20.62,
+   "llm_ms": 413.74,
+   "total_ms": 435.5,
+   "gold_doc_ids": [
+    "6dab4365-4652-4c71-9f53-5be9806b43a1"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-13",
+   "status": "ok",
+   "question": "入选河南省科普专家团后，团队在2年备案期内至少要策划开展多少场科普活动？",
+   "answer": "入选河南省科普专家团后，团队在2年备案期内策划开展的科普活动不少于10场 [1]。\n\n补充说明：\n- 其中线下活动不少于6场，线下参与总人数不少于2000人次 [1]。\n- 支持开展线上科普直播等活动，单次活动线上参与总人数不少于200人次 [1]。",
+   "answer_raw": "入选河南省科普专家团后，团队在2年备案期内策划开展的科普活动不少于10场 [1]。\n\n补充说明：\n- 其中线下活动不少于6场，线下参与总人数不少于2000人次 [1]。\n- 支持开展线上科普直播等活动，单次活动线上参与总人数不少于200人次 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa",
+     "filename": "hait_1065-18920_关于组织申报2027年度河南省科普专家团的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2804,
+    "output_tokens": 115,
+    "total_tokens": 2919,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 45
+    }
+   },
+   "latency_ms": 793.2881000015186,
+   "retrieval_ms": 27.87,
+   "llm_ms": 763.87,
+   "total_ms": 793.17,
+   "gold_doc_ids": [
+    "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-14",
+   "status": "insufficient_evidence",
+   "question": "2026年9月22日下午在办公楼12楼第三会议室同时安排了一场学术讲座和一场动员会，它们分别是什么活动？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2195,
+    "output_tokens": 433,
+    "total_tokens": 2628,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 424
+    }
+   },
+   "latency_ms": 2115.5316999938805,
+   "retrieval_ms": 33.57,
+   "llm_ms": 2080.51,
+   "total_ms": 2115.44,
+   "gold_doc_ids": [
+    "85f06ed6-ee8f-44bf-b72e-2a1eb1f5a740",
+    "0639fb63-7d5a-4e6e-a016-373f379ff4f1"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b1-15",
+   "status": "ok",
+   "question": "2027年度河南省科普专家团和科普作品创作项目这两项申报，纸质材料的报送截止日期是同一天吗？电子版材料的最后期限又是哪天？",
+   "answer": "结论：是，两项申报的纸质材料报送截止日期是同一天；电子版材料的最后期限需区分材料类型，最晚为2026年10月28日。\n\n1. 2027年度河南省科普作品创作项目的纸质材料，即4份申报书、附件证明材料和知识产权保护承诺书纸质件，应于2026年10月23日前报送至科研处 [2]。\n2. 2027年度河南省科普专家团的纸质材料，即4份申报书及证明材料纸质件，也应于2026年10月23日前报送至科研处 [4]。\n3. 因此，两项申报的纸质材料报送截止日期均为2026年10月23日，是同一天 [2][4]。\n4. 电子版材料方面：科普作品创作项目的推荐汇总表电子版应在2026年10月23日前报送至科研处 [2]；科普专家团的推荐汇总表和成员信息汇总表电子版应在2026年10月23日前报送至科研处 [4]。\n5. 盖章手续办结后，科普作品创作项目的1份不胶装申报书和知识产权保护承诺书退回申报人，由申报人扫描，并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [2]。\n6. 盖章手续办结后，科普专家团的1份不胶装申报书退回申报人，由申报人扫描，并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [4]。\n7. 所以，若指申报书Word版和盖章扫描件PDF版，两项电子版材料的最后期限均为2026年10月28日 [2][4]；汇总表类电子版则需在2026年10月23日前报送 [2][4]。",
+   "answer_raw": "结论：是，两项申报的纸质材料报送截止日期是同一天；电子版材料的最后期限需区分材料类型，最晚为2026年10月28日。\n\n1. 2027年度河南省科普作品创作项目的纸质材料，即4份申报书、附件证明材料和知识产权保护承诺书纸质件，应于2026年10月23日前报送至科研处 [2]。\n2. 2027年度河南省科普专家团的纸质材料，即4份申报书及证明材料纸质件，也应于2026年10月23日前报送至科研处 [4]。\n3. 因此，两项申报的纸质材料报送截止日期均为2026年10月23日，是同一天 [2][4]。\n4. 电子版材料方面：科普作品创作项目的推荐汇总表电子版应在2026年10月23日前报送至科研处 [2]；科普专家团的推荐汇总表和成员信息汇总表电子版应在2026年10月23日前报送至科研处 [4]。\n5. 盖章手续办结后，科普作品创作项目的1份不胶装申报书和知识产权保护承诺书退回申报人，由申报人扫描，并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [2]。\n6. 盖章手续办结后，科普专家团的1份不胶装申报书退回申报人，由申报人扫描，并于2026年10月28日前将申报书Word版和盖章扫描件PDF版发送至科研处工作邮箱 [4]。\n7. 所以，若指申报书Word版和盖章扫描件PDF版，两项电子版材料的最后期限均为2026年10月28日 [2][4]；汇总表类电子版则需在2026年10月23日前报送 [2][4]。",
+   "citations": [
+    {
+     "index": 2,
+     "document_id": "825c89dd-c464-4a4f-a56b-3534d84fc463",
+     "filename": "hait_1065-18921_关于组织申报2027年度河南省科普作品创作项目的通知.txt"
+    },
+    {
+     "index": 4,
+     "document_id": "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa",
+     "filename": "hait_1065-18920_关于组织申报2027年度河南省科普专家团的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2573,
+    "output_tokens": 1333,
+    "total_tokens": 3906,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 939
+    }
+   },
+   "latency_ms": 5303.456000001461,
+   "retrieval_ms": 37.2,
+   "llm_ms": 5264.48,
+   "total_ms": 5303.37,
+   "gold_doc_ids": [
+    "e9b57ed9-1eaf-4429-86d5-e7ae4fe10faa",
+    "825c89dd-c464-4a4f-a56b-3534d84fc463"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b1-16",
+   "status": "ok",
+   "question": "2027年度河南省科普作品创作项目重点支持哪五个方向？",
+   "answer": "2027年度河南省科普作品创作项目重点支持以下五个方向 [1]：\n\n1. 加强爱国主义教育，弘扬科学家精神 [1]；\n2. 普及基础前沿学科知识 [1]；\n3. 服务国家战略与我省产业创新 [1]；\n4. 助力我省乡村全面振兴 [1]；\n5. 回应我省科技热点和社会焦点 [1]。",
+   "answer_raw": "2027年度河南省科普作品创作项目重点支持以下五个方向 [1]：\n\n1. 加强爱国主义教育，弘扬科学家精神 [1]；\n2. 普及基础前沿学科知识 [1]；\n3. 服务国家战略与我省产业创新 [1]；\n4. 助力我省乡村全面振兴 [1]；\n5. 回应我省科技热点和社会焦点 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "825c89dd-c464-4a4f-a56b-3534d84fc463",
+     "filename": "hait_1065-18921_关于组织申报2027年度河南省科普作品创作项目的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2882,
+    "output_tokens": 142,
+    "total_tokens": 3024,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 60
+    }
+   },
+   "latency_ms": 1145.3219999966677,
+   "retrieval_ms": 22.67,
+   "llm_ms": 1121.45,
+   "total_ms": 1145.19,
+   "gold_doc_ids": [
+    "825c89dd-c464-4a4f-a56b-3534d84fc463"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-01",
+   "status": "ok",
+   "question": "2026级新生在学习通里进入河南工学院图书馆页面，需要输入哪个图书馆邀请码？",
+   "answer": "需要输入的图书馆邀请码是 **hngxytsg** [1]。\n\n说明：下载登录“学习通APP”后，在右上方输入图书馆邀请码“hngxytsg”，即可进入“河南工学院图书馆”页面，使用各类线上学习资源 [1]。",
+   "answer_raw": "需要输入的图书馆邀请码是 **hngxytsg** [1]。\n\n说明：下载登录“学习通APP”后，在右上方输入图书馆邀请码“hngxytsg”，即可进入“河南工学院图书馆”页面，使用各类线上学习资源 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "b29a32e0-ca34-4039-b170-91ba5e465731",
+     "filename": "hait_1091-18880_关于开展“悦见工图·阅见美好”2026级新生入馆教育系列活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3291,
+    "output_tokens": 110,
+    "total_tokens": 3401,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 50
+    }
+   },
+   "latency_ms": 946.6801000016858,
+   "retrieval_ms": 32.99,
+   "llm_ms": 911.45,
+   "total_ms": 946.58,
+   "gold_doc_ids": [
+    "b29a32e0-ca34-4039-b170-91ba5e465731"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-02",
+   "status": "ok",
+   "question": "学校校务公开工作办公室挂靠在哪个部门？",
+   "answer": "学校校务公开工作办公室挂靠在校长办公室 [1]。",
+   "answer_raw": "学校校务公开工作办公室挂靠在校长办公室 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "166dc7d0-aea5-468c-99ed-8dc984bfa043",
+     "filename": "hait_1141-2746_河南机电高等专科学校校务公开工作暂行规定.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3419,
+    "output_tokens": 53,
+    "total_tokens": 3472,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 39
+    }
+   },
+   "latency_ms": 768.5111000027973,
+   "retrieval_ms": 27.44,
+   "llm_ms": 739.53,
+   "total_ms": 768.39,
+   "gold_doc_ids": [
+    "166dc7d0-aea5-468c-99ed-8dc984bfa043"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-03",
+   "status": "ok",
+   "question": "学校学术委员会的委员经民主推荐产生后，由谁审定、由谁聘任？",
+   "answer": "学校学术委员会的委员经民主推荐产生后，由学校党委会审定，由校长聘任 [1]。\n\n依据：学术委员会由学校有关学科的专家组成，委员应为民主推荐，由学校党委会审定，校长聘任 [1]。",
+   "answer_raw": "学校学术委员会的委员经民主推荐产生后，由学校党委会审定，由校长聘任 [1]。\n\n依据：学术委员会由学校有关学科的专家组成，委员应为民主推荐，由学校党委会审定，校长聘任 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "filename": "hait_1141-15097_河南工学院章程.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2711,
+    "output_tokens": 99,
+    "total_tokens": 2810,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 49
+    }
+   },
+   "latency_ms": 752.1450999993249,
+   "retrieval_ms": 26.39,
+   "llm_ms": 724.26,
+   "total_ms": 752.06,
+   "gold_doc_ids": [
+    "a201b2ec-1467-41be-9bd1-15bbe9b093a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-04",
+   "status": "ok",
+   "question": "2026级新生入学教育实行哪三段式的安排？",
+   "answer": "2026级新生入学教育实行“前置教育+集中教育+分散教育”三段式安排 [1]。\n\n具体安排如下：\n- 前置教育：将部分教育环节前置至报到之前，做好预报到阶段思想引导与政策宣讲，实现“未报到先教育” [1]。\n- 集中教育：时间为8月下旬至9月中旬，利用军训期间、开学典礼统筹开展集中专题教育 [1]。\n- 分散教育：时间贯穿第一学年上学期，由各学院参照新生入学教育的内容，结合本院专业特色、学生学情，常态化开展延伸教育活动 [1]。",
+   "answer_raw": "2026级新生入学教育实行“前置教育+集中教育+分散教育”三段式安排 [1]。\n\n具体安排如下：\n- 前置教育：将部分教育环节前置至报到之前，做好预报到阶段思想引导与政策宣讲，实现“未报到先教育” [1]。\n- 集中教育：时间为8月下旬至9月中旬，利用军训期间、开学典礼统筹开展集中专题教育 [1]。\n- 分散教育：时间贯穿第一学年上学期，由各学院参照新生入学教育的内容，结合本院专业特色、学生学情，常态化开展延伸教育活动 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+     "filename": "hait_1123-18774_关于做好2026级新生入学教育工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2484,
+    "output_tokens": 223,
+    "total_tokens": 2707,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 97
+    }
+   },
+   "latency_ms": 1135.847699995793,
+   "retrieval_ms": 25.57,
+   "llm_ms": 1109.16,
+   "total_ms": 1135.74,
+   "gold_doc_ids": [
+    "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-05",
+   "status": "ok",
+   "question": "体检时如果有学生存在晕针晕血史，学校要求在什么环节提前告知现场工作人员？",
+   "answer": "结论：有晕针晕血史的学生，应在采血前提前告知现场工作人员 [1]。\n\n说明：学校在体检注意事项中明确，如有晕针晕血史的学生，请在采血前提前告知现场工作人员，以便做好防护措施 [1]。",
+   "answer_raw": "结论：有晕针晕血史的学生，应在采血前提前告知现场工作人员 [1]。\n\n说明：学校在体检注意事项中明确，如有晕针晕血史的学生，请在采血前提前告知现场工作人员，以便做好防护措施 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "83c1aa34-3e3f-443e-9e2e-7a40181fa771",
+     "filename": "hait_1094-18808_关于开展2026年新生体检工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3869,
+    "output_tokens": 87,
+    "total_tokens": 3956,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 32
+    }
+   },
+   "latency_ms": 774.5113999990281,
+   "retrieval_ms": 21.46,
+   "llm_ms": 751.49,
+   "total_ms": 774.37,
+   "gold_doc_ids": [
+    "83c1aa34-3e3f-443e-9e2e-7a40181fa771"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-06",
+   "status": "ok",
+   "question": "2026级学生参加心理健康状况测评，手机端要在微信里搜索打开哪个小程序？",
+   "answer": "2026级学生手机端需在微信中搜索并打开小程序“荔枝心理测评”[1]。",
+   "answer_raw": "2026级学生手机端需在微信中搜索并打开小程序“荔枝心理测评”[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a68ade80-e842-4e8f-b191-27d9a1290889",
+     "filename": "hait_1123-18932_关于开展2026级学生心理健康状况测评工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 1830,
+    "output_tokens": 46,
+    "total_tokens": 1876,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 24
+    }
+   },
+   "latency_ms": 739.3812000009348,
+   "retrieval_ms": 21.01,
+   "llm_ms": 716.96,
+   "total_ms": 739.26,
+   "gold_doc_ids": [
+    "a68ade80-e842-4e8f-b191-27d9a1290889"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-07",
+   "status": "ok",
+   "question": "用人单位想去参加这次秋季双选会，最晚要在什么时候之前把参会手续办完？",
+   "answer": "最晚应在2026年10月12日下午17:30前完成报名手续 [1]。\n\n- 报名时间为2026年9月14日—10月12日下午17:30 [1]。\n- 审核通过后，需登录企业后台，在“招聘管理”中【我的双选会】查看审核状态，如已通过，点击【确认参会】下载“双选会参会凭证” [1]。\n- 审核通过的企业，10月13日之后打印参会凭证，参会人员带上参会证入校 [2]。",
+   "answer_raw": "最晚应在2026年10月12日下午17:30前完成报名手续 [1]。\n\n- 报名时间为2026年9月14日—10月12日下午17:30 [1]。\n- 审核通过后，需登录企业后台，在“招聘管理”中【我的双选会】查看审核状态，如已通过，点击【确认参会】下载“双选会参会凭证” [1]。\n- 审核通过的企业，10月13日之后打印参会凭证，参会人员带上参会证入校 [2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "19da7c3e-0acb-447c-8f5e-355db8c42f5b",
+     "filename": "hait_1071-18937_“豫荐未来 青春启航” 河南工学院2027届毕业生秋季双选会邀请函.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "19da7c3e-0acb-447c-8f5e-355db8c42f5b",
+     "filename": "hait_1071-18937_“豫荐未来 青春启航” 河南工学院2027届毕业生秋季双选会邀请函.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2579,
+    "output_tokens": 1191,
+    "total_tokens": 3770,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 1074
+    }
+   },
+   "latency_ms": 5395.012399996631,
+   "retrieval_ms": 20.83,
+   "llm_ms": 5372.41,
+   "total_ms": 5394.94,
+   "gold_doc_ids": [
+    "19da7c3e-0acb-447c-8f5e-355db8c42f5b"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-08",
+   "status": "ok",
+   "question": "学院把教学信息员的申请材料汇总收齐后，纸质版要送到学校哪个地方？",
+   "answer": "各学院教学秘书汇总后，纸质版材料应统一报送至教学质量监控与评估中心，地点为图书馆8楼A0818 [1]。\n\n- 需报送的材料为《河南工学院学生教学信息员申请表》（附件1）和《河南工学院学生教学信息员汇总表》（附件2）[1]。\n- 报送截止时间为2026年10月15日下午17:00之前 [1]。\n- 电子版材料发至邮箱hngxyjpzx@hait.edu.cn [1]。",
+   "answer_raw": "各学院教学秘书汇总后，纸质版材料应统一报送至教学质量监控与评估中心，地点为图书馆8楼A0818 [1]。\n\n- 需报送的材料为《河南工学院学生教学信息员申请表》（附件1）和《河南工学院学生教学信息员汇总表》（附件2）[1]。\n- 报送截止时间为2026年10月15日下午17:00之前 [1]。\n- 电子版材料发至邮箱hngxyjpzx@hait.edu.cn [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6ee59a68-bf75-4226-ae83-923d81259bca",
+     "filename": "hait_1072-18926_关于聘任2026级学生教学信息员的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3933,
+    "output_tokens": 141,
+    "total_tokens": 4074,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 30
+    }
+   },
+   "latency_ms": 1026.0087000060594,
+   "retrieval_ms": 25.38,
+   "llm_ms": 999.2,
+   "total_ms": 1025.92,
+   "gold_doc_ids": [
+    "6ee59a68-bf75-4226-ae83-923d81259bca"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-09",
+   "status": "ok",
+   "question": "各学院秋季心理健康活动办完之后，总结等材料最迟什么时候要交上去？",
+   "answer": "各学院秋季心理健康教育活动总结材料最迟应于**11月3日17:00前**报送 [1]。\n\n具体说明：\n- 报送截止时间为11月3日17:00前，需将本学院秋季学期心理健康教育活动总结报送至大学生心理健康教育中心邮箱 xinli@hait.edu.cn [1]。\n- 总结内容应包含活动开展情况、特色成果、精选活动照片等 [1]。\n- 邮件主题需统一命名为“XX学院2026秋季心理健康教育活动总结” [1]。\n- 在此之前，各学院应坚持过程管理，认真做好活动全程资料收集、整理与归档，及时总结活动开展情况，提炼特色做法与育人成效 [1]。",
+   "answer_raw": "各学院秋季心理健康教育活动总结材料最迟应于**11月3日17:00前**报送 [1]。\n\n具体说明：\n- 报送截止时间为11月3日17:00前，需将本学院秋季学期心理健康教育活动总结报送至大学生心理健康教育中心邮箱 xinli@hait.edu.cn [1]。\n- 总结内容应包含活动开展情况、特色成果、精选活动照片等 [1]。\n- 邮件主题需统一命名为“XX学院2026秋季心理健康教育活动总结” [1]。\n- 在此之前，各学院应坚持过程管理，认真做好活动全程资料收集、整理与归档，及时总结活动开展情况，提炼特色做法与育人成效 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb33443c-3252-4e6a-aabb-162b1f5bba59",
+     "filename": "hait_1123-18842_关于开展2026年度“予你四季，铸梦河工”大学生心理健康教育系列活动（秋季篇）的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3890,
+    "output_tokens": 270,
+    "total_tokens": 4160,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 121
+    }
+   },
+   "latency_ms": 1297.5151000064216,
+   "retrieval_ms": 33.43,
+   "llm_ms": 1262.37,
+   "total_ms": 1297.43,
+   "gold_doc_ids": [
+    "eb33443c-3252-4e6a-aabb-162b1f5bba59"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-10",
+   "status": "ok",
+   "question": "推荐参评“最美退役军人”，除了填写推荐表，还要另外准备一份多少字、写什么内容的文稿？",
+   "answer": "结论：除推荐表外，还需另外准备一份3000字左右的先进事迹材料 [1]。\n\n说明：\n- 该材料为“先进事迹材料”，与《2026年河南省“最美退役军人”推荐表》一并报送，且为电子版 [1]。\n- 报送截止时间为8月13日上午9:00前，报送邮箱为hgyxsc@126.com，逾期未报视为放弃 [1]。",
+   "answer_raw": "结论：除推荐表外，还需另外准备一份3000字左右的先进事迹材料 [1]。\n\n说明：\n- 该材料为“先进事迹材料”，与《2026年河南省“最美退役军人”推荐表》一并报送，且为电子版 [1]。\n- 报送截止时间为8月13日上午9:00前，报送邮箱为hgyxsc@126.com，逾期未报视为放弃 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6140d562-c822-45ad-a8d9-a739c81908ed",
+     "filename": "hait_1123-18758_关于开展2026年河南省“最美退役军人”“最美拥军人物”推荐工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2234,
+    "output_tokens": 194,
+    "total_tokens": 2428,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 103
+    }
+   },
+   "latency_ms": 1262.2701000000234,
+   "retrieval_ms": 36.62,
+   "llm_ms": 1223.9,
+   "total_ms": 1262.18,
+   "gold_doc_ids": [
+    "6140d562-c822-45ad-a8d9-a739c81908ed"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-11",
+   "status": "ok",
+   "question": "新生入馆教育的线上知识答题闯关，一共设置了多少个关卡？",
+   "answer": "新生入馆教育的线上知识答题闯关一共设置**十个关卡**[1]。\n\n- 每一关包含知识点学习、答题闯关、本关排行板块，需先完整学习对应关卡知识点，再完成闯关答题；闯关失败可反复答题，直至全部关卡通过[1]。",
+   "answer_raw": "新生入馆教育的线上知识答题闯关一共设置**十个关卡**[1]。\n\n- 每一关包含知识点学习、答题闯关、本关排行板块，需先完整学习对应关卡知识点，再完成闯关答题；闯关失败可反复答题，直至全部关卡通过[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "b29a32e0-ca34-4039-b170-91ba5e465731",
+     "filename": "hait_1091-18880_关于开展“悦见工图·阅见美好”2026级新生入馆教育系列活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3327,
+    "output_tokens": 93,
+    "total_tokens": 3420,
+    "input_token_details": {
+     "cache_read": 896
+    },
+    "output_token_details": {
+     "reasoning": 30
+    }
+   },
+   "latency_ms": 714.2572000011569,
+   "retrieval_ms": 28.34,
+   "llm_ms": 684.39,
+   "total_ms": 714.13,
+   "gold_doc_ids": [
+    "b29a32e0-ca34-4039-b170-91ba5e465731"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-12",
+   "status": "insufficient_evidence",
+   "question": "2018—2019学年，河南工学院全校主动公开的信息一共有多少条？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3382,
+    "output_tokens": 52,
+    "total_tokens": 3434,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 43
+    }
+   },
+   "latency_ms": 495.8773999969708,
+   "retrieval_ms": 37.09,
+   "llm_ms": 457.41,
+   "total_ms": 495.79,
+   "gold_doc_ids": [
+    "be487760-f912-47f3-85e4-50ffd843dcd2"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b2-13",
+   "status": "ok",
+   "question": "河南工学院的校庆日是哪一天？",
+   "answer": "河南工学院的校庆日是10月16日[1]。",
+   "answer_raw": "河南工学院的校庆日是10月16日[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "filename": "hait_1141-15097_河南工学院章程.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2971,
+    "output_tokens": 33,
+    "total_tokens": 3004,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 19
+    }
+   },
+   "latency_ms": 560.8896000048844,
+   "retrieval_ms": 25.14,
+   "llm_ms": 533.83,
+   "total_ms": 560.81,
+   "gold_doc_ids": [
+    "a201b2ec-1467-41be-9bd1-15bbe9b093a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-14",
+   "status": "ok",
+   "question": "2022—2023学年和2023—2024学年，学校主动公开的信息条数分别是多少？",
+   "answer": "2022—2023学年学校主动公开信息3473条[4]；2023—2024学年学校主动公开信息3011条[3]。",
+   "answer_raw": "2022—2023学年学校主动公开信息3473条[4]；2023—2024学年学校主动公开信息3011条[3]。",
+   "citations": [
+    {
+     "index": 3,
+     "document_id": "cac5224f-b8ac-4934-8c64-a8247cf368fd",
+     "filename": "hait_1141-16934_河南工学院2023—2024学年年度信息公开工作报告.txt"
+    },
+    {
+     "index": 4,
+     "document_id": "688aea9d-bebb-4b9e-a8bd-5d8b7ec30dda",
+     "filename": "hait_1141-15860_河南工学院2023年度信息公开工作报告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2242,
+    "output_tokens": 70,
+    "total_tokens": 2312,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 36
+    }
+   },
+   "latency_ms": 739.6048000009614,
+   "retrieval_ms": 35.0,
+   "llm_ms": 703.34,
+   "total_ms": 739.5,
+   "gold_doc_ids": [
+    "688aea9d-bebb-4b9e-a8bd-5d8b7ec30dda",
+    "cac5224f-b8ac-4934-8c64-a8247cf368fd"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-15",
+   "status": "ok",
+   "question": "学校章程里规定的校歌，和新生入学教育中要求新生学唱的校歌，是同一首歌吗？它叫什么名字？",
+   "answer": "是同一首歌，名为《开拓之歌》。\n\n- 学校章程规定，校歌为《开拓之歌》[1]。\n- 新生入学教育中的爱校荣校教育要求组织新生学唱校歌《开拓之歌》[2]。\n\n因此，两处所指为同一首歌，即《开拓之歌》[1][2]。",
+   "answer_raw": "是同一首歌，名为《开拓之歌》。\n\n- 学校章程规定，校歌为《开拓之歌》[1]。\n- 新生入学教育中的爱校荣校教育要求组织新生学唱校歌《开拓之歌》[2]。\n\n因此，两处所指为同一首歌，即《开拓之歌》[1][2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "filename": "hait_1141-15097_河南工学院章程.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+     "filename": "hait_1123-18774_关于做好2026级新生入学教育工作的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3534,
+    "output_tokens": 117,
+    "total_tokens": 3651,
+    "input_token_details": {
+     "cache_read": 768
+    },
+    "output_token_details": {
+     "reasoning": 46
+    }
+   },
+   "latency_ms": 905.6019999989076,
+   "retrieval_ms": 23.36,
+   "llm_ms": 880.87,
+   "total_ms": 905.52,
+   "gold_doc_ids": [
+    "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+    "a201b2ec-1467-41be-9bd1-15bbe9b093a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b2-16",
+   "status": "ok",
+   "question": "秋季双选会当天，学校为每家参会单位免费提供哪些物品？",
+   "answer": "根据证据，秋季双选会当天学校为每家参会单位免费提供的物品为：一桌两凳、空白海报（60cm×90cm）、手提袋、记号笔、胶带、免费午餐2份 [1]。\n\n补充说明：\n\n- 招聘单位还可携带易拉宝等宣传物品 [1]。\n- 会议当天有宣讲或面试需求，可在现场服务台申请教室（申请教室时需携带参会凭证进行登记）[1]。\n- 学校不收取参会单位任何费用，中介或劳务派遣机构不予接待 [1]。",
+   "answer_raw": "根据证据，秋季双选会当天学校为每家参会单位免费提供的物品为：一桌两凳、空白海报（60cm×90cm）、手提袋、记号笔、胶带、免费午餐2份 [1]。\n\n补充说明：\n\n- 招聘单位还可携带易拉宝等宣传物品 [1]。\n- 会议当天有宣讲或面试需求，可在现场服务台申请教室（申请教室时需携带参会凭证进行登记）[1]。\n- 学校不收取参会单位任何费用，中介或劳务派遣机构不予接待 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "19da7c3e-0acb-447c-8f5e-355db8c42f5b",
+     "filename": "hait_1071-18937_“豫荐未来 青春启航” 河南工学院2027届毕业生秋季双选会邀请函.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2984,
+    "output_tokens": 160,
+    "total_tokens": 3144,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 41
+    }
+   },
+   "latency_ms": 1044.6171999938088,
+   "retrieval_ms": 20.87,
+   "llm_ms": 1022.62,
+   "total_ms": 1044.53,
+   "gold_doc_ids": [
+    "19da7c3e-0acb-447c-8f5e-355db8c42f5b"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-01",
+   "status": "ok",
+   "question": "学校招标工作领导小组的组长由谁来担任？",
+   "answer": "学校招标工作领导小组的组长由招标项目承办部门的分管校领导担任 [1]。",
+   "answer_raw": "学校招标工作领导小组的组长由招标项目承办部门的分管校领导担任 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "filename": "hait_1141-2768_河南机电高等专科学校招标工作暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2813,
+    "output_tokens": 42,
+    "total_tokens": 2855,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 23
+    }
+   },
+   "latency_ms": 598.2746000008774,
+   "retrieval_ms": 21.44,
+   "llm_ms": 575.77,
+   "total_ms": 598.19,
+   "gold_doc_ids": [
+    "d8740669-6b9f-42fb-99f2-7f520af861a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-02",
+   "status": "ok",
+   "question": "建筑工程质量的保修期是从哪一天开始计算的？",
+   "answer": "建筑工程质量保修期从工程竣工验收合格之日起计算 [1]。",
+   "answer_raw": "建筑工程质量保修期从工程竣工验收合格之日起计算 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0a318085-ce27-4386-ba2e-83bcbece7f6a",
+     "filename": "hait_1141-2759_河南机电高等专科学校建筑工程质量保修暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    null
+   ],
+   "usage": {
+    "input_tokens": 974,
+    "output_tokens": 48,
+    "total_tokens": 1022,
+    "input_token_details": {
+     "cache_read": 768
+    },
+    "output_token_details": {
+     "reasoning": 34
+    }
+   },
+   "latency_ms": 730.7501000032062,
+   "retrieval_ms": 27.3,
+   "llm_ms": 701.83,
+   "total_ms": 730.64,
+   "gold_doc_ids": [
+    "0a318085-ce27-4386-ba2e-83bcbece7f6a"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-03",
+   "status": "ok",
+   "question": "部门经费报销的审批采用什么制度？",
+   "answer": "部门经费报销审批实行“一支笔”制度 [1][2]。\n\n- 各部门经费报销审批实行“一支笔”制度，各部门行政负责人对所管理经费的使用范围和使用标准严格把关，不得超范围、超标准开支 [1]。\n- 经费支出实行部门“一支笔”审批制度；经费支出实行审批人和经手人责任制，经手人对各种支出事项及其票据的真实性、合法性负责，审批人根据有关财务制度审批，负审核及相应的行政经济责任 [2]。\n- 报销各类开支时，报账凭单必须由部门行政负责人“一支笔”审批，需要经办人、验收人、批准人三方签字，手续齐全 [4]。\n- 就部门维持经费而言，按照预算安排的用途和额度，由经办人、验收人、部门行政负责人签字后报销 [2]。",
+   "answer_raw": "部门经费报销审批实行“一支笔”制度 [1][2]。\n\n- 各部门经费报销审批实行“一支笔”制度，各部门行政负责人对所管理经费的使用范围和使用标准严格把关，不得超范围、超标准开支 [1]。\n- 经费支出实行部门“一支笔”审批制度；经费支出实行审批人和经手人责任制，经手人对各种支出事项及其票据的真实性、合法性负责，审批人根据有关财务制度审批，负审核及相应的行政经济责任 [2]。\n- 报销各类开支时，报账凭单必须由部门行政负责人“一支笔”审批，需要经办人、验收人、批准人三方签字，手续齐全 [4]。\n- 就部门维持经费而言，按照预算安排的用途和额度，由经办人、验收人、部门行政负责人签字后报销 [2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    },
+    {
+     "index": 4,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3865,
+    "output_tokens": 518,
+    "total_tokens": 4383,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 338
+    }
+   },
+   "latency_ms": 2308.94249999983,
+   "retrieval_ms": 28.49,
+   "llm_ms": 2278.5,
+   "total_ms": 2308.81,
+   "gold_doc_ids": [
+    "37ba4ba7-33cb-48ad-96be-f56c8c9177fe"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-04",
+   "status": "ok",
+   "question": "出差人员由单位或者接待单位免费提供了交通工具的，还能不能领到市内交通费？",
+   "answer": "不能领取。\n\n1. 出差人员由所在单位、接待单位或相关单位免费提供交通工具的，应如实申报，单位不再发放市内交通费 [1]。\n2. 市内交通费本身是用于补助出差人员的市内交通支出的 [1]，因此在交通工具已由单位或接待单位免费提供的情况下，不再另行发放。",
+   "answer_raw": "不能领取。\n\n1. 出差人员由所在单位、接待单位或相关单位免费提供交通工具的，应如实申报，单位不再发放市内交通费 [1]。\n2. 市内交通费本身是用于补助出差人员的市内交通支出的 [1]，因此在交通工具已由单位或接待单位免费提供的情况下，不再另行发放。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2276,
+    "output_tokens": 209,
+    "total_tokens": 2485,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 138
+    }
+   },
+   "latency_ms": 1338.4655000045313,
+   "retrieval_ms": 23.38,
+   "llm_ms": 1313.35,
+   "total_ms": 1338.33,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-05",
+   "status": "ok",
+   "question": "职工住宅楼的楼梯间窗户、楼顶防水屋面这些公共部位由哪个部门负责维修？",
+   "answer": "结论：职工住宅楼的楼梯间窗户、楼顶防水屋面属于公共部位，由后勤管理处负责维修 [1]。\n\n分点说明：\n- 职工住宅楼公共部位由学校负责维修，修缮时相关住户应予积极配合 [1]。\n- 具体分工中，房屋方面\"住户门以外的外墙、楼梯、走廊、扶手、楼梯间窗户、楼顶防水屋面\"，由后勤管理处维修 [1]。",
+   "answer_raw": "结论：职工住宅楼的楼梯间窗户、楼顶防水屋面属于公共部位，由后勤管理处负责维修 [1]。\n\n分点说明：\n- 职工住宅楼公共部位由学校负责维修，修缮时相关住户应予积极配合 [1]。\n- 具体分工中，房屋方面\"住户门以外的外墙、楼梯、走廊、扶手、楼梯间窗户、楼顶防水屋面\"，由后勤管理处维修 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "c790c59c-d187-4388-b62f-5dfe5943a238",
+     "filename": "hait_1141-2760_河南机电高等专科学校职工住宅楼管理暂行规定.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 2,
+   "evidence_scores": [
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 1872,
+    "output_tokens": 142,
+    "total_tokens": 2014,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 54
+    }
+   },
+   "latency_ms": 1068.8590999998269,
+   "retrieval_ms": 31.16,
+   "llm_ms": 1036.24,
+   "total_ms": 1068.79,
+   "gold_doc_ids": [
+    "c790c59c-d187-4388-b62f-5dfe5943a238"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-06",
+   "status": "ok",
+   "question": "学校专业技术主系列岗位是指哪两类人员？",
+   "answer": "学校专业技术主系列岗位是指高校教师和专职科研人员 [1]。",
+   "answer_raw": "学校专业技术主系列岗位是指高校教师和专职科研人员 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "da373ff4-f0a8-46a7-936e-7864d6503ad4",
+     "filename": "hait_1141-2756_河南机电高等专科学校岗位设置实施方案.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3943,
+    "output_tokens": 56,
+    "total_tokens": 3999,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 40
+    }
+   },
+   "latency_ms": 802.2452000004705,
+   "retrieval_ms": 22.19,
+   "llm_ms": 778.91,
+   "total_ms": 802.15,
+   "gold_doc_ids": [
+    "da373ff4-f0a8-46a7-936e-7864d6503ad4"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-07",
+   "status": "ok",
+   "question": "学校老师要因公外出办事，动身之前必须先办好什么？",
+   "answer": "老师因公外出办事，动身之前必须先履行出差审批手续 [1]。\n\n具体包括：\n\n- 工作人员出差前需履行审批手续（样式见附件）[1]。\n- 审批权限方面：各系、部、处、室部门负责人省内出差，需经学校分管领导同意；到省外出差要经学校分管领导同意、报学校党政负责人批准；部门其他人员出差，省内需经部门负责人同意，省外出差的还应经学校分管领导批准 [1]。\n- 差旅费报销时应附\"出差审批单\"（在校园网校内公告财务处下载）；学校提供交通工具出差的，报销单位还要附校汽车队出具的\"出车证明\"，否则财务处不予报销 [1]。",
+   "answer_raw": "老师因公外出办事，动身之前必须先履行出差审批手续 [1]。\n\n具体包括：\n\n- 工作人员出差前需履行审批手续（样式见附件）[1]。\n- 审批权限方面：各系、部、处、室部门负责人省内出差，需经学校分管领导同意；到省外出差要经学校分管领导同意、报学校党政负责人批准；部门其他人员出差，省内需经部门负责人同意，省外出差的还应经学校分管领导批准 [1]。\n- 差旅费报销时应附\"出差审批单\"（在校园网校内公告财务处下载）；学校提供交通工具出差的，报销单位还要附校汽车队出具的\"出车证明\"，否则财务处不予报销 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3525,
+    "output_tokens": 231,
+    "total_tokens": 3756,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 74
+    }
+   },
+   "latency_ms": 1298.1111999979476,
+   "retrieval_ms": 22.63,
+   "llm_ms": 1274.0,
+   "total_ms": 1298.02,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-08",
+   "status": "ok",
+   "question": "学校的工程出了问题需要维修，如果打电话一直联系不上施工队，接下来学校会怎么办？",
+   "answer": "结论：若属于非紧急维修且电话联系不上施工队，学校会先以特快专递书面通知施工单位法人；若仍逾期不派人维修又不说明原因，则视为施工单位默认委托学校维修，由后勤管理处安排第三方维修，费用从质量保证金中支出[1]。\n\n分点说明：\n1. 非紧急情况下的维修，通过电话联系无效时，由后勤管理处将维修通知书等资料以特快专递的形式寄达施工单位法人[1]。\n2. EMS查询系统显示已签收三日内，施工单位仍未派人维修又未说明原因时，即视为施工单位默认委托学校维修，由后勤管理处安排第三方进行维修，维修费用从质量保证金中支出[1]。\n3. 如果是水、电、暖、消防设施等紧急情况，施工单位须在接到后勤管理处电话通知30分钟内到达现场进行维修；施工单位如因条件所限无法完成紧急情况维修任务时，后勤管理处可及时安排第三方维修，但施工单位须认可发生的维修费用，结算时从质量保证金中支出[1]。",
+   "answer_raw": "结论：若属于非紧急维修且电话联系不上施工队，学校会先以特快专递书面通知施工单位法人；若仍逾期不派人维修又不说明原因，则视为施工单位默认委托学校维修，由后勤管理处安排第三方维修，费用从质量保证金中支出[1]。\n\n分点说明：\n1. 非紧急情况下的维修，通过电话联系无效时，由后勤管理处将维修通知书等资料以特快专递的形式寄达施工单位法人[1]。\n2. EMS查询系统显示已签收三日内，施工单位仍未派人维修又未说明原因时，即视为施工单位默认委托学校维修，由后勤管理处安排第三方进行维修，维修费用从质量保证金中支出[1]。\n3. 如果是水、电、暖、消防设施等紧急情况，施工单位须在接到后勤管理处电话通知30分钟内到达现场进行维修；施工单位如因条件所限无法完成紧急情况维修任务时，后勤管理处可及时安排第三方维修，但施工单位须认可发生的维修费用，结算时从质量保证金中支出[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "0a318085-ce27-4386-ba2e-83bcbece7f6a",
+     "filename": "hait_1141-2759_河南机电高等专科学校建筑工程质量保修暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2125,
+    "output_tokens": 1002,
+    "total_tokens": 3127,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 779
+    }
+   },
+   "latency_ms": 4506.552599996212,
+   "retrieval_ms": 25.21,
+   "llm_ms": 4480.07,
+   "total_ms": 4506.46,
+   "gold_doc_ids": [
+    "0a318085-ce27-4386-ba2e-83bcbece7f6a"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-09",
+   "status": "ok",
+   "question": "要招标的项目，如果符合要求的投标单位数量不够，学校会采取什么办法？",
+   "answer": "符合要求的投标单位数量不够时，按不同环节处理[1]。\n\n- 每个项目的报名单位不得少于3个；少于3个时，可辅以邀请招标方式弥补[1]。\n- 采用邀请招标时，归口职能部门应当向3个及其以上具备承揽招标项目能力、资信良好、互无利益关系的单位发出招标邀请书[1]。\n- 有效投标单位少于3个时，应重新组织招标[1]。",
+   "answer_raw": "符合要求的投标单位数量不够时，按不同环节处理[1]。\n\n- 每个项目的报名单位不得少于3个；少于3个时，可辅以邀请招标方式弥补[1]。\n- 采用邀请招标时，归口职能部门应当向3个及其以上具备承揽招标项目能力、资信良好、互无利益关系的单位发出招标邀请书[1]。\n- 有效投标单位少于3个时，应重新组织招标[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "filename": "hait_1141-2768_河南机电高等专科学校招标工作暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2525,
+    "output_tokens": 961,
+    "total_tokens": 3486,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 861
+    }
+   },
+   "latency_ms": 4287.965299998177,
+   "retrieval_ms": 20.79,
+   "llm_ms": 4265.87,
+   "total_ms": 4287.84,
+   "gold_doc_ids": [
+    "d8740669-6b9f-42fb-99f2-7f520af861a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-10",
+   "status": "insufficient_evidence",
+   "question": "师生如果想申请学校公开某项信息，应该去找哪个部门办理？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3530,
+    "output_tokens": 231,
+    "total_tokens": 3761,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 222
+    }
+   },
+   "latency_ms": 2372.766299995419,
+   "retrieval_ms": 32.76,
+   "llm_ms": 2338.46,
+   "total_ms": 2372.64,
+   "gold_doc_ids": [
+    "f0a5c4f3-32fc-4302-9c95-9f28c6b0ee18"
+   ],
+   "citation_doc_precision": null,
+   "citation_doc_recall": 0.0,
+   "answered": false,
+   "judge": null
+  },
+  {
+   "qid": "b3-11",
+   "status": "ok",
+   "question": "出差到河南省以外的城市，伙食补助费按每人每天多少钱发放？",
+   "answer": "出差到河南省以外的城市，伙食补助费按每人每天50元发放 [1]。\n\n依据：伙食补助费补助标准为省外每人每天50元 [1]。",
+   "answer_raw": "出差到河南省以外的城市，伙食补助费按每人每天50元发放 [1]。\n\n依据：伙食补助费补助标准为省外每人每天50元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3195,
+    "output_tokens": 56,
+    "total_tokens": 3251,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 20
+    }
+   },
+   "latency_ms": 1006.709299996146,
+   "retrieval_ms": 24.65,
+   "llm_ms": 980.75,
+   "total_ms": 1006.63,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-12",
+   "status": "ok",
+   "question": "使用专项经费报销时，单笔支出金额超过多少元就必须由主管财务的校领导签字？",
+   "answer": "使用专项经费报销时，单笔支出金额超过 **10000元** 必须由主管财务的校领导签字[1][2]。\n\n具体规定：专项经费由经办人、部门行政负责人、分管校领导签字后报销；单笔支出金额超过10000元需由主管财务校领导签字后报销[1][2]。",
+   "answer_raw": "使用专项经费报销时，单笔支出金额超过 **10000元** 必须由主管财务的校领导签字[1][2]。\n\n具体规定：专项经费由经办人、部门行政负责人、分管校领导签字后报销；单笔支出金额超过10000元需由主管财务校领导签字后报销[1][2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "filename": "hait_1141-2778_河南机电高等专科学校经费使用及财务审批报账管理暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3106,
+    "output_tokens": 144,
+    "total_tokens": 3250,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 71
+    }
+   },
+   "latency_ms": 786.176899993734,
+   "retrieval_ms": 27.23,
+   "llm_ms": 757.65,
+   "total_ms": 786.06,
+   "gold_doc_ids": [
+    "37ba4ba7-33cb-48ad-96be-f56c8c9177fe"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-13",
+   "status": "ok",
+   "question": "预计金额在50万元及以上的招标项目，每份招标资料费收取多少钱？",
+   "answer": "预计金额在50万元及以上的招标项目，每份招标资料费收取500元 [1]。",
+   "answer_raw": "预计金额在50万元及以上的招标项目，每份招标资料费收取500元 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "filename": "hait_1141-2768_河南机电高等专科学校招标工作暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3094,
+    "output_tokens": 50,
+    "total_tokens": 3144,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 28
+    }
+   },
+   "latency_ms": 1004.8811000015121,
+   "retrieval_ms": 31.64,
+   "llm_ms": 971.35,
+   "total_ms": 1004.75,
+   "gold_doc_ids": [
+    "d8740669-6b9f-42fb-99f2-7f520af861a6"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-14",
+   "status": "ok",
+   "question": "学校2011年的公开招聘工作，计划引进多少名专任教师，最后确定拟聘用多少人？",
+   "answer": "结论：2011年计划公开招聘专任教师30名[2]；但“最后确定拟聘用人数”在证据中存在冲突，分别记载为10人[1][4]和12人[3]。\n\n分点说明：\n- 学校拟从全国高校公开招聘30名研究生充实专任教师队伍[2]；2011年上级审批进人计划为30人，其中博士4人、硕士及以上26人[1]。\n- 一份报告记载，校党委会研究确定10人作为拟聘用对象[1]；该报告所附拟聘用人员花名册也列10人[4]。\n- 另一份公示材料记载，前期初步确定拟聘人选12人，并公示了12人[3]。\n- 因此，按报告及花名册为10人[1][4]，按公示材料为12人[3]，现有证据无法唯一确定“最后”拟聘用人数[1][3][4]。",
+   "answer_raw": "结论：2011年计划公开招聘专任教师30名[2]；但“最后确定拟聘用人数”在证据中存在冲突，分别记载为10人[1][4]和12人[3]。\n\n分点说明：\n- 学校拟从全国高校公开招聘30名研究生充实专任教师队伍[2]；2011年上级审批进人计划为30人，其中博士4人、硕士及以上26人[1]。\n- 一份报告记载，校党委会研究确定10人作为拟聘用对象[1]；该报告所附拟聘用人员花名册也列10人[4]。\n- 另一份公示材料记载，前期初步确定拟聘人选12人，并公示了12人[3]。\n- 因此，按报告及花名册为10人[1][4]，按公示材料为12人[3]，现有证据无法唯一确定“最后”拟聘用人数[1][3][4]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "64136391-926d-4d8b-80ae-d379686143c1",
+     "filename": "hait_1141-2773_河南机电高等专科学校2011年公开招聘工作情况报告.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "cd506718-d41e-4666-95f9-073ff2f2da28",
+     "filename": "hait_1141-2757_河南机电高等专科学校2011年专任教师公开招聘工作实施方案的报告.txt"
+    },
+    {
+     "index": 3,
+     "document_id": "8c1dfc21-17b4-4375-b15a-fcaf6600db74",
+     "filename": "hait_1141-2774_河南机电高等专科学校2011年公开招聘工作情况公示.txt"
+    },
+    {
+     "index": 4,
+     "document_id": "64136391-926d-4d8b-80ae-d379686143c1",
+     "filename": "hait_1141-2773_河南机电高等专科学校2011年公开招聘工作情况报告.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3234,
+    "output_tokens": 2475,
+    "total_tokens": 5709,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 2270
+    }
+   },
+   "latency_ms": 11026.438999993843,
+   "retrieval_ms": 33.31,
+   "llm_ms": 10991.78,
+   "total_ms": 11026.35,
+   "gold_doc_ids": [
+    "cd506718-d41e-4666-95f9-073ff2f2da28",
+    "64136391-926d-4d8b-80ae-d379686143c1"
+   ],
+   "citation_doc_precision": 0.6666666666666666,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-15",
+   "status": "ok",
+   "question": "同样是去外省，普通公务出差的伙食补助，和到省外单位支援工作期间的伙食补助，标准分别是多少？",
+   "answer": "普通公务出差到省外，伙食补助标准为每人每天50元[2]；到省外单位支援工作，在省外单位工作期间的伙食补助由派出单位按每人每天15元发放[1]。\n\n- 普通公务出差：省外伙食补助费为每人每天50元[2]。\n- 到省外单位支援工作：在省外单位工作期间，由派出单位按每人每天15元的标准发放伙食补助费，不报销住宿费和市内交通费[1]。\n- 到省外单位支援工作的在途期间，城市间交通费、住宿费、伙食补助费和市内交通费按照差旅费开支规定执行[1]。",
+   "answer_raw": "普通公务出差到省外，伙食补助标准为每人每天50元[2]；到省外单位支援工作，在省外单位工作期间的伙食补助由派出单位按每人每天15元发放[1]。\n\n- 普通公务出差：省外伙食补助费为每人每天50元[2]。\n- 到省外单位支援工作：在省外单位工作期间，由派出单位按每人每天15元的标准发放伙食补助费，不报销住宿费和市内交通费[1]。\n- 到省外单位支援工作的在途期间，城市间交通费、住宿费、伙食补助费和市内交通费按照差旅费开支规定执行[1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "filename": "hait_1141-2777_河南机电高等专科学校差旅费管理办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3207,
+    "output_tokens": 501,
+    "total_tokens": 3708,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 357
+    }
+   },
+   "latency_ms": 2135.402599997178,
+   "retrieval_ms": 39.51,
+   "llm_ms": 2094.11,
+   "total_ms": 2135.27,
+   "gold_doc_ids": [
+    "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "b3-16",
+   "status": "ok",
+   "question": "青年公寓居住人员需要缴纳的费用项目包括哪些？",
+   "answer": "结论：青年公寓居住人员需要缴纳的费用项目包括房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费 [1][2]。\n\n分点说明：\n1. 凡在新、老校区青年公寓居住的人员，均须按规定缴纳相关费用 [1]。\n2. 具体缴费项目为：房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费 [1]。\n3. 上述费用项目的收缴标准详见《青年公寓费用收缴标准》附件，附件所列项目同为房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费 [2]。",
+   "answer_raw": "结论：青年公寓居住人员需要缴纳的费用项目包括房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费 [1][2]。\n\n分点说明：\n1. 凡在新、老校区青年公寓居住的人员，均须按规定缴纳相关费用 [1]。\n2. 具体缴费项目为：房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费 [1]。\n3. 上述费用项目的收缴标准详见《青年公寓费用收缴标准》附件，附件所列项目同为房租、楼道楼梯保洁费、集中供热入网费、用暖费、电费、水费 [2]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "6ae05dfe-a1e9-48f2-8051-f450221a7d25",
+     "filename": "hait_1141-2761_河南机电高等专科学校青年公寓管理及费用收缴暂行办法.txt"
+    },
+    {
+     "index": 2,
+     "document_id": "6ae05dfe-a1e9-48f2-8051-f450221a7d25",
+     "filename": "hait_1141-2761_河南机电高等专科学校青年公寓管理及费用收缴暂行办法.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 3,
+   "evidence_scores": [
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2047,
+    "output_tokens": 269,
+    "total_tokens": 2316,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 122
+    }
+   },
+   "latency_ms": 1398.5220000031404,
+   "retrieval_ms": 24.7,
+   "llm_ms": 1372.41,
+   "total_ms": 1398.39,
+   "gold_doc_ids": [
+    "6ae05dfe-a1e9-48f2-8051-f450221a7d25"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "error": "ValueError: too many values to unpack (expected 2)"
+   }
+  },
+  {
+   "qid": "u01",
+   "status": "insufficient_evidence",
+   "question": "学校教职工住房公积金的缴存比例是多少？学校和个人各承担多少？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 4,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 2742,
+    "output_tokens": 33,
+    "total_tokens": 2775,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 24
+    }
+   },
+   "latency_ms": 437.46209999517305,
+   "retrieval_ms": 30.46,
+   "llm_ms": 405.37,
+   "total_ms": 437.32,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u02",
+   "status": "insufficient_evidence",
+   "question": "学校食堂的营业时间是几点到几点？周末会不会调整？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 8,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 4197,
+    "output_tokens": 29,
+    "total_tokens": 4226,
+    "input_token_details": {
+     "cache_read": 0
+    },
+    "output_token_details": {
+     "reasoning": 20
+    }
+   },
+   "latency_ms": 961.3219000020763,
+   "retrieval_ms": 27.05,
+   "llm_ms": 932.86,
+   "total_ms": 961.15,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u03",
+   "status": "insufficient_evidence",
+   "question": "图书馆的开馆时间和闭馆时间是几点？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3492,
+    "output_tokens": 29,
+    "total_tokens": 3521,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 20
+    }
+   },
+   "latency_ms": 505.05499999417225,
+   "retrieval_ms": 30.38,
+   "llm_ms": 472.83,
+   "total_ms": 504.9,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u04",
+   "status": "insufficient_evidence",
+   "question": "学生宿舍晚上几点熄灯？节假日熄灯时间会延后吗？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3858,
+    "output_tokens": 30,
+    "total_tokens": 3888,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 21
+    }
+   },
+   "latency_ms": 640.1221999985864,
+   "retrieval_ms": 29.22,
+   "llm_ms": 609.51,
+   "total_ms": 640.01,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u05",
+   "status": "insufficient_evidence",
+   "question": "学校校车（通勤班车）的发车时间和行驶路线是怎么安排的？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 7,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3984,
+    "output_tokens": 31,
+    "total_tokens": 4015,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 22
+    }
+   },
+   "latency_ms": 476.3418000002275,
+   "retrieval_ms": 34.56,
+   "llm_ms": 439.73,
+   "total_ms": 476.26,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u06",
+   "status": "insufficient_evidence",
+   "question": "学生浴室的开放时间和洗澡的收费标准是多少？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3802,
+    "output_tokens": 70,
+    "total_tokens": 3872,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 61
+    }
+   },
+   "latency_ms": 545.4830000016955,
+   "retrieval_ms": 25.1,
+   "llm_ms": 519.03,
+   "total_ms": 545.4,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u07",
+   "status": "insufficient_evidence",
+   "question": "学生参加城乡居民基本医疗保险的缴费标准和门诊报销流程是什么？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 5,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 4055,
+    "output_tokens": 39,
+    "total_tokens": 4094,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 30
+    }
+   },
+   "latency_ms": 626.7345000014757,
+   "retrieval_ms": 26.76,
+   "llm_ms": 598.67,
+   "total_ms": 626.66,
+   "gold_doc_ids": []
+  },
+  {
+   "qid": "u08",
+   "status": "insufficient_evidence",
+   "question": "推荐优秀应届本科毕业生免试攻读研究生（推免）的名额和申请条件是什么？",
+   "answer": "已检索到相关材料，但其中的信息不足以回答该问题，因此不予作答。请补充问题细节或提供更具体的问题。",
+   "answer_raw": "INSUFFICIENT_EVIDENCE",
+   "citations": [],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": true,
+   "evidence_count": 6,
+   "evidence_scores": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "usage": {
+    "input_tokens": 3850,
+    "output_tokens": 71,
+    "total_tokens": 3921,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 62
+    }
+   },
+   "latency_ms": 806.3592000034987,
+   "retrieval_ms": 30.34,
+   "llm_ms": 773.61,
+   "total_ms": 806.29,
+   "gold_doc_ids": []
+  }
+ ]
+}

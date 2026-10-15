@@ -1,0 +1,34 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; mso-style-next:正文文本; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:Calibri;} p.15{ mso-style-name:"正文文本 21"; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; line-height:200%; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} p.MsoBodyText{ mso-style-name:正文文本; mso-style-next:"正文文本 21"; margin-bottom:6.0000pt; mso-para-margin-bottom:0.0000gd; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门（单位）：
+ 根据《新乡市人民政府关于政府决策研究工作的若干意见》和《新乡市政府决策研究课题招标办法》，2025年度新乡市政府决策研究课题招标申报工作已经开始，请认真做好申报组织工作，现将有关事项通知如下：
+ 一、申报内容
+ 本年度申报课题共设置研究课题66项，均为一般课题。（详见附件1《2025年度新乡市政府决策研究招标课题选题指南》以下简称《课题指南》）一般课题为指导性题目，可在不改变指导性题目研究方向的基础上，结合自身研究领域和研究专长，自定题目申报，自定题目时须标注《课题指南》原题编号，未标注的不予受理。
+ 二、申报要求
+ （一）申报内容
+ 要以习近平新时代中国特色社会主义思想为指导，坚持为市委市政府决策服务。要立足新乡本地实际，深入调查研究，提出有决策参考价值和可操作的思路与对策，切忌理论堆砌、不切实际。要切实把握事物发展的规律和趋势，洞察国家、省及先进地市相关情况，结合市情实际进行综合研判和战略谋划，切忌隔靴搔痒、浅尝辄止。课题设计务必突出战略性、针对性、创新性和可操作性。
+ （二）申报条件
+ 申报人必须遵守中华人民共和国宪法和法律。要按照《新乡市政府决策研究招标课题申请书》（见附件2）的要求，如实填写申请材料，并保证不涉及知识产权争议；申请书的填写不得直接或间接透露个人信息和相关背景资料，内容上不得填写作者姓名、单位、刊物或出版社名称、发表时间等。如有违反上述规定的情形，取消参评资格。
+ 三、组织申报
+ 本年度招标课题由院部组织申报，不受理个人申报材料。具体要求如下：
+ （一）严把政治关
+ 申报者所在单位要把握课题申报的政治方向，即以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届二中、三中、四中全会精神，完整、准确、全面贯彻新发展理念，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。
+ （二）严把质量关
+ 1. 申报者所在单位要对申报课题的研究方向、科研水平和能力、申报人资格及填表内容严格把关，对申请书填写的内容，特别是对选题论证的可行性、课题组的研究水平和能力等进行认真审核，签署明确意见，承担信誉保证。
+ 2. 课题主持人本年度只能申报一个项目，且不能作为其他课题组成员参加本年度招标课题的申报。课题组成员最多参加两个项目的申报。鼓励跨单位、跨领域、跨学科开展联合研究。
+ 3. 2022年以来曾被撤项、未结项和未通过结项的课题负责人不得申报本年度招标课题。
+ 4. 课题组主持人1人，其他成员不得超过7人。
+ 四、课题的评审与管理
+ （一）课题的评审
+ 按照《新乡市政府决策研究课题招标办法》规定进行资格审查，采取专家盲审和会议评审相结合的评审方式实施，并对评审结果予以公示。
+ （二）课题的管理
+ 1. 课题完成时限。以课题立项时间为起始，为期6个月。期限内无法完成的，可申请延期，延期最长6个月。
+ 2. 课题管理。课题负责人要履行约定义务，按期完成研究任务。结项时需提交研究报告（8000字左右）、决策建议文稿（3000字左右）和公开发表与研究报告论点一致的论文一篇。结项采取会议评审的方式进行，结项成果等级分为“优秀”“合格”“不合格”三个等次，对评为“优秀”“合格”等次的研究成果，颁发《新乡市政府决策研究招标课题结项证书》，对“优秀”等次的课题给予一定的资助。
+ 五、材料报送
+ （一）报送要求和内容
+ 各院部应做好材料的统一打印和汇总报送工作。材料报送内容：申请书一式5份（申报内容较多，在表格中填写不下时，可加页填写），《申报人信息表》《汇总表》（见附件3、4）各1份，同时将材料的电子文本发送至电子邮箱kycxm@hait.edu.cn。
+ （二）报送时间和地点
+ 受理申报时间为2025年12月15日16:00以前，逾期不予受理。纸质材料送至办公楼8楼C0820。
+ 联系电话：3691219
+ 科研处（学科办）
+ 2025年12月5日

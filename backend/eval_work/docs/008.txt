@@ -1,0 +1,36 @@
+v_news_content">
+
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正小标宋_GBK";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"方正仿宋_GB2312";} @font-face{ font-family:"黑体";} @font-face{ font-family:"楷体";} @font-face{ font-family:"仿宋";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; color:rgb(0,0,255); text-decoration:underline; text-underline:single;} span.16{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} p.p{ mso-style-name:"普通\(网站\)"; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+
+各院（部）、学生组织：
+暑假期间，我校紧扣“建功‘十五五’·青春为中国式现代化挺膺担当”活动主题，组织开展了2026年大学生暑期“三下乡”社会实践活动，为全面复盘实践成效，充分发挥先进典型示范带动作用，激励广大青年学生积极投身社会实践，巩固实践工作成果，放大活动辐射效能，切实提升实践育人水平，校团委决定对本次活动中涌现的先进集体和个人予以表彰。现将相关事宜通知如下：
+一、开展“实践归来话感受”主题团日活动
+1.活动内容：以“实践归来话感受”主题团日活动为抓手，推动暑期社会实践成果落地转化与经验传播。邀请社会实践先进个人作交流分享，推介可借鉴、可推广的实践思路与工作方法；组织全体参与学生复盘实践历程，畅谈成长体悟，依托互动交流深化青年学生对社会实践时代内涵的理解；多渠道宣传暑期社会实践优秀案例与成果，引导广大青年知国情、察民情、践担当，进一步释放实践育人的综合效能。
+2.完成时限：9月30日前。
+二、申报条件
+（一）优秀组织单位
+1.申报主体：组织社会实践活动的院（部）；
+2.申报材料：《河南工学院2026年大学生暑期“三下乡”社会实践活动优秀组织单位申报表》（附件1），另附相关支撑材料（包括但不限于社会实践调研报告、实践照片及视频）。
+（二）优秀团队
+1.申报主体：2026年暑假社会实践团队；
+2.申报材料：《河南工学院2026年大学生暑期“三下乡”社会实践活动优秀团队申报表》（附件2）。
+（三）优秀指导教师
+1.申报主体：2026年暑假社会实践指导教师；
+2.申报材料：《河南工学院2026年大学生暑期“三下乡”社会实践活动优秀指导教师申报表》（附件3）。
+（四）社会实践先进个人
+1.申报主体：2026年暑假社会实践参与学生；
+2.申报材料：《河南工学院2026年大学生暑期“三下乡”社会实践活动先进个人申报汇总表》（附件4）另附相关支撑材料（包括但不限于个人活动事迹）。
+三、评选程序
+1.材料申报（详见附件5）。请认真对照附件中各类奖项申报表，认真完成奖项申报，学生个人活动事迹材料于9月24日前将电子版报送至校团委邮箱，其他材料于9月24日前将纸质版与电子版（纸质版材料一式两份）报送校团委（图书馆A0806），逾期未申报者，视为自动放弃参评。
+2.发布结果。校团委在各院（部）申报的基础上，结合社会实践开展情况、汇报展示情况，最终评选出各类奖项，经校团委委员会审核确定后面向全校公布。
+四、社会实践成果展示
+校团委组织召开2026年社会实践表彰大会暨社会实践成果分享会，由优秀组织单位分享社会实践优秀成果。
+五、评选要求
+1.提高思想认识，抓实总结梳理。各院（部）要高度重视2026年暑期“三下乡”社会实践总结工作，系统梳理活动情况，提炼特色经验，拓展活动覆盖面，做实做细实践育人工作。
+2.拓宽宣传渠道，营造浓厚氛围。整合各类宣传资源，用好多元媒体阵地，加强实践成果宣传推介，持续扩大活动影响力。
+3.严谨规范申报，做好成果展示。严格对照评审要求完善申报材料，按时保质完成材料提交，扎实做好成果展示筹备。
+联 系 人：王欢欢
+联系电话：3691179
+邮 箱：hngxyxtw@163.com 
+共青团河南工学院委员会
+2026年8月31日

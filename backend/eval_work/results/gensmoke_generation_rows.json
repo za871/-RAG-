@@ -1,0 +1,108 @@
+{
+ "hybrid:rerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "question": "“反洗钱知识进校园”活动是由哪家单位主办、由学校哪个单位承办的？",
+   "answer": "“反洗钱知识进校园”活动由中国人民银行新乡市分行主办，由我校经济学院承办 [1]。",
+   "answer_raw": "“反洗钱知识进校园”活动由中国人民银行新乡市分行主办，由我校经济学院承办 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "filename": "hait_1060-18876_关于开展“反洗钱知识进校园”活动的通知.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9682862758636475
+   ],
+   "usage": {
+    "input_tokens": 753,
+    "output_tokens": 47,
+    "total_tokens": 800,
+    "input_token_details": {
+     "cache_read": 512
+    },
+    "output_token_details": {
+     "reasoning": 21
+    }
+   },
+   "latency_ms": 5132.495999998355,
+   "retrieval_ms": 2718.44,
+   "llm_ms": 2404.26,
+   "total_ms": 5132.32,
+   "gold_doc_ids": [
+    "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "correctness": 5,
+    "faithfulness": 5,
+    "completeness": 5,
+    "rationale": "回答准确覆盖主办单位中国人民银行新乡市分行和承办单位经济学院，事实与证据一致且完整。"
+   }
+  },
+  {
+   "qid": "b0-02",
+   "status": "error",
+   "error": "LLMError: 调用大模型失败（model=deepseek-v4-flash）：{'message': 'We were unable to start processing your request within the 900-second timeout limit. Please try again later.'}",
+   "latency_ms": 903859.7924999995
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "question": "教师参加“智变·重构·共生”AI时代教学新生态专题培训，是通过什么方式授课的？",
+   "answer": "本次培训采用超星在线直播方式开展，并支持回看 [1]。\n\n参加方式为：参训教师使用“学习通”APP，在首页右上角扫码或输入班级邀请码加入课程班级，进入“课程—我学的课—章节”观看直播或回放 [1]。",
+   "answer_raw": "本次培训采用超星在线直播方式开展，并支持回看 [1]。\n\n参加方式为：参训教师使用“学习通”APP，在首页右上角扫码或输入班级邀请码加入课程班级，进入“课程—我学的课—章节”观看直播或回放 [1]。",
+   "citations": [
+    {
+     "index": 1,
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "filename": "hait_1063-18783_关于开展2026年秋季学期“智变·重构·共生” AI时代教学新生态构建与教师发展公益直播周学习的.txt"
+    }
+   ],
+   "citations_valid": true,
+   "invalid_citation_indices": [],
+   "llm_called": true,
+   "llm_insufficient": false,
+   "evidence_count": 1,
+   "evidence_scores": [
+    0.9061340689659119
+   ],
+   "usage": {
+    "input_tokens": 795,
+    "output_tokens": 93,
+    "total_tokens": 888,
+    "input_token_details": {
+     "cache_read": 128
+    },
+    "output_token_details": {
+     "reasoning": 29
+    }
+   },
+   "latency_ms": 5494.5238000000245,
+   "retrieval_ms": 3538.91,
+   "llm_ms": 1954.41,
+   "total_ms": 5494.39,
+   "gold_doc_ids": [
+    "1dd2a31c-b08a-4735-902d-525c74b98b7f"
+   ],
+   "citation_doc_precision": 1.0,
+   "citation_doc_recall": 1.0,
+   "answered": true,
+   "judge": {
+    "correctness": 5,
+    "faithfulness": 5,
+    "completeness": 5,
+    "rationale": "回答准确说明采用超星在线直播并支持回看，且补充细节均来源于证据，覆盖标准答案全部要点。"
+   }
+  }
+ ]
+}

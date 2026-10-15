@@ -1,0 +1,7 @@
+# 容器内嵌入式 etcd 的配置，配合 ETCD_USE_EMBED=true 使用。
+# 内容取自官方 scripts/standalone_embed.sh。
+listen-client-urls: http://0.0.0.0:2379
+advertise-client-urls: http://0.0.0.0:2379
+quota-backend-bytes: 4294967296
+auto-compaction-mode: revision
+auto-compaction-retention: '1000'

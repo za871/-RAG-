@@ -1,0 +1,32 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @list l0:level1{ mso-level-number-format:chinese-counting; mso-level-suffix:none; mso-level-text:"%1、"; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0.0000pt; text-indent:0.0000pt; font-family:宋体;} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门（单位）：
+ 经河南省政府决策研究课题招标领导小组研究决定，2025年度河南省政府决策研究招标课题开始申报。现将有关事项通知如下：
+ 一、指导思想。以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届三中全会精神及习近平总书记视察河南重要讲话精神，贯彻落实省第十一次党代会和全省两会精神，聚焦“两高四着力”，针对我省经济社会发展重大理论和现实问题，围绕中心、服务大局，加强应用对策研究，着力推出有实践指导意义和决策参考价值的研究成果，为奋力谱写中原大地推进中国式现代化新篇章提供智力支持。
+ 二、2025年度省政府决策研究招标课题共设有120项研究课题（见附件《课题指南》），申请人须原题申报，经过评审后每个选题确定1项中标课题。
+ 三、决策研究招标课题的预期成果应具有较高的实际应用价值，能够为省委、省政府提供有价值的决策参考；研究要求时效性，本年度课题研究完成时间为6个月（自立项通知书下发之日算起）。
+ 四、申请人须遵守中华人民共和国宪法和法律，不限职务职称。申请人应对所申报课题具有一定的研究基础和相关科研成果，可以根据研究需要，吸收实际工作部门人员作为课题组成员参与申请。
+ 五、为确保申请人有足够的时间和精力从事课题研究，作如下限定：申请人已立项国家社科基金项目、教育部人文社科项目、省哲学社会科学规划项目等，不能申报；被终止或撤项的省政府决策研究招标课题负责人自终止或撤项之日起3年内不得申报。
+ 六、省政府决策研究招标课题结项需提交以下材料：
+ （一）研究报告，须1.5万字以上，中国知网文献引用重复率低于20%。
+ （二）研究报告核心观点凝练形成决策建议文稿。文稿字数4000左右。
+ （三）研究成果须满足以下条件（提供证明材料）：
+ 本研究课题分三类：A类项目（有经费资助）、B类项目（无经费资助）、C类项目（有专项经费资助）。
+ 1.A类项目须满足以下条件中至少一条：①获得副省（部）级以上领导明确批示；②被省委办公厅《河南信息》《综合与摘报》《要情》、省政府办公厅《调研》《参事建议》、省委政策研究室《内部参阅》《调查研究》、省政府研究室《策报》、省委党校（省政府发展研究中心）《调研与建议》、省教育厅《资政参考》内参刊物采用上报；③课题负责人在全国中文核心及以上级别期刊以独著或第一作者发表与课题内容一致的学术论文1篇（含）以上。
+ 2.B类项目须满足以下条件中至少一条：①满足以上“A类项目”结项条件；②获得相关领域省直部门主要负责同志或分管负责同志明确批示，或者获得地市党委、政府主要领导或分管领导明确批示；③在课题研究相关领域的省直厅局实际工作部门上报省领导参阅的内部刊物（或内参）上发表与课题内容一致的文章1篇（含）以上；④课题负责人在省级（含）以上党报（理论版）党刊以独著或第一作者发表与课题内容一致的文章1篇（含）以上，同时须在河南日报客户端、大象新闻客户端、大河网、映象网等国内重点理论网站发表文章1篇（含）以上。
+ 3.C类项目（平安法治专项研究课题）须满足以下条件中至少一条：①满足以上“A类项目”结项条件；②被河南省法学会《工作简报》《成果专报》采用上报。
+ 七、项目负责人在项目执行期间要遵守相关承诺，履行约定义务，按期完成研究任务。A类项目、C类项目给予一定经费支持，每项中标课题立项后拨付1万元/项研究启动资金，项目结项时，成果鉴定等级为优秀、良好的再分别给予2万元、1万元的资助资金。B类项目无经费资助。立项课题通过结项鉴定的，发放结项证书；未通过结项鉴定的，不发结项证书，并追回资助经费，不进行二次鉴定。
+ 八、申请人应根据实际需要编制科学合理的经费预算。课题经费管理使用应严格遵守课题负责人所在单位有关规定。
+ 九、申请人须按照要求如实填写申请材料，并保证没有知识产权争议。凡弄虚作假者，一经发现并查实后，取消申报资格。
+ 十、省政府决策研究招标课题实行书面申报，申请人填写《课题申请书》《论证活页》，由所在部门统一报送。
+ 十一、各部门要对申报项目的政治方向、申请人资格和填表进行严格把关，对课题申请书和论证内容认真审核，确保每一份申报材料规范有效。
+ 十二、课题申报所需的各种材料（包括《申报汇总表》《课题指南》《申请书》《论证活页》等）可从中共河南省委党校（河南省人民政府发展研究中心）官网“通知公告”栏目下载。
+ 十三、请各单位认真组织申报，优中选优，每个题目限报1项。各单位报送的纸质材料包括：
+ 1.审查合格的《课题申请书》《论证活页》各一式7份，A3纸双面印制，中缝装订。
+ 2.《2025年度河南省政府决策研究招标课题申报汇总表》。
+ 以上材料纸质版报送至办公楼C0821办公室，电子版发至邮箱kycxm@hait.edu.cn，文件夹以“单位+2025年度省政府决策研究招标课题申报材料”命名。
+ 十四、申报截止时间为2025年7月12日，逾期不予受理。
+ 联系人：科研处项目科 
+ 联系电话：3691213
+ 科研处（学科办）
+ 2025年6月24日

@@ -1,0 +1,29 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"仿宋";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; color:rgb(128,0,128);} span.16{ font-family:'Times New Roman'; color:rgb(0,0,255);} span.17{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门：
+ 为深入贯彻落实党的二十大精神，深化科技体制改革和科技评价改革，在实行科研经费“包干制”的基础上，进一步推进科技计划项目管理改革，优化省科技计划项目管理，实行以信任和绩效为核心的科研管理模式。现将我校2025年河南省科技计划项目集中结项工作通知如下。
+ 一、受理时间
+ 2025年度集中结项验收分两批受理：
+ 第一批受理截止时间：5月20日（已完成）；
+ 第二批受理截止时间：结项材料11月20日（进行中）。
+ 二、结项要求
+ 本次结项项目包括省自然基金、省科技攻关、国际合作项目。项目实施期不超过2年，根据项目实施进度允许延期一次，延期时间不超过1年，项目结项验收应在实施期满（包括延期）后6个月内完成；超期项目原则上不再验收，按相关要求办理项目终止手续。需要办理重要事项变更的项目请注意以下材料提交时间：
+ （一）需要延期的项目（2025年11月之后结项的项目）负责人务必提前办理延期手续，提交重要事项变更表，截止时间9月25日前；
+ （二）需要变更成员的项目负责人务必提前办理变更手续，提交重要事项变更表，截止时间9月25日前。
+ 另外，9月1日后，根据河南省科技厅《河南省科技成果登记管理办法》文件最新要求，资助项目结项前要进行成果登记，具体事项请咨询校科研处。
+ 三、受理程序
+ （一）省自然基金项目负责人登录“河南省自然科学基金管理系统”http://nsf.hnkjt.gov.cn/；省科技攻关项目、国际合作项目负责人登录“河南省科技计划项目管理系统”（http://xm.hnkjt.gov.cn/）在线填报项目结项报告，并按要求提交附件材料（具体要求见附件）。在线填报后，将结项报告生成PDF文档进行打印，连同附件材料一并书籍式装订成册（附材料目录，所有佐证论文需挂有项目号，相关字样请清晰标注，一式二份）。在受理截止时间前（11月20日）报送至科研处C0821办公室，同时将相应电子版材料发送至kycxm@hait.edu.cn，有延期、成员变更的项目提前提交重要事项变更表（9月25日），逾期不予受理。
+ （二）项目承担单位按照结项要求分批组织项目结项验收，严格按照项目申报书及绩效目标任务进行评审，并将材料完整、通过结项的项目结项报告按系统流程逐级提交备案；验收结果（电子表格及盖章扫描件）按要求在线提交省科技厅。
+ （三）省科技厅审核受理后组织集中结项验收，验收通过的项目，统一制作电子结项证书（加盖科技计划专用章），不再印发纸质证书。
+ （四）为及时进行项目结项相关事宜通知，请拟结项项目相关负责人加微信群工作群。
+ 四、监督检查
+ （一）加强事中事后监管。建立完善抽查机制，省科技厅将按一定比例对验收结果进行抽查，对抽查发现的问题责令有关单位立即整改。各单位项目实施、结项验收情况及抽查结果将与下一年度项目申报指标挂钩。
+ （二）建立协同推进机制。加强统筹协调和沟通对接，建立动态调整机制，完善服务保障措施，切实推动政策落实。对政策落实不到位的单位，视情况取消下放权限。
+ 五、联系方式
+ （一）科技厅业务咨询
+ 综合业务：科技项目统筹推进处 0371—86561692
+ 技术支持：省科学技术情报中心 0371—65974111
+ （二）校内联系方式
+ 科研处项目科3691212
+ 科研处（学科办）
+ 2025年9月19日

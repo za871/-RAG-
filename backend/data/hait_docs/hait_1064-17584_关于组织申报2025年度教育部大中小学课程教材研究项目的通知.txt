@@ -1,0 +1,11 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门（单位）：
+ 根据《河南省教育厅办公室转发教育部办公厅关于组织申报2025年度教育部大中小学课程教材研究项目的通知》（教思政函〔2025〕278号）文件精神，现就我校申报推荐工作通知如下，请按照通知要求认真做好申报工作。
+ 一、申报要求
+ 请各单位认真学习省教育厅文件（见附件1）精神，按要求申报，将申报书（附件2）、汇总表（附件3）、佐证材料（各一式一份）纸质版交至教材科，电子材料发送至：hngxyjwc@163.com，文件夹命名为“XX部门+项目名称（负责人姓名）”。
+ 二、时间节点与联系人
+ 时 间：2025年6月20日18:00前
+ 联系人：教务处教材科（办公楼A815）
+ 联系电话：0373-3691502
+ 2025年6月10日

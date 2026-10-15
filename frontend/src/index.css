@@ -1,0 +1,613 @@
+:root {
+  --bg: #f4f5f7;
+  --card: #ffffff;
+  --text: #1f2329;
+  --text-dim: #6b7280;
+  --text-faint: #9aa1ab;
+  --border: #e3e5e9;
+  --accent: #1a5fb4;
+  --accent-soft: #eaf1fb;
+  --warn: #b26a00;
+  --warn-soft: #fff7e6;
+  --warn-border: #f0d9a8;
+  --error: #c0392b;
+  --error-soft: #fdecea;
+  --ok: #1f7a4d;
+  --radius: 10px;
+  --shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 1px 3px rgba(16, 24, 40, 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16181d;
+    --card: #1e2127;
+    --text: #e6e8eb;
+    --text-dim: #a2a9b4;
+    --text-faint: #7c838f;
+    --border: #2c313a;
+    --accent: #6aa9f4;
+    --accent-soft: #1c2836;
+    --warn: #e0a63c;
+    --warn-soft: #2b2416;
+    --warn-border: #4a3d1f;
+    --error: #f0776b;
+    --error-soft: #2e1d1c;
+    --ok: #5cc08d;
+    --shadow: none;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC',
+    'Hiragino Sans GB', sans-serif;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+.app {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 32px 20px 80px;
+}
+
+/* ---------- 头部 ---------- */
+
+.app-header h1 {
+  margin: 0 0 4px;
+  font-size: 22px;
+  font-weight: 650;
+  letter-spacing: 0.2px;
+}
+
+.app-subtitle {
+  margin: 0 0 24px;
+  color: var(--text-dim);
+  font-size: 13.5px;
+}
+
+/* ---------- 提问区 ---------- */
+
+.ask-form {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px;
+}
+
+.ask-input {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  padding: 10px 12px;
+  resize: vertical;
+  min-height: 76px;
+}
+
+.ask-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.ask-input:disabled {
+  opacity: 0.7;
+}
+
+.ask-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.btn {
+  border: 1px solid transparent;
+  border-radius: 7px;
+  padding: 7px 16px;
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+
+.btn-primary:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.btn-ghost {
+  background: transparent;
+  border-color: var(--border);
+  color: var(--text-dim);
+}
+
+.btn-ghost:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.ask-hint {
+  margin-left: auto;
+  color: var(--text-faint);
+  font-size: 12.5px;
+}
+
+.examples {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.example-chip {
+  border: 1px dashed var(--border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-dim);
+  font: inherit;
+  font-size: 13px;
+  padding: 4px 12px;
+  cursor: pointer;
+}
+
+.example-chip:hover:not(:disabled) {
+  border-style: solid;
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ---------- 高级选项 ---------- */
+
+.advanced {
+  margin-top: 12px;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+
+.advanced > summary {
+  cursor: pointer;
+  color: var(--text-dim);
+  font-size: 13.5px;
+  list-style: none;
+}
+
+.advanced > summary::-webkit-details-marker {
+  display: none;
+}
+
+.advanced > summary::before {
+  content: '▸ ';
+}
+
+.advanced[open] > summary::before {
+  content: '▾ ';
+}
+
+.advanced-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.advanced-grid label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12.5px;
+  color: var(--text-dim);
+}
+
+.advanced-grid input,
+.advanced-grid select {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+  font-size: 13.5px;
+  padding: 6px 8px;
+}
+
+/* ---------- 检索中骨架 ---------- */
+
+.skeleton {
+  margin-top: 20px;
+}
+
+.skeleton-bar {
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--accent-soft), var(--accent), var(--accent-soft));
+  background-size: 200% 100%;
+  animation: slide 1.4s linear infinite;
+}
+
+@keyframes slide {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+.skeleton p {
+  color: var(--text-dim);
+  font-size: 13.5px;
+  margin: 10px 0 0;
+}
+
+.skeleton-hint {
+  color: var(--text-faint);
+}
+
+/* ---------- 结果区 ---------- */
+
+.result {
+  margin-top: 24px;
+}
+
+.result-question {
+  font-size: 17px;
+  font-weight: 600;
+  padding-left: 12px;
+  border-left: 3px solid var(--accent);
+  margin-bottom: 16px;
+}
+
+.answer {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px 18px;
+}
+
+.answer p {
+  margin: 0 0 12px;
+  white-space: pre-wrap;
+}
+
+.answer p:last-child {
+  margin-bottom: 0;
+}
+
+/* 正文里的引用角标。流式期间还没有映射，禁用态用 is-plain 降级成普通上标 */
+.cite-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  margin: 0 2px;
+  padding: 0 4px;
+  border: none;
+  border-radius: 5px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 11.5px;
+  font-weight: 600;
+  line-height: 1;
+  vertical-align: 1px;
+  cursor: pointer;
+}
+
+.cite-mark:hover:not(:disabled),
+.cite-mark.is-active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.cite-mark.is-plain {
+  background: transparent;
+  color: var(--text-faint);
+  cursor: default;
+}
+
+/* 流式光标 */
+.caret {
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  margin-left: 2px;
+  background: var(--accent);
+  vertical-align: -2px;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.partial-note {
+  margin: 12px 0 8px;
+  color: var(--text-dim);
+  font-size: 13px;
+}
+
+/* ---------- 状态条 ---------- */
+
+.notice {
+  display: flex;
+  gap: 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+
+.notice p {
+  margin: 4px 0 0;
+}
+
+.notice-icon {
+  flex: none;
+  line-height: 1.5;
+}
+
+.notice-info {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+.notice-warn {
+  background: var(--warn-soft);
+  border-color: var(--warn-border);
+  color: var(--warn);
+}
+
+.notice-error {
+  background: var(--error-soft);
+  border-color: var(--error);
+  color: var(--error);
+}
+
+.notice-reason {
+  font-size: 12.5px;
+  opacity: 0.85;
+}
+
+.notice-hint {
+  font-size: 12.5px;
+  color: var(--text-dim);
+}
+
+.notice-warn .notice-hint {
+  color: var(--warn);
+  opacity: 0.9;
+}
+
+/* ---------- 引用卡片 ---------- */
+
+.citations {
+  margin-top: 24px;
+}
+
+.section-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-dim);
+  margin: 0 0 10px;
+}
+
+.section-title .count {
+  display: inline-block;
+  min-width: 18px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 12px;
+  text-align: center;
+}
+
+.citation-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.citation-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--border);
+  border-radius: 8px;
+  padding: 12px 14px;
+  transition: border-color 0.12s, background 0.12s;
+}
+
+.citation-card.is-active {
+  border-left-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.citation-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.citation-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  border-radius: 5px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.citation-file {
+  font-weight: 600;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 60%;
+}
+
+.citation-score {
+  margin-left: auto;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+.citation-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 6px;
+  color: var(--text-faint);
+  font-size: 12.5px;
+}
+
+.citation-snippet {
+  margin: 8px 0 0;
+  color: var(--text-dim);
+  font-size: 13.5px;
+  white-space: pre-wrap;
+}
+
+/* ---------- 计时条 ---------- */
+
+.timing-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 20px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  color: var(--text-faint);
+  font-size: 12.5px;
+}
+
+.timing-bar b {
+  color: var(--text-dim);
+  font-weight: 600;
+}
+
+.timing-on {
+  color: var(--ok);
+}
+
+.timing-off {
+  color: var(--warn);
+}
+
+.timing-warn {
+  color: var(--warn);
+}
+
+.timing-model {
+  margin-left: auto;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+}
+
+/* ---------- 调试信息 ---------- */
+
+.debug {
+  margin-top: 16px;
+  font-size: 13px;
+}
+
+.debug > summary {
+  cursor: pointer;
+  color: var(--text-faint);
+  list-style: none;
+}
+
+.debug > summary::-webkit-details-marker {
+  display: none;
+}
+
+.debug > summary::before {
+  content: '▸ ';
+}
+
+.debug[open] > summary::before {
+  content: '▾ ';
+}
+
+.debug-grid {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 4px 16px;
+  margin: 10px 0 0;
+  padding: 12px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.debug-grid dt {
+  color: var(--text-faint);
+}
+
+.debug-grid dd {
+  margin: 0;
+}
+
+.debug-messages {
+  margin-top: 10px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+  padding: 10px 12px;
+}
+
+.debug-messages > summary {
+  cursor: pointer;
+  color: var(--text-faint);
+}
+
+.debug-message {
+  margin-top: 10px;
+}
+
+.debug-role {
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.debug pre {
+  margin: 4px 0 0;
+  padding: 10px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 12px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 320px;
+  overflow: auto;
+}

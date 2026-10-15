@@ -1,0 +1,193 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Menlo";} @font-face{ font-family:"Arial";} @font-face{ font-family:"黑体";} @font-face{ font-family:"仿宋";} @font-face{ font-family:"Cambria";} @font-face{ font-family:"等线";} @font-face{ font-family:"微软雅黑";} @font-face{ font-family:"华文楷体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:10.5000pt; mso-font-kerning:1.0000pt;} h1{ mso-style-name:"标题 1"; mso-style-next:正文; margin-top:17.0000pt; margin-bottom:16.5000pt; mso-para-margin-top:0.0000gd; mso-para-margin-bottom:0.0000gd; page-break-after:avoid; mso-pagination:lines-together; text-align:justify; text-justify:inter-ideograph; mso-outline-level:1; line-height:240%; font-family:'Times New Roman'; mso-fareast-font-family:宋体; mso-ansi-font-weight:bold; font-size:22.0000pt; mso-font-kerning:22.0000pt;} h2{ mso-style-name:"标题 2"; mso-style-noshow:yes; mso-style-next:正文; margin-top:13.0000pt; margin-bottom:13.0000pt; mso-para-margin-top:0.0000gd; mso-para-margin-bottom:0.0000gd; page-break-after:avoid; mso-pagination:lines-together; text-align:justify; text-justify:inter-ideograph; mso-outline-level:2; line-height:172%; font-family:Arial; mso-fareast-font-family:黑体; mso-bidi-font-family:'Times New Roman'; mso-ansi-font-weight:bold; font-size:16.0000pt; mso-font-kerning:1.0000pt;} h3{ mso-style-name:"标题 3"; mso-style-noshow:yes; mso-style-next:正文; margin-top:13.0000pt; margin-bottom:13.0000pt; mso-para-margin-top:0.0000gd; mso-para-margin-bottom:0.0000gd; page-break-after:avoid; mso-pagination:lines-together; text-align:justify; text-justify:inter-ideograph; mso-outline-level:3; line-height:172%; font-family:'Times New Roman'; mso-fareast-font-family:宋体; mso-ansi-font-weight:bold; font-size:16.0000pt; mso-font-kerning:1.0000pt;} h4{ mso-style-name:"标题 4"; mso-style-noshow:yes; mso-style-next:正文; margin-top:14.0000pt; margin-bottom:14.5000pt; mso-para-margin-top:0.0000gd; mso-para-margin-bottom:0.0000gd; page-break-after:avoid; mso-pagination:lines-together; text-align:justify; text-justify:inter-ideograph; mso-outline-level:4; line-height:155%; font-family:Arial; mso-fareast-font-family:黑体; mso-bidi-font-family:'Times New Roman'; mso-ansi-font-weight:bold; font-size:14.0000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; color:rgb(62,71,76); text-decoration:underline; text-underline:single;} span.16{ font-family:Menlo; color:rgb(199,37,78); font-size:10.5000pt; background:rgb(249,242,244); mso-shading:rgb(249,242,244);} span.17{ font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:9.0000pt;} span.18{ font-family:Menlo; font-size:10.5000pt;} span.19{ font-family:'Times New Roman'; color:rgb(0,0,255); text-decoration:underline; text-underline:single;} span.20{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} span.21{ font-family:'Times New Roman';} span.22{ font-family:'Times New Roman'; color:rgb(149,153,158); font-size:7.5000pt;} span.23{ font-family:'Times New Roman'; mso-ansi-font-style:italic; font-size:10.0000pt;} span.24{ font-family:Menlo; color:rgb(255,255,255); font-size:10.5000pt; background:rgb(51,51,51); mso-shading:rgb(51,51,51); color:rgb(255,255,255);} span.25{ font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:9.0000pt;} span.26{ font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:9.0000pt;} span.27{ font-family:'Times New Roman'; color:rgb(255,255,255); background:rgb(99,178,245); mso-shading:rgb(99,178,245);} span.28{ font-family:'Times New Roman'; color:rgb(255,255,255); background:rgb(99,178,245); mso-shading:rgb(99,178,245);} span.29{ font-family:'Times New Roman'; color:rgb(65,116,197); font-size:7.5000pt;} span.30{ font-family:'Times New Roman'; color:rgb(65,116,197); font-size:7.5000pt;} p.MsoCommentText{ mso-style-name:批注文字; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:left; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:10.5000pt; mso-font-kerning:1.0000pt;} p.MsoBodyText{ mso-style-name:正文文本; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:仿宋; font-size:15.5000pt; mso-font-kerning:1.0000pt;} p.MsoAcetate{ mso-style-name:批注框文本; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.MsoFooter{ mso-style-name:页脚; margin:0pt; margin-bottom:.0001pt; tab-stops:center blank 207.6500pt right blank 415.3000pt ; vsb_temp-mode:char; mso-pagination:none; text-align:left; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.MsoHeader{ mso-style-name:页眉; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; border-bottom:1.0000pt solid #000; mso-border-bottom-alt:0.7500pt solid #000; padding:0pt 0pt 1pt 0pt ; tab-stops:center blank 207.6500pt right blank 415.3000pt ; vsb_temp-mode:char; mso-pagination:none; text-align:center; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:widow-orphan; text-align:left; font-family:宋体; font-size:12.0000pt;} p.37{ mso-style-name:"List Paragraph"; margin:0pt; margin-bottom:.0001pt; text-indent:21.0000pt; mso-char-indent-count:2.0000; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:Cambria; font-size:12.0000pt; mso-font-kerning:1.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} table.MsoTableGrid{ mso-style-name:网格型; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-border-top-alt:1px solid #000; mso-border-left-alt:1px solid #000; mso-border-bottom-alt:1px solid #000; mso-border-right-alt:1px solid #000; mso-border-insideh:1px solid #000; mso-border-insidev:1px solid #000; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:23.3000pt; margin-bottom:23.4000pt; margin-left:56.7000pt; margin-right:56.7000pt; size:595.3500pt 842.0000pt; mso-header-margin:30.0500pt; mso-footer-margin:42.5500pt; mso-title-page:yes; mso-header:url("vsb61F1.files/header.html") h0; mso-first-header:url("vsb61F1.files/header.html") fh0;} div.Section0{page:Section0;}
+ 重要信息
+ 会议官网：www.eeice.net
+ 会议时间：2026年12月04-06日
+ 会议地点：中国·新乡
+ 截稿时间：详见官网 
+ 收录检索：IEEE Xplore, EI Compendex, Scopus
+ EEICE 2026已上线IEEE
+ https://conferences.ieee.org/conferences_events/conferences/conferencedetails/72267
+ 大会简介
+ 第七届电气、电子信息与通信工程国际学术会议（EEICE 2026）将于2026年12月04—06日在中国河南新乡举行。会议将围绕电气工程、电子信息技术、通信工程等领域的最新研究进展与应用成果展开交流，旨在为国内外高校、科研院所及企事业单位的专家学者、工程技术人员搭建一个高水平的学术交流平台。
+ 本次会议将聚焦相关领域的前沿热点与关键技术问题，促进学术思想碰撞与研究成果共享，推动理论创新与工程实践深度融合。会议也将为参会者拓展学术视野、加强合作联系、建立科研与产业合作网络提供良好契机。
+ 组织单位
+ 主办单位：郑州大学、河南工学院
+ 技术支持：IEEE Systems, Man, and Cybernetics Society 
+ 组委成员
+ 大会荣誉主席
+ 大会主席
+梁静 教授/党委副书记、校长
+IEEE Fellow
+河南工学院
+杨天若 教授/学术副校长
+加拿大工程院院士、
+加拿大工程研究院院士、
+欧洲科学院院士、IEEE Fellow
+郑州大学
+程显 教授
+国家级青年人才
+郑州大学
+程序主席
+技术委员会主席
+秦凯 教授
+IEEE Fellow
+澳大利亚斯威本科技大学
+葛泉波 教授
+南京信息工程大学
+王晓 教授
+国家级青年人才
+安徽大学
+组织委员会主席
+出版主席
+金阳 教授
+郑州大学
+胡海涛 教授
+西南交通大学
+王睿 教授
+东北大学
+ 征稿主题（相关主题均可投稿）
+ 电气工程
+ 电子信息
+ 通信工程
+ 光电信息
+ 电机与电器
+电力系统及其自动化
+高电压与绝缘技术
+电力电子与电力传动
+电工理论与新技术
+电气技术
+电源技术
+电力技术
+电磁学
+输配电
+电磁兼容
+高压仪器
+电气工程材料
+机电一体化
+电路与系统
+电力系统及其自动化
+电力系统与能源
+电动汽车技术
+电机及电器
+配电自动化系统
+高电压和绝缘技术
+新型传感器
+计算机中继
+电磁和光子学
+智能电网/电源IC
+电路和电子学
+激光技术和电光技术的应用
+半导体的电光现象
+...
+ 电力电子技术
+电路与电子技术
+信号与系统
+半导体器件
+传感器技术 
+信号与图像处理
+雷达工程 
+微电子和固体电子学
+电子与集成电路
+模拟与数字通信
+集成电路设计与集成系统
+电子信息工程
+信息通讯技术
+微电子技术
+高频技术和通讯网络
+数字信号处理
+电力电子技术
+信息遥感技术
+无线网络和信息系统
+第六代移动通信技术(6g)
+传感器和物联网
+移动计算和边缘计算
+GPS和无线定位
+...
+ 数字通信
+多媒体通信 
+无线通信
+互联网通信
+天线与电波传播
+光通信与光网络
+移动互联网与终端
+射频技术
+卫星通信
+移动通信
+现代交换技术
+通信电子线路
+电子科学与技术
+数据结构
+信号与系统
+模拟电子技术
+数字通信
+多媒体通信
+天线与电波传播
+光通信与光网络
+移动互联网与终端
+射频技术
+卫星通信
+移动通信
+现代交换技术
+...
+ 微纳米光子学
+光电芯片
+微波光子学
+光通信
+光传感
+激光技术
+光信息处理
+光电子学和技术
+光电信息工程
+光电信号获取
+光电传感
+光电探测技术与器件
+光电信息应用
+光电成像技术
+光电检测技术
+光电器件
+微机电系统
+光电图像处理
+纳米光电子学
+激光自混合干涉技术
+特种光纤
+光纤激光
+光纤磁场传感技术
+微波与光电集成
+能源与光电子
+...
+ 论文出版
+ Submit to the Conference | EI会议论文
+ 本会议投稿经过2-3位组委会专家严格审核后，录用的文章将由IEEE独立出版（ISBN号：979-8-3195-4792-7），最终交由IEEE Xplore、EI (核心)、Scopus等检索。
+ ◆论文不得少于4页；
+ ◆会议论文模板下载请点击：https://www.ais.cn/attendees/material/RFM2YV?invite=CPHAIT；
+ ◆会议仅接受全英稿件。如需翻译服务，可咨询会议潘秘书18922107265（同微信）；
+ ◆会议采用在线方式进行投稿，投稿请点击：https://www.ais.cn/attendees/paperSubmit/RFM2YV?invite=CPHAIT；
+ 注：主办推荐的稿件请使用该链接进行投稿，可享受稿件优惠。
+ ◆论文应具有学术或实用价值，未在国内外学术期刊或会议发表过。作者可通过CrossCheck, Turnitin或其他查询体统自费查重，否则由文章重复率引起的被拒搞将由作者自行承担责任。涉嫌抄袭的论文将不被出版，且公布在会议主页。
+ 参会方式
+ 1、作者参会：一篇录用文章允许一名作者免费参会；
+ 2、口头演讲：申请口头报告，时间为15分钟；
+ 3、海报展示：申请海报展示，A1尺寸；
+ 4、听众参会：不投稿仅参会，也可申请演讲及展示。
+ 5、报名参会：请点击https://www.ais.cn/attendees/toSignUp/RFM2YV?invite=CPHAIT进行报名：
+ 会议议程(初定）
+ 日期
+ 时间
+ 内容
+ 2026年12月04日
+ 13:00-17:00
+ 签到注册
+ 2026年12月05日
+ 09:00-12:00
+ 开幕式&主题报告
+ 12:00-14:00
+ 午餐
+ 14:00-17:30
+ 特邀报告&口头报告
+ 2026年12月06日
+ 09:00-18:00
+ 学术考察活动
+ 联系方式
+ 大会秘书：潘老师
+ 电话/微信：18922107265

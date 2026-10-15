@@ -1,0 +1,34 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正公文小标宋";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} @font-face{ font-family:"楷体_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} h2{ mso-style-name:"标题 2"; mso-style-noshow:yes; mso-style-next:正文; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:宋体; font-weight:bold; font-size:18.0000pt;} span.10{ font-family:'Times New Roman';} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各基层团组织：
+ 为深入学习贯彻习近平新时代中国特色社会主义思想和党的二十大和二十届历次全会精神，学习贯彻习近平总书记关于青年工作的重要思想，进一步动员引领青年学生在投身基层建设、服务家乡发展中坚定信念、增长本领、作出贡献，现面向全校学生开展2026年寒假社会实践活动。现将有关事宜通知如下：
+ 一、活动主题
+ 聚焦“两高四着力”，躬身实践“豫”先行
+ 二、参与人员
+ 全校在籍学生
+ 三、活动时间
+ 2026年1月至2月
+ 四、实践内容
+ 1.开展岗位实践锻炼。开展政务实践，组织学生进入党政机关、群团组织、乡镇街道等单位参与政务实践，承担基础事务、开展民情调研，在具体工作中理解国家治理与基层运行逻辑。开展企业实践，匹配学生专业与企业实际需求，组织学生深度参与企业日常生产与运营管理。开展兼职锻炼，组织学生到乡镇街道、村（社区）等基层团组织兼任团干部、参与实岗锻炼。
+ 2.组织乡情民情观察。开展家乡发展观察，组织学生深入开发园区、农业科技园区、特色产业基地等，了解家乡产业布局和发展规划，感悟家乡发展变化。了解国情社情民情，组织学生深入街道社区、田间地头、村屯农家，密切联系群众，加深对家乡的真挚情感。倡导文化宣传交流，组织学生运用网络新媒体，宣传家乡文化，推广家乡物产，讲好家乡生动故事。
+ 3.助力家乡建设发展。服务家乡基层治理，组织学生立足所学专业，聚焦社会治理、发展规划、艺术设计、文化传承等家乡事业发展开展调研、建言献策。助力乡村全面振兴，组织学生开展直播助农、政策宣讲、生态保护、文明倡导等，助力宜居宜业和美乡村建设。开展志愿公益服务，组织学生在村、社区活动中心等场所，开展科学普及、扶弱助残、课业辅导等服务工作，用心用情解决群众急难愁盼。
+ 五、报名方式
+ 1.返家乡。请关注“创青春”微信公众号和家乡所在地的省、地市、县区团组织微信公众号，了解“三下乡·返家乡”更多相关实践项目。在“创青春”微信公众号的“社会实践”栏目入口选择“2026三下乡”-“实践活动返家乡”，按分类、区域搜索岗位信息，确认选择合适的岗位后，填报并提交报名信息，等待审核和系统提示信息，按信息指示开展后续操作。通过双向选择方式录取。（报名详细流程见附件1）
+ 2.向基层报到。请关注“河南共青团”微信公众号或家乡所在地的省、地市、县区团组织微信公众号，点击“青春出彩”-“向基层报到”或者直接搜索河南共青团大学生“向基层报到”微信小程序登录，报名参与基层建设、服务家乡发展。各县级团委活动和岗位陆续发布中，大家可以不定时登陆查看家乡岗位和活动情况。（报名详细流程见附件2）
+ 3.自主实践。除以上所列报名渠道之外，返家乡后个人在当地报名参加的活动，应按照招募通知或下发的相关活动文件，积极参加报名。
+ 4.其他类型实践。除以上实践活动主题外，后续根据上级相关部门下发的其他通知安排等开展其他社会实践活动。
+ 六、实践形式 
+ 鼓励学生通过个人形式开展实践，学院组建团队开展实践，原则上按照“返回家乡、就近就便”原则在家乡所在地、假期常住地开展实践，鼓励创新实践载体，不断探索更有特色、更接地气、更富成效的实践途径。
+ 七、学分认定
+ 1.实践活动申报。个人实践根据社会实践报名情况，团队实践根据学院组队情况，于3月1日前在“学习通”提交申报（见附件3），学院审核确认。
+ 2.实践学分申报。实践结束后，个人实践填写《河南工学院2026年寒假社会实践活动个人鉴定表》（见附件4），团队实践填写《河南工学院2026年寒假社会实践活动结项申报书（团队项目）》（见附件5），并于3月15日前，将盖章鉴定表或结项申报书扫描件、单位招募社会实践活动的相关通知文件、官方链接和相关佐证材料上传“学习通”（见附件3）。学院审核确认后，依据《河南工学院素质拓展学分管理办法》认定学分。
+ 八、工作要求
+ 1.加强组织领导。各基层团委要在学院党政的领导下，把寒假大学生社会实践活动纳入学院重要寒假工作范畴，统筹推进活动宣传动员工作。参与实践的学生需牢固树立“安全第一”理念，严格遵守实践组织单位的各项管理要求，切实保护好自身人身财产安全，确保实践活动平稳有序开展。
+ 2.加大宣传力度。各基层团委开展活动期间,要与同学保持联系，积极组织协调所属新媒体平台，对社会实践活动进行深入宣传报道，做好典型选树宣传，将实践过程中涌现的优秀事迹作为鲜活教育案例，充分发挥示范引领作用，带动影响更多青年学生。各基层团委于3月6日前将活动新闻分享至工作群。
+ 九、注意事项
+ 1.严格恪守“安全第一”原则，自觉遵守国家法律法规及实践地相关规定，增强风险防范意识，提高辨别诈骗能力，切实保障自身人身与财产安全。
+ 2.冬季流感多发，学生需密切关注自身健康状况，做好流感预防措施，守护身体健康。若遇极端天气、突发公共事件等紧急情况，须立即终止实践活动，并及时向学院及家长（监护人）报备。
+ 联 系 人：王欢欢 李洒乐
+ 联系电话：3691179 18137468873
+ 共青团河南工学院委员会
+ 2026年1月8日

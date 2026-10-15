@@ -1,0 +1,28 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; color:rgb(0,0,255); text-decoration:underline; text-underline:single;} p.p{ mso-style-name:"普通\(网站\)"; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt; mso-font-kerning:1.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门（单位）：
+ 根据《教育部哲学社会科学研究重大课题攻关项目管理办法（试行）》，现将2025年度教育部哲学社会科学研究重大课题攻关项目和高校思想政治理论课教师研究专项重大课题攻关项目招标工作有关事项通知如下。
+ 一、招标课题和资助额度
+ 本次招标课题分为两类：
+ （一）2025年度教育部哲学社会科学研究重大课题攻关项目招标课题共50项，每项课题资助经费原则上为50万—80万元。
+ （二）2025年度教育部高校思想政治理论课教师研究专项重大课题攻关项目招标课题共12项，每项课题资助经费原则上为40万元。 
+ 二、投标条件和有关要求
+ （一）每位首席专家（投标者）本次只能选择两类招标课题中的1项进行投标。
+ （二）首席专家必须是法人（高等学校）担保的高等学校具有正高级专业技术职称的有关人员，能够担负起课题研究实际组织和指导责任。同时，高校思想政治理论课教师研究专项重大课题攻关项目首席专家必须是专职思想政治理论课教师，实际从事思想政治理论课教学、研究工作并真正承担和负责组织项目实施；需要跨学科联合攻关的高校思想政治理论课教师研究专项重大课题攻关项目，应有法学、社会学、中共党史党建学、教育学、心理学、新闻传播学、历史学以及统计学、计算机科学与技术、管理学等相关学科专家作为子课题负责人或课题组成员参与申报。
+ （三）首席专家只能为1名。
+ （四）首席专家不能作为子课题负责人或课题组成员参与本次投标的其他课题，子课题负责人本次只能参与1个课题投标，课题组成员最多参与2个课题投标。
+ （五）有以下情况之一者不得投标：
+ 1.承担国家社会科学基金重大项目、重大研究专项项目及其他国家级科研重大项目尚未完成者；
+ 2.承担历年教育部人文社会科学重点研究基地重大项目、教育部哲学社会科学研究后期资助重大项目尚未完成者；
+ 3.正在承担教育部哲学社会科学研究重大课题攻关项目、高校思想政治理论课教师研究专项重大课题攻关项目的首席专家，在本通知发布前未提出最终成果鉴定申请者。
+ （六）申请同年度国家社会科学基金重大项目、重大研究专项项目及其他国家级科研重大项目的首席专家，本次不能投标教育部重大课题攻关项目。
+ 三、申报办法和程序
+ （一）以学校为单位，集中统一申报，不受理个人申报。
+ （二）本次项目投标通过网络平台在线申报。教育部社会科学司主页（www.moe.gov.cn/s78/A13/）工作专栏“教育部人文社会科学研究管理平台·申报系统”（以下简称申报系统）为本次申报的唯一网络平台，项目网络申报办法及流程以该系统为准。
+ （三）《教育部哲学社会科学研究重大课题攻关项目投标评审书》、《教育部高校思想政治理论课教师研究专项重大课题攻关项目投标评审书》（以下简称《投标评审书》）启用2025年新版本，以前版本无效。由投标者下载并按要求填写《投标评审书》。投标材料应符合招标文件提出的实质性要求和条件，不得自行改动招标课题名称。
+ （四）自2025年10月28日起受理项目网上申报。请登录申报系统，在相应类别的项目申报模块在线填报投标项目基本信息，并分别上传签字盖章PDF版本《投标评审书》（文件大小不超过20M）及附件材料（文件大小不超过80M），本阶段无需报送纸质申报材料。待立项公布后，已立项项目报送1份签字盖章的纸质申报材料至办公楼C0821。
+ （五）本次项目网络申报截止日期为2025年11月28日。
+ 联系人：科研处项目科
+联系电话：3691219
+ 科研处（学科办）
+2025年11月3日

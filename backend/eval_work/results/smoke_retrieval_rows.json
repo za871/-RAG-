@@ -1,0 +1,1233 @@
+{
+ "hybrid:rerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 2649.098599998979,
+   "n_hits": 4,
+   "n_relevant": 4,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各学院：\n近年来，电信网络诈骗、网络赌博、非法校园贷等洗钱上游犯罪多发高发，大学生易"
+    ],
+    "rerank_score": 0.9682862758636475,
+    "distance": 0.7313717603683472,
+    "bm25_score": 23.58585926455217
+   },
+   "hit_docs": [
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.9682862758636475,
+     "distance": 0.7313717603683472
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.8842154741287231,
+     "distance": 0.7117295861244202
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.6734040975570679,
+     "distance": 0.7172915935516357
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.3743143081665039,
+     "distance": 0.7239163517951965
+    }
+   ]
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 3670.4941999996663,
+   "n_hits": 3,
+   "n_relevant": 3,
+   "rel_grades": [
+    2,
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+    "filename": [
+     "三、人才引进类型及待遇",
+     "要解决配偶工作的，其安家费额外上浮3万元。\n7.校内其他待遇\n按学校有关规定，同时享受科研奖励、教学工作绩效奖励以及项目"
+    ],
+    "rerank_score": 0.9934272766113281,
+    "distance": 0.7810412645339966,
+    "bm25_score": 24.40671032477865
+   },
+   "hit_docs": [
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.9934272766113281,
+     "distance": 0.7810412645339966
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.9261507987976074,
+     "distance": 0.5772125720977783
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.25796249508857727,
+     "distance": null
+    }
+   ]
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 3659.754599997541,
+   "n_hits": 2,
+   "n_relevant": 2,
+   "rel_grades": [
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各单位：\n为进一步推动人工智能与教育教学深度融合，帮助广大教师把握AI教育前沿趋势，"
+    ],
+    "rerank_score": 0.9061340689659119,
+    "distance": 0.7564159631729126,
+    "bm25_score": 62.9552362139617
+   },
+   "hit_docs": [
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": 0.9061340689659119,
+     "distance": 0.7564159631729126
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": 0.7543166875839233,
+     "distance": 0.6607652306556702
+    }
+   ]
+  }
+ ],
+ "hybrid:norerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 43.97120000066934,
+   "n_hits": 8,
+   "n_relevant": 4,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.5,
+   "precision_span": 0.5,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 0.9709286432396581,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各学院：\n近年来，电信网络诈骗、网络赌博、非法校园贷等洗钱上游犯罪多发高发，大学生易"
+    ],
+    "rerank_score": null,
+    "distance": 0.7313717603683472,
+    "bm25_score": 23.58585926455217
+   },
+   "hit_docs": [
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7313717603683472
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7117295861244202
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7172915935516357
+    },
+    {
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5202626585960388
+    },
+    {
+     "document_id": "c1d3c39b-a3d2-48b2-9708-adec3da61d47",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5120009183883667
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7239163517951965
+    },
+    {
+     "document_id": "148364a1-228b-4539-8328-2d498f0677c8",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "5f647afc-b993-460b-8cc6-266e6694e5c7",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5468505620956421
+    }
+   ]
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 38.059999998949934,
+   "n_hits": 8,
+   "n_relevant": 5,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.625,
+   "precision_span": 0.375,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 0.9894634029318994,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+    "filename": [
+     "三、人才引进类型及待遇",
+     "要解决配偶工作的，其安家费额外上浮3万元。\n7.校内其他待遇\n按学校有关规定，同时享受科研奖励、教学工作绩效奖励以及项目"
+    ],
+    "rerank_score": null,
+    "distance": 0.7810412645339966,
+    "bm25_score": 24.40671032477865
+   },
+   "hit_docs": [
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7810412645339966
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.5772125720977783
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.5431930422782898
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 1,
+     "rerank_score": null,
+     "distance": 0.5569983720779419
+    },
+    {
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5463386178016663
+    },
+    {
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5323997735977173
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 1,
+     "rerank_score": null,
+     "distance": 0.5360729098320007
+    },
+    {
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5273211002349854
+    }
+   ]
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 36.973100002796855,
+   "n_hits": 8,
+   "n_relevant": 4,
+   "rel_grades": [
+    2,
+    2,
+    0,
+    2,
+    0,
+    0,
+    2,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.5,
+   "precision_span": 0.5,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 0.9349366583346496,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各单位：\n为进一步推动人工智能与教育教学深度融合，帮助广大教师把握AI教育前沿趋势，"
+    ],
+    "rerank_score": null,
+    "distance": 0.7564159631729126,
+    "bm25_score": 62.9552362139617
+   },
+   "hit_docs": [
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7564159631729126
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.6607652306556702
+    },
+    {
+     "document_id": "8e178f39-a526-4b76-9178-9ba32efcc55d",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5625449419021606
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.5683929920196533
+    },
+    {
+     "document_id": "8e178f39-a526-4b76-9178-9ba32efcc55d",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5623668432235718
+    },
+    {
+     "document_id": "11010882-0287-4a01-94c6-65155abecedf",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5019439458847046
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.503404974937439
+    },
+    {
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.4972209632396698
+    }
+   ]
+  }
+ ],
+ "vector:rerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 2735.639500002435,
+   "n_hits": 4,
+   "n_relevant": 4,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各学院：\n近年来，电信网络诈骗、网络赌博、非法校园贷等洗钱上游犯罪多发高发，大学生易"
+    ],
+    "rerank_score": 0.968286395072937,
+    "distance": 0.7313717603683472,
+    "bm25_score": null
+   },
+   "hit_docs": [
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.968286395072937,
+     "distance": 0.7313717603683472
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.8842154741287231,
+     "distance": 0.7117295861244202
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.6734038591384888,
+     "distance": 0.7172915935516357
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.37431415915489197,
+     "distance": 0.7239163517951965
+    }
+   ]
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 2969.533399998909,
+   "n_hits": 2,
+   "n_relevant": 2,
+   "rel_grades": [
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+    "filename": [
+     "三、人才引进类型及待遇",
+     "要解决配偶工作的，其安家费额外上浮3万元。\n7.校内其他待遇\n按学校有关规定，同时享受科研奖励、教学工作绩效奖励以及项目"
+    ],
+    "rerank_score": 0.9934271574020386,
+    "distance": 0.7810412645339966,
+    "bm25_score": null
+   },
+   "hit_docs": [
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.9934271574020386,
+     "distance": 0.7810412645339966
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.9261509776115417,
+     "distance": 0.5772125720977783
+    }
+   ]
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 3651.047800005472,
+   "n_hits": 2,
+   "n_relevant": 2,
+   "rel_grades": [
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各单位：\n为进一步推动人工智能与教育教学深度融合，帮助广大教师把握AI教育前沿趋势，"
+    ],
+    "rerank_score": 0.9061340689659119,
+    "distance": 0.7564159631729126,
+    "bm25_score": null
+   },
+   "hit_docs": [
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": 0.9061340689659119,
+     "distance": 0.7564159631729126
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": 0.7543166875839233,
+     "distance": 0.6607652306556702
+    }
+   ]
+  }
+ ],
+ "vector:norerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 20.286399994802196,
+   "n_hits": 8,
+   "n_relevant": 4,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.5,
+   "precision_span": 0.5,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各学院：\n近年来，电信网络诈骗、网络赌博、非法校园贷等洗钱上游犯罪多发高发，大学生易"
+    ],
+    "rerank_score": null,
+    "distance": 0.7313717603683472,
+    "bm25_score": null
+   },
+   "hit_docs": [
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7313717603683472
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7239163517951965
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7172915935516357
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7117295861244202
+    },
+    {
+     "document_id": "5f647afc-b993-460b-8cc6-266e6694e5c7",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5468505620956421
+    },
+    {
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5467029213905334
+    },
+    {
+     "document_id": "37ba4ba7-33cb-48ad-96be-f56c8c9177fe",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.542008101940155
+    },
+    {
+     "document_id": "5f647afc-b993-460b-8cc6-266e6694e5c7",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5366900563240051
+    }
+   ]
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 21.529099998588208,
+   "n_hits": 8,
+   "n_relevant": 2,
+   "rel_grades": [
+    2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.25,
+   "precision_span": 0.25,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 0.9197207891481876,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+    "filename": [
+     "三、人才引进类型及待遇",
+     "要解决配偶工作的，其安家费额外上浮3万元。\n7.校内其他待遇\n按学校有关规定，同时享受科研奖励、教学工作绩效奖励以及项目"
+    ],
+    "rerank_score": null,
+    "distance": 0.7810412645339966,
+    "bm25_score": null
+   },
+   "hit_docs": [
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7810412645339966
+    },
+    {
+     "document_id": "c790c59c-d187-4388-b62f-5dfe5943a238",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5812433362007141
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.5772125720977783
+    },
+    {
+     "document_id": "6ee59a68-bf75-4226-ae83-923d81259bca",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5712529420852661
+    },
+    {
+     "document_id": "2cef824c-f83d-49b9-970f-ce4c2f6176c9",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5702834725379944
+    },
+    {
+     "document_id": "2cef824c-f83d-49b9-970f-ce4c2f6176c9",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.559472918510437
+    },
+    {
+     "document_id": "c790c59c-d187-4388-b62f-5dfe5943a238",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5588119029998779
+    },
+    {
+     "document_id": "c790c59c-d187-4388-b62f-5dfe5943a238",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5576526522636414
+    }
+   ]
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 24.982099996122997,
+   "n_hits": 8,
+   "n_relevant": 3,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.375,
+   "precision_span": 0.375,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各单位：\n为进一步推动人工智能与教育教学深度融合，帮助广大教师把握AI教育前沿趋势，"
+    ],
+    "rerank_score": null,
+    "distance": 0.7564159631729126,
+    "bm25_score": null
+   },
+   "hit_docs": [
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.7564159631729126
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.6607652306556702
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": 0.5683929920196533
+    },
+    {
+     "document_id": "8e178f39-a526-4b76-9178-9ba32efcc55d",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5625449419021606
+    },
+    {
+     "document_id": "8e178f39-a526-4b76-9178-9ba32efcc55d",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5623668432235718
+    },
+    {
+     "document_id": "6ee59a68-bf75-4226-ae83-923d81259bca",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.534942626953125
+    },
+    {
+     "document_id": "6baa4b5d-dc2b-490d-bee9-03f4eb20e1f0",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5290577411651611
+    },
+    {
+     "document_id": "effd8815-b373-4104-9c49-97421f9983d9",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": 0.5289772748947144
+    }
+   ]
+  }
+ ],
+ "bm25:rerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 2804.384900002333,
+   "n_hits": 3,
+   "n_relevant": 3,
+   "rel_grades": [
+    2,
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各学院：\n近年来，电信网络诈骗、网络赌博、非法校园贷等洗钱上游犯罪多发高发，大学生易"
+    ],
+    "rerank_score": 0.9682862758636475,
+    "distance": null,
+    "bm25_score": 23.58585926455217
+   },
+   "hit_docs": [
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.9682862758636475,
+     "distance": null
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.8842154741287231,
+     "distance": null
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": 0.6734040975570679,
+     "distance": null
+    }
+   ]
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 3853.9701999980025,
+   "n_hits": 3,
+   "n_relevant": 3,
+   "rel_grades": [
+    2,
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+    "filename": [
+     "三、人才引进类型及待遇",
+     "要解决配偶工作的，其安家费额外上浮3万元。\n7.校内其他待遇\n按学校有关规定，同时享受科研奖励、教学工作绩效奖励以及项目"
+    ],
+    "rerank_score": 0.9934272766113281,
+    "distance": null,
+    "bm25_score": 24.40671032477865
+   },
+   "hit_docs": [
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.9934272766113281,
+     "distance": null
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.9261507987976074,
+     "distance": null
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": 0.25796249508857727,
+     "distance": null
+    }
+   ]
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 3437.4927999961074,
+   "n_hits": 2,
+   "n_relevant": 2,
+   "rel_grades": [
+    2,
+    2
+   ],
+   "recall": 1.0,
+   "precision": 1.0,
+   "precision_span": 1.0,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各单位：\n为进一步推动人工智能与教育教学深度融合，帮助广大教师把握AI教育前沿趋势，"
+    ],
+    "rerank_score": 0.9061340689659119,
+    "distance": null,
+    "bm25_score": 62.9552362139617
+   },
+   "hit_docs": [
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": 0.9061340689659119,
+     "distance": null
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": 0.7543166875839233,
+     "distance": null
+    }
+   ]
+  }
+ ],
+ "bm25:norerank": [
+  {
+   "qid": "b0-01",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 6.253599996853154,
+   "n_hits": 8,
+   "n_relevant": 3,
+   "rel_grades": [
+    2,
+    2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.375,
+   "precision_span": 0.375,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 0.9674679834891693,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+    "filename": [
+     "一、活动主题",
+     "一、活动主题\n“牧野护青行·反洗钱法治文化市集”反洗钱知识进校园"
+    ],
+    "rerank_score": null,
+    "distance": null,
+    "bm25_score": 29.12939650774979
+   },
+   "hit_docs": [
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "148364a1-228b-4539-8328-2d498f0677c8",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "3595fe9a-8223-4ee9-87f1-0b9bec2c7a14",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "6ae05dfe-a1e9-48f2-8051-f450221a7d25",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "a201b2ec-1467-41be-9bd1-15bbe9b093a6",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "d8740669-6b9f-42fb-99f2-7f520af861a6",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    }
+   ]
+  },
+  {
+   "qid": "b0-02",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 7.331699998758268,
+   "n_hits": 8,
+   "n_relevant": 4,
+   "rel_grades": [
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "recall": 1.0,
+   "precision": 0.5,
+   "precision_span": 0.375,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 0.9754478858155874,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+    "filename": [
+     "三、人才引进类型及待遇",
+     "要解决配偶工作的，其安家费额外上浮3万元。\n7.校内其他待遇\n按学校有关规定，同时享受科研奖励、教学工作绩效奖励以及项目"
+    ],
+    "rerank_score": null,
+    "distance": null,
+    "bm25_score": 24.40671032477865
+   },
+   "hit_docs": [
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "da373ff4-f0a8-46a7-936e-7864d6503ad4",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "da373ff4-f0a8-46a7-936e-7864d6503ad4",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "eb9892f7-21f5-4c8d-a73f-3a5adfb5aead",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "c6c1ec8d-561b-45dd-9474-7a988cb8dc06",
+     "rel": 1,
+     "rerank_score": null,
+     "distance": null
+    }
+   ]
+  },
+  {
+   "qid": "b0-03",
+   "status": "ok",
+   "error": null,
+   "latency_ms": 7.1333999949274585,
+   "n_hits": 8,
+   "n_relevant": 2,
+   "rel_grades": [
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "recall": 1.0,
+   "precision": 0.25,
+   "precision_span": 0.25,
+   "hit@1": true,
+   "hit@3": true,
+   "mrr": 1.0,
+   "ndcg": 1.0,
+   "first_gold_rank": 1,
+   "top_hit": {
+    "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+    "filename": [
+     null,
+     "v_news_content\">\n\n各单位：\n为进一步推动人工智能与教育教学深度融合，帮助广大教师把握AI教育前沿趋势，"
+    ],
+    "rerank_score": null,
+    "distance": null,
+    "bm25_score": 62.9552362139617
+   },
+   "hit_docs": [
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "1dd2a31c-b08a-4735-902d-525c74b98b7f",
+     "rel": 2,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "8e178f39-a526-4b76-9178-9ba32efcc55d",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "bd26c29b-fc75-40bf-a031-79186d070732",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "11010882-0287-4a01-94c6-65155abecedf",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "3695880d-c33e-46cb-9830-686914d330d1",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    },
+    {
+     "document_id": "be487760-f912-47f3-85e4-50ffd843dcd2",
+     "rel": 0,
+     "rerank_score": null,
+     "distance": null
+    }
+   ]
+  }
+ ]
+}

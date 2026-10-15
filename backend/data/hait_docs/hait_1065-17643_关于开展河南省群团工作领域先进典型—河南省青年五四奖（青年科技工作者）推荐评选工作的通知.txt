@@ -1,0 +1,48 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Arial";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"方正小标宋_GBK";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-vsb_temp-align:none; vsb_temp-mode:char; mso-line-break-override:restrictions; text-autospace:none; text-align:left; vertical-align:baseline; font-family:Arial; mso-fareast-font-family:仿宋_GB2312; mso-bidi-font-family:仿宋_GB2312; color:rgb(0,0,0); letter-spacing:0.1000pt; font-size:11.5000pt;} span.10{ font-family:'Times New Roman';} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门（单位）： 
+ 按照《关于做好河南省群团工作领域先进典型推荐评选工作的通知》（豫工文〔2025〕48号）要求，决定开展河南省群团工作领域先进典型—河南省青年五四奖（青年科技工作者）推荐工作。现将推荐工作指南公布如下：
+ 一、表彰名额
+ 2025年，计划表彰河南省青年五四奖（青年科技工作者）50人。
+ 二、评选条件
+ 思想政治坚定，热爱祖国，遵纪守法，拥护党的路线、方针、政策，增强“四个意识”、坚定“四个自信”、做到“两个维护”，学风正派，积极践行科学家精神。
+ （一）应符合以下条件之一：
+ 1.在自然科学研究领域取得重要的、创新性的成就和作出突出贡献；
+ 2.在工程技术方面取得重大的、创造性的成果和作出贡献，并有显著应用成效；
+ 3.在科学技术普及、科技成果推广转化、科技管理工作中取得突出成绩，产生显著的社会效益或经济效益。
+ （二）在河南省内工作满一年。男性候选人不超过40周岁（1985年1月1日及以后出生），女性候选人不超过45周岁（1980年1月1日及以后出生）。往届中国青年科技奖和河南省青年科技奖获得者不得申报。
+ 三、推荐名额
+ 我校可推荐1人
+ 四、推荐工作要求
+ （一）坚持“公开、公正、公平、择优”原则，拓宽推荐单位，严格评选条件，坚持以创新价值、能力、贡献为导向的科技人才评价标准，克服唯论文、唯职称、唯学历、唯奖项倾向，确保评选质量。
+ （二）候选人的科技成果应以在国内做出的成果为主，参评人选应作为主要完成人或主要贡献者。人选推荐要注重向长期工作在科研与生产第一线和艰苦行业的优秀青年科技工作者倾斜。不推选副厅级及以上个人。在事业单位担任领导职务、具有副高级及以上专业技术职务、长年坚持在教学、科研一线并作出特殊贡献的专家和学术带头人，可以按科研人员推荐。荣获同一层级或者高于本奖项的科技人才方面表彰奖励的，原则上不参与评选。
+ （三）候选人推荐材料是河南省青年五四奖推荐的主要依据，应简明扼要，要重点突出创新价值、能力、贡献。非学术性报纸刊物的有关报道不作为证明材料。
+ （四）推荐单位和候选人要自觉恪守科学道德和学术规范，坚持“谁推荐谁负责”的原则，推荐材料要客观、准确、完整，对于推荐材料填报不实的，实行“一票否决”。如候选人被投诉，推荐单位及候选人所在单位应进行调查核实，并提供书面调查材料和结论性意见。
+ （五）候选人推荐材料不得涉及国家秘密，候选人所在单位应对推荐材料（含附件）进行保密审查并出具保密审查证明。违反保密规定的，取消被推荐资格。
+ 五、学校推荐材料报送要求
+ （一）初步推荐书面材料报送要求
+ 1.《河南省青年五四奖初步候选人推荐表》（附件1）和附件支撑材料A4纸双面打印，合并装订成册（原件3份），另单独报送《河南省青年五四奖初步候选人推荐表》复印件10份；推荐表中候选人所在单位推荐意见中需对候选人政治表现、廉洁自律、道德品行，以及材料的真实性、准确性及涉密情况出具明确意见；推荐单位意见中需对候选人在创新价值、能力、贡献和学风道德等方面作出评价。
+ 附件支撑材料应提交代表性成果，主要包括：
+ （1）公开发表的主要论文及专著；
+ （2）技术鉴定证书及知识产权证明材料；
+ （3）技术应用证明材料；
+ （4）获得表彰奖励证明材料；
+ （5）其他成就和贡献证明材料；
+ （6）候选人所在单位出具的保密审查证明。
+ 2.《河南省青年五四奖初步候选人推荐汇总表》（附件2）2份。
+ 3.经省科协差额初审，根据专家反馈评审意见进行公示，公示无异议后，报送以下正式推荐材料。
+ （二）正式推荐材料报送要求
+ 《河南省群团工作领域先进典型先进个人推荐表》（附件3）3份，《河南省青年五四奖候选人征求意见表》（附件4）2份，《河南省群团工作领域先进典型先进个人汇总表》（附件6）2份，如候选人为企业负责人还需提供《企业负责人征求意见表》1份。
+ （三）材料报送时间和方式要求
+ 1.初步推荐书面材料由各院部于7月3日前报送至科研处C820，同时将电子版（word格式和pdf格式）发送至邮箱kyc@hait.edu.cn。
+ 2.正式推荐书面材料由各院部于8月12日前报送至科研处C820，同时将电子版（word格式和pdf格式）发送至邮箱kyc@hait.edu.cn。
+ 六、联系方式
+ 1.科研处
+ 联系人：王国盛
+ 电话：3691219
+ 2.业务咨询（省科协组织人事部）
+ 联系人：李 东 陈喜凤
+ 电 话：0371-65707757
+ 附件：《关于做好河南省群团工作领域先进典型推荐评选工作的通知》附件
+ 科研处 
+ 2025年7月1日

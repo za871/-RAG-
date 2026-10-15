@@ -1,0 +1,56 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} @font-face{ font-family:"楷体_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} p.MsoFooter{ mso-style-name:页脚; margin:0pt; margin-bottom:.0001pt; tab-stops:center 207.6500pt right 415.3000pt ; vsb_temp-mode:char; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.MsoHeader{ mso-style-name:页眉; margin:0pt; margin-bottom:.0001pt; border-top:none; mso-border-top-alt:none; border-right:none; mso-border-right-alt:none; border-bottom:none; mso-border-bottom-alt:none; border-left:none; mso-border-left-alt:none; padding:1pt 4pt 1pt 4pt ; tab-stops:center 207.6500pt right 415.3000pt ; vsb_temp-mode:char; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:110.5500pt; margin-bottom:93.5500pt; margin-left:79.3500pt; margin-right:73.7000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt; mso-page-numbers:decimal;} div.Section0{page:Section0;}
+ 各二级党组织、各部门：
+ 为深入贯彻落实新时代廉洁文化建设三年行动计划，推动清廉学校建设提质增效，持续厚植校园廉洁文化底蕴、丰富育人内涵，经研究决定开展我校2026年廉政教育月活动，现将有关要求通知如下。
+ 一、活动主题
+ 育廉心 明政绩 勇担当
+ 二、指导思想
+ 坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平总书记关于党的建设的重要思想、关于党的自我革命的重要思想，全面落实二十届中央纪委五次全会、十一届省纪委六次全会部署要求。紧扣党的作风建设主线，以强化党性修养为根本，以树立和践行正确政绩观为重点，通过沉浸式、分众化教育形式，推动廉洁文化进校园、进课堂、进宿舍，着力锤炼清正廉洁的政治品格、廉洁奉公的政德修养、廉洁自律的道德操守、崇廉拒腐的校园风尚，引导全体师生自觉做到思想崇廉、行动践廉、文化育廉，持续巩固风清气正的育人环境和政治生态。
+ 三、活动对象
+ 全校师生
+ 四、活动时间
+ 2026年5月--6月
+ 五、活动内容
+ （一）学习实践单元
+ 1.同读廉洁文化书籍
+ 举办廉洁文化专题图书展。开展“书香润廉・政绩铸魂”廉洁文化专题图书展。在图书馆一楼大厅设立专属展区，划分“重要论述、党纪法规、政绩观教育、廉洁家风、典型案例”五大板块，集中陈列《年轻干部廉洁履职警示手册》等书籍、辅导读本及警示教育资料共计 100 余册，引导师生在品读经典中深刻领悟正确政绩观内涵，筑牢廉洁思想根基。
+ 责任单位：纪委机关、图书馆。
+ 开展廉洁主题读书活动。各二级党组织通过读书分享会、经典诵读、专题讲座等形式，深入学习《习近平关于加强党的作风建设论述摘编》《习近平关于树立和践行正确政绩观论述摘编》等书籍，认真阅读观看《中国家规》等专题教育片，进一步筑牢信仰之基、补足精神之钙、把稳思想之舵。
+ 责任单位：各二级党组织。
+ 2.同上廉洁文化教育课
+ 开展廉洁教育课堂活动。结合“纪法我来讲”活动，组织开展廉洁专题讲座，紧扣全面从严治党新形势新要求，聚焦高校廉政风险防控、师德师风建设等重点领域，结合教育系统及校内违纪违法典型案例，以案释纪、以案明法，深入剖析问题根源与严重危害，系统宣讲纪律规矩与廉洁从业准则，引导党员干部知敬畏、存戒惧、守底线，筑牢拒腐防变思想防线。
+ 二级党组织书记带头讲授专题党课。以树立和践行正确政绩观学习教育为统领，深入学习贯彻习近平总书记关于树立和践行正确政绩观、加强作风建设等重要论述。各二级党组织书记切实履行第一责任人职责，面向本单位党员干部讲授专题党课，教育引导广大党员干部牢记“为民造福是最大政绩”，坚持修身慎行、怀德自重、清廉自守，自觉以新时代“四有”好老师标准严格要求自己，将正确政绩观内化于心、外化于行，切实做到廉洁从政、廉洁从教、廉洁育人。
+ 责任单位：纪委机关、各二级党组织。
+ 3.同践廉洁修身之行
+ 召开警示教育大会。结合张成功“纸面服刑”案、李伟平涉黑案，各级纪检干部认真查摆是否存在有案不立、压案不查、查案不力、判罚不公等问题，是否存在通风报信、说情打招呼、违规干预案件办理、滥用职权、协同造假等行为，把自己摆进去、把职责摆进去、把工作摆进去，从理论学习、政治素养、能力本领、担当作为、工作作风、廉洁自律方面对照检查自身存在问题（《个人对照查摆问题清单》见附件1），深刻剖析原因，深挖思想根源，有针对性地提出改进举措，切实抓好整改整治，坚决铲除黑恶势力滋生土壤。同时，通过组织观看警示教育片、参观监狱和警示教育基地、纪念馆形式开展警示教育，推动党员干部在沉浸式学习中强化纪律敬畏、锤炼党性修养。
+ 开展专题学习研讨。校纪委结合实际，编印《党员领导干部树立和践行正确政绩观警示教育材料》，发放至中层干部及年轻干部；各二级党组织组织党员干部围绕“如何以正确政绩观引领廉洁从教”“新时代高校党员干部的政绩追求与廉洁担当”等主题开展专题研讨，结合岗位实际分享学习体会，推动理论学习入脑入心。
+ 学践相融，廉诺立身。面向党员干部开展“正确政绩观”廉洁承诺签名活动，组织党员干部签订《廉洁从政从教承诺书》（见附件2），公开作出“坚守初心使命、践行正确政绩、严守廉洁底线”的承诺；面向教职工开展社区宣传等廉洁志愿服务活动，引导广大师生增强不想腐的自觉，清清白白做人、干干净净做事；面向学生深化开展“纪法与青春同行”主题活动，通过主题班会、廉洁知识问答、廉洁故事分享等形式，推动廉洁教育与思政、德育等课程融合，引导学生树立正确的价值观。
+ 责任单位：纪委机关、团委、各二级党组织。
+ （二）阵地建设单元
+ 1.线上宣传阵地建设
+ 充分利用学校纪检监察官网、微信公众号等平台，推送正确政绩观相关论述、廉洁典型案例、优秀作品等内容；开展线上“廉洁知识答题挑战赛”，设置正确政绩观、廉洁法规、党规党纪等相关题目，吸引师生广泛参与。
+ 2.线下宣传阵地升级
+ 与校内活动场所、党建阵地、文化地标等有机结合，挖掘运用红色资源、校史资源中的清廉元素，用活用好廉洁文化资源，打造形式多样、内容丰富的教育基地；举办“廉洁文化作品展”，集中展示廉政教育月优秀作品、学校廉洁建设成果；在校园广播、电子屏滚动播放廉洁主题宣传内容，营造“抬头见廉、低头思廉”的浓厚氛围。
+ 责任单位：纪委机关、党委宣传部、各二级党组织。
+ （三）作品征集单元
+ 1.书画作品征集
+ 以“育廉心 明政绩 勇担当”为主题，围绕思想、工作、学习、生活实际，创作书法、绘画等作品，通过书画等直观的形式让师生感受廉洁文化的魅力，通过潜移默化的文化浸润，展现新时代廉洁校园风貌，让清廉之风浸润校园、深入人心，形成敬廉崇洁的良好校园氛围。作品要求格式标准、规范、整洁，根据主题自撰内容，体裁不限，字体不限，每幅书画作品用不超过200字的篇幅对作品内容进行简要概述。
+ 承办单位：艺术学院
+ 2.创意作品征集
+ 组织师生挖掘校园文化、历史古迹、文献资料中的清廉元素，创作海报、文创设计等创意作品，在艺术实践中涵养尚廉、持廉的精神境界。作品需为平面图片形式，格式为JPG格式，每幅作品不小于5M，尺寸60cm*90cm，分辨率300dpi，系列作品图片不超过四张，用不超过200字的篇幅对作品内容进行简要概述。
+ 承办单位：车辆学院
+ 3.微短剧征集
+ 组织师生围绕廉洁故事、清廉人物、典型案例等，创作兼具政治性、思想性、艺术性的情景剧、微电影、短视频等作品，挖掘宣传革命先辈、历史人物、身边榜样的廉洁事迹和崇高品格，激励干部师生廉以律己、无私奉献。视频格式为mp4或mov格式，时长20分钟以内，声音清楚，标注字幕。解说词报送Word版本。
+ 承办单位：计算机学院
+ 4.微课征集
+ 组织师生学习习近平总书记重要讲话重要论述等廉洁金句，深入挖掘中华优秀传统文化中的廉洁文化经典等，以微视频形式录制“廉洁金句”网络微课。视频格式为mp4格式，时长5分钟以内，声音清楚，标注字幕。解说词报送Word版本。
+ 承办单位：智能学院
+ 六、活动要求
+ 1.加强组织领导。各二级党组织要担负起管党治党主体责任，精心谋划、创新形式、营造氛围，规定动作见实效、自选动作有特色；各二级党组织书记要担负起第一责任人责任，精心组织、统筹安排、带头参与，确保教育月活动有序推进、扎实见效。
+ 2.营造浓厚氛围。各二级党组织要采取有效措施，充分利用各种载体，及时宣传报道廉政教育月活动的开展情况，交流经验，相互学习，相互借鉴，取长补短，共同提高，积极营造浓厚的校园廉政教育氛围。
+ 3.认真总结经验。要注意收集和保存廉政教育月的相关资料，活动结束后各二级党组织要将廉政教育月开展经验形成总结报告，于6月30日前报送校纪委综合室（办公楼A0907房间），并将电子版发送至hngxyjijian@126.com邮箱。联系电话：3691063。
+ 附件1：个人对照查摆问题清单
+ 附件2：党员干部廉洁从政从教承诺书
+ 附件3：关于开展廉洁文化作品征集活动的通知
+ 河南工学院纪委监察专员办公室综合室
+ 2026年5月20日

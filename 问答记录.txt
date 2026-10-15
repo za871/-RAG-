@@ -1,0 +1,85 @@
+ P1（严重）POST /api/documents 会把整个 API 冻住
+
+  对照实验，同一份 45KB 文本、同样的切片+向量化工作量：
+
+  ┌────────────────────────────────────┬───────────┬───────┬────────────────────────────────┐
+  │                入口                │ 路由类型  │ 耗时  │      并发 GET / 最差延迟       │
+  ├────────────────────────────────────┼───────────┼───────┼────────────────────────────────┤
+  │ POST /api/documents（上传）        │ async def │ 18.7s │ 17,923 ms（只服务了 2 次请求） │
+  ├────────────────────────────────────┼───────────┼───────┼────────────────────────────────┤
+  │ POST /api/documents/text（纯文本） │ def       │ 19.0s │ 176 ms（服务了 1,237 次请求）  │
+  └────────────────────────────────────┴───────────┴───────┴────────────────────────────────┘
+
+  差 100 倍。原因在 documents.py:31 是 async def，于是 ingest_upload 里 get_embeddings().embed_documents(...)（CPU 推理，几千个 chunk 要十几秒）+ Milvus/MySQL 写入全跑在事件循环上。
+
+  这是本次测试最严重的发现：45KB 的纯文本就能让整个服务假死 19 秒，并发用户全部排队。
+
+  值得强调的是，README 1343 行把这个已知问题归因于 write_bytes() 和同步 Session——归因不对。真正的成本是 embedding 推理；照 README 的建议只把 write_bytes() 包进 anyio.to_thread.run_sync
+  不会改善。同一份代码里 list_document(documents.py:49) 和 search(:64) 都刻意写成同步 def 并有注释说明原因，上传这条路是唯一的例外。
+
+  P2（高）small-to-big 的父块完全没用，而且每个 chunk 在 MySQL 里存了两遍
+
+  直接 dump 一篇文档的 document_chunks：
+
+  total rows=34  parents=17  children=17
+  child  content len: min=6 max=36 avg=21
+  parent content len: min=6 max=36 avg=21
+  >>> parent/child avg ratio = 1.00
+
+  每一行的父块正文和它自己的子块一字不差（ord 10 父 / ord 11 子，内容都是「第三条 符合条件的青年人才…2000元…」）。后果有三层：
+
+  1. SearchHit.parent_content ≈ content，README 花大篇幅讲的 small-to-big 机制在标准政策文档格式上完全失效（实测 top hit 的 parent_content 只有 35 字，证据总长 70 字）。
+  2. 每个 chunk 在 MySQL 存两份，而 document.chunk_count 只算子块——所以库里行数是 API 报告值的 2 倍（reset 时报 chunks_deleted=98，而各文档 chunk_count 之和是 49）。
+  3. Citation.section 变成了整句话而不是标题（见 P6 复现）。
+
+  根因在 chunking.py:4 的 HEADING_PATTERN：第[一二三四五六七八九十百]+[章节条] 里的 条 让每一行 第X条 都成了独立章节（\d+、 和 [一二三四五六七八九十]+、 同理，把 1、申请人年龄…
+  也切成章节）。章节只剩一行，1200 的父窗口和 420 的子窗口自然都装得下，于是父=子。
+
+  P3（高）关掉重排后「相关性门槛」整个消失：/search 对胡问返回 ok，/qa/ask 白烧一次大模型
+
+  同一个毫不相关的问题「如何申请北极科考站的签证？请说明具体材料清单和办理时限。」：
+
+  ┌──────────────┬─────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │              │                 /search                 │                                                                 /qa/ask                                                                 │
+  ├──────────────┼─────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ rerank=false │ status=ok，5 条命中，余弦相似度 ≈       │ retrieval_status=ok，llm_called=true，llm_ms=1327，5 条垃圾证据送进 prompt；靠模型自己吐 INSUFFICIENT_EVIDENCE 才变成                   │
+  │              │ 0.4991                                  │ insufficient_evidence                                                                                                                   │
+  ├──────────────┼─────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ rerank=true  │ status=refused，0 条                    │ refused，llm_called=false，llm_ms=0                                                                                                     │
+  └──────────────┴─────────────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+  也就是说 qa_service.py:6-7 那句「没有证据就不调大模型——这是本服务最重要的一条」只在重排开启时成立。而 rerank 是公开的请求字段，.env 里 ENABLE_RERANKER=false
+  也会进到这个状态。答案质量还有第二层（模型自报不足）兜住，但成本和 status 语义没有：每次胡问都白付一次 1.3s + token，而且 /search 的调用方看到的是 ok。
+
+  顺带一个观测：无关问题的余弦相似度高达 0.4991（BGE query 指令前缀带来的共同分量），所以余弦分本身没法当门槛，MIN_EVIDENCE_SCORE 也只作用于重排分——这正好解释了为什么关掉重排就没有门槛了。
+
+  P4（中）timings.llm_ms 在进程首个请求上少报约 4 秒
+
+  新进程第一个 /qa/ask：
+
+  ask #1: retrieval= 504.1  llm= 1711.9  total= 6222.4   UNACCOUNTED= 4006.4
+  ask #2: retrieval=  19.5  llm= 1170.8  total= 1191.4   UNACCOUNTED=    1.1
+  ask #3: retrieval=  15.4  llm= 1298.8  total= 1315.7   UNACCOUNTED=    1.4
+
+  4006ms 既不算检索也不算大模型，只落在 total_ms 里。原因：qa_service.py:238-240 把 create_chat_model() 放在 llm_started = perf_counter() 之前，所以 langchain-openai 的 import + 客户端初始化（README
+  实测 3.7s）没被计时。llm_ms 的文档写的是「大模型调用耗时」，看 timings 的人会以为模型只花了 1.7s，而请求实际 6.2s。DebugInfo 里也没有任何字段承接这部分。
+
+  P5（中）README 的状态契约与代码不符（静态 review 提过，这次实测确认）
+
+  上传接口实测返回 ready，models.py:13-17 是四个状态（pending/indexing/ready/failed），但 README 164 行仍写「上传后一律是 pending，因为切片和向量化流水线尚未实现」，157/209/1178
+  行只列了三个状态，184/226 行的示例 JSON 也是 "status": "pending"。前端照着 README 写会踩空。
+
+  P6（低）其余观测
+
+  - /search 回显请求里的 top_k，但开重排时命中被 RERANK_TOP_K 压到 4——实测 top_k=5 只回 2 条。
+  - section 标签长这样（P2 的直接表现）：'第三条 符合条件的青年人才，按照每人每月2000元的标准发放租房补贴。'。
+  - PDF 路径正常：手搓的 1 页 PDF → ready，1 个 chunk，能被 BM25 检索到。docx 也正常（4 chunks）。
+  - 顺带：我在测试脚本里 import app.database 时，SQLAlchemy 把所有 SQL（含参数）打进了我的脚本 stdout——database.py:11 的 echo=True 确实是无条件的。
+
+  ---
+  收尾：测试数据已全部通过 DELETE /api/documents?confirm=RESET 清干净（MySQL 0/0、上传目录空、Milvus collection 已 drop），没有留在你的库里。注意起始状态是空库、Milvus 当时没跑，所以这次 reset
+  没有动到你任何原有数据。
+
+  Milvus 容器（milvus-standalone）和 uvicorn（127.0.0.1:8000）我还开着，方便你复现；要我停掉的话说一声。
+
+  优先建议：P1 改成同步 def + upload.file.read()（和 search 一致），P2 从 HEADING_PATTERN 里去掉 条 并让父块按章节而不是按行聚合。这两条是「测试能过但会真出问题」的。要我开始改吗？

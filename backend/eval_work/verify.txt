@@ -1,0 +1,9 @@
+b0-04 span=年龄不超过60周岁（1966年6月30日后出生） | gold=[20] | also_in=[21]
+b0-05 span=全面推行科研经费“包干制”，实行项目经费定额包干资助 | gold=[21] | also_in=[24]
+===== expected_answer substring check (answer text should be inferable) =====
+MISSING SPAN b0-14: ['讲座题目：激光喷丸强化技术及其应用']
+MISSING SPAN b0-15: ['省教育厅给我校分配的推荐名额为1名']
+MISSING SPAN b1-14: ['特组织2027年度国家基金申报动员会']
+MISSING SPAN b2-14: ['全校主动公开信息3011条']
+MISSING SPAN b2-15: ['校歌为《开拓之歌》']
+MISSING SPAN b3-14: ['校党委会研究确定10人作为拟聘用的对象']

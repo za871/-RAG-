@@ -1,0 +1,50 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Arial";} @font-face{ font-family:"等线";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"仿宋";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-vsb_temp-align:none; vsb_temp-mode:char; mso-line-break-override:restrictions; text-autospace:none; vertical-align:baseline; font-family:Arial; mso-fareast-font-family:等线; color:rgb(0,0,0); font-size:10.5000pt;} span.10{ font-family:Arial;} span.15{ font-family:Arial; font-size:9.0000pt;} span.16{ font-family:Arial; font-size:9.0000pt;} p.17{ mso-style-name:"Table Text"; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; mso-vsb_temp-align:none; vsb_temp-mode:char; mso-line-break-override:restrictions; text-autospace:none; vertical-align:baseline; font-family:仿宋; color:rgb(0,0,0); font-size:12.0000pt;} p.MsoBodyText{ mso-style-name:正文文本; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; mso-vsb_temp-align:none; vsb_temp-mode:char; mso-line-break-override:restrictions; text-autospace:none; vertical-align:baseline; font-family:宋体; color:rgb(0,0,0); font-size:12.0000pt;} p.MsoFooter{ mso-style-name:页脚; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; tab-stops:center blank 207.6500pt right blank 415.3000pt ; mso-vsb_temp-align:none; vsb_temp-mode:char; mso-line-break-override:restrictions; text-autospace:none; vertical-align:baseline; font-family:Arial; mso-fareast-font-family:等线; color:rgb(0,0,0); font-size:9.0000pt;} p.MsoHeader{ mso-style-name:页眉; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; border-bottom:1.0000pt solid #000; mso-border-bottom-alt:0.7500pt solid #000; padding:0pt 0pt 1pt 0pt ; tab-stops:center blank 207.6500pt right blank 415.3000pt ; mso-vsb_temp-align:none; vsb_temp-mode:char; mso-line-break-override:restrictions; text-autospace:none; text-align:center; vertical-align:baseline; font-family:Arial; mso-fareast-font-family:等线; color:rgb(0,0,0); font-size:9.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} table.21{ mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:14.3000pt; mso-header-margin:0.0000pt; mso-footer-margin:0.0000pt; mso-header:url("vsb92D8.files/header.html") h0;} div.Section0{page:Section0;}
+ 为深入推动智能优化理论在生物医药应用，促进生物医药产业的智能化发展，由河南工学院主办，郑州大学计算智能实验室承办，河南省生物信息学会和 IEEE CIS 郑州分会协办的2025智能优化与生物医药产业化交叉论坛将于2025年12月6日至7日在河南新乡举办。本次论坛旨在推动人工智能在生物医药产业化的创新与应用，搭建项目高水平交流平台。论坛将邀请国内外人工智能、生物医药相关领域的知名专家学者，围绕智能优化理论的前沿理论与生物医药产业化应用进展，以及智能优化和生物医药交叉学科发展趋势等展开交流与探讨。
+ 一、组织单位
+ 主办单位：河南工学院
+ 承办单位：郑州大学计算智能实验室
+ 协办单位：河南生物信息学会（筹）| IEEE CIS 郑州分会 | 河南省重组蛋白药物重点实验室
+ 二、论坛时间
+ 2025年12月5-7日
+ 三、论坛地点
+ 河南·新乡·新乡开元名都酒店（河南省新乡市红旗区平原中路888号）
+ 四、论坛议程
+ 日期
+ 时间
+ 内容
+ 2025年12月5日（周五）
+ 14:00-22:00
+ 签到注册
+2025年12月6日（周六）
+ 09:00-09:10
+ 开幕式
+ 09:10-12:00
+ 大会报告
+ 12:00-14:00
+ 午餐
+ 14:00-18:10
+ 大会报告
+ 2025年12月7日（周日）
+ 09:00-18:00
+ 学校参观与项目交流
+ 注：具体会议议程以实际情况和会议手册为准。
+ 五、注册费用
+ 类别
+ 注册费（人民币）
+ 教师以及博士后
+ 1000 元/人
+ 学生（需上传学生证照片）
+ 800 元/人
+ 注：会议注册费包含会议资料、会议期间的餐费和茶歇费用、晚宴等。参会者的差旅费、交通费和住宿费等需要参会者自行承担。本次会议注册费由广州科奥信息技术股份有限公司代收并开具相应注册费发票。
+ 六、交通指引
+ 地点：新乡开元名都酒店
+ 1.新郑机场
+ 出租车/网约车：全程约100公里，车程约1小时20分钟。在新郑机场T2航站楼出租车/网约车上客区上车，可直达。
+ 2.新乡东站
+ 出租车/网约车：全程约6.5公里，车程约20分钟。在新乡东站出租车／网约车上客区上车即可。
+ 七、联系方式
+ 会议咨询&联系：郭老师，17516720106
+ 会务组：韦老师，19065235890
+ 科研处（学科办）
+ 2025年11月28日

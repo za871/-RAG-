@@ -1,0 +1,11 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正小标宋简体";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman';} p.16{ mso-style-name:paragraph; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:'Times New Roman'; font-size:12.0000pt; mso-font-kerning:1.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+为拓宽学术视野，追踪电气工程领域前沿动态，我校特邀国际知名学者、新西兰奥克兰大学呼爱国教授前来作学术讲座。欢迎广大师生踊跃参加！具体安排如下：
+讲座题目：Development trends of modern power supplies and applications of wireless power transfer technologies
+主 讲 人：呼爱国
+时 间：2025年10月28日（周二）10:30
+地 点：办公楼12楼第三会议室
+主讲人简介：
+呼爱国教授，现任新西兰奥克兰大学电气、计算机和软件工程系教授。他先后毕业于西安交通大学（获学士与硕士学位）及奥克兰大学（获博士学位），并于新加坡国立大学从事博士后研究。呼教授在无线/非接触式电能传输技术领域拥有50余项专利，发表逾350篇经同行评审的期刊与会议论文，并撰写了该领域首部关于感应式无线电能传输技术的专著。2017年4月，他荣获奥克兰大学校长基金的研究与商业化奖章。呼教授的研究方向主要包括无线/非接触式电能传输系统，以及电力电子技术在可再生能源系统中的应用。
+科研处
+2025年10月27日

@@ -1,0 +1,22 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"方正小标宋简体";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 全校师生：
+ 半世纪耕耘不辍，育万千桃李芬芳。值此河南工学院五十华诞之际，为承扬学术精神，广纳百家智慧，特隆重举办“办学50周年校庆系列学术讲座”。学校幸邀两位国内知名院士专家拨冗莅临，传经送宝，欢迎广大师生踊跃参加。具体事宜通知如下：
+ 一、讲座时间安排
+ 时间
+ 专家
+ 报告地点
+ 10月20日
+09:00-10:00
+ 中国科学院院士、南京航空航天大学
+朱荻教授专场报告会
+ 图书馆十二楼
+第三会议室
+ 10月20日
+10:00-11:00
+ 教育部长江学者、特聘教授、北京工业大学石照耀教授专场报告会
+ 二、主讲人简介
+ 1.朱荻，中国科学院院士、南京航空航天大学教授。长期从事特种能场制造技术的科学研究和人才培养工作，研究成果在航空航天领域获得了重要应用。发表学术论文300余篇，授权发明专利70余项，获国家技术发明奖二等奖2项。目前学术兼职有国际生产工程科学院（CIRP）会士、中国机械工程学会特种加工分会主任等。 
+ 2.石照耀，博士，教育部长江学者特聘教授，国家产业基础专家委员会委员；国际标准化组织齿轮标准委员会（ISO/TC60/WG2）委员，全国减速机标准化委员会主任委员，中国仪器仪表学会机械量测试仪器分会理事长，北京人形机器人创新中心专家委员会委员。在齿轮传动理论与技术、微小齿轮与微小制造、精密减速器与机器人关节、测试技术与仪器、精度理论与标准等方面，取得了一批创新成果，在重大装备和民生产品上获得广泛应用。
+ 科研处
+ 2025年10月18日

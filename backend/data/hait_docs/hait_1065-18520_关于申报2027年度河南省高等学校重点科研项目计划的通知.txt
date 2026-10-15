@@ -1,0 +1,40 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"仿宋_GB2312";} @font-face{ font-family:"黑体";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} h4{ mso-style-name:"标题 4"; mso-style-noshow:yes; mso-style-next:正文; margin-top:5.0000pt; margin-bottom:5.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; mso-outline-level:4; font-family:宋体; font-weight:bold; font-size:12.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} span.16{ font-family:'Times New Roman'; color:rgb(128,0,128);} span.17{ font-family:'Times New Roman'; color:rgb(0,0,255);} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+ 各部门：
+ 为深入贯彻习近平总书记在加强基础研究座谈会上的重要讲话精神，一体推进教育科技人才发展，充分发挥高等学校基础研究主力军和重大科技突破策源地作用，鼓励高校科技工作者加强基础研究和应用基础研究，促进产学研深度融合，着力提升高校原始创新能力。省教育厅决定组织实施2027年度河南省高等学校重点科研项目计划，现将我校项目申报的有关事项通知如下：
+ 一、项目计划类别
+ （一）河南省高等学校重点科研项目计划按项目类别分为青年项目、重点项目、校企协同创新项目。
+ 1.青年项目。主要支持高校青年科技人员自主选题、自由探索，开展基础研究和应用研究工作，旨在培养其独立主持科研项目、进行创新研究的能力，激励青年科技人员的创新思维，培育高校科学研究后备队伍。
+ 2.重点项目。主要支持具有一定研究基础和创新能力的高校科研人员及团队，围绕我省重点产业链发展需求，凝练关键科学问题，开展深入、系统的创新研究工作，着力攻克一批制约我省重点产业发展的技术问题，促进科技创新与产业创新深度融合发展。
+ 3.校企协同创新项目。主要面向已备案入库的校企研发中心，对共建企业委托高校实施的单个横向科研项目，实际到账资金达50万元以上（含50万元），实施周期不低于1年，并通过委托单位验收的，择优纳入河南省高等学校重点科研项目计划，在高校人才评价、职称评聘等方面视同厅级纵向科研项目。
+ （二）河南省高等学校重点科研项目计划按资助方式分为资助性计划和指导性计划。资助性计划中，青年项目经费预算标准为2万元、重点项目经费预算标准为3万元，一次性下达。青年项目、重点项目设指导性计划项目，研究经费由承担学校参照资助性项目预算标准自筹解决。
+ 二、项目申报条件
+ 项目及项目负责人应符合《河南省高等学校重点科研项目管理办法（修订）》第六条至第八条规定，并同时满足以下要求：
+ （一）基本条件
+ 1.项目负责人须具有良好的政治素质和一定的科研能力，拥有一定数量的相关研究成果，能作为项目的实际负责人并担负实质性研究工作。
+ 2.项目负责人当年度只能申请1个项目，作为主要参加者原则上不能超过2个项目。各申报项目均应成立项目组，项目组应科学分工，通力协作，鼓励跨专业、跨学科、跨学校或与企事业单位联合攻关。个人单独申报的项目不予受理。
+ 3.各高校项目推荐应和本年度河南省科技计划项目及教育厅其他科研计划项目申请工作做好对接，统筹安排，已承担省级（含）以上财政支持的科研项目和教育厅其他科研计划尚未结项或验收的项目负责人，不得申报本年度项目。严禁同一负责人和同一项目通过变换名称等形式进行多头申报。
+ （二）青年项目申请人除满足基本条件外，还应同时具备以下条件：
+ 1.项目负责人应具有博士学位或具有中级以上（含中级）专业技术职称，在所申报项目的研究领域内有突出成绩。
+ 2.项目负责人不超过35周岁（1992年1月1日及以后出生）。
+ 3.项目实施周期不超过两年，即2028年12月31日完成。
+ （三）重点项目申请人除满足基本条件外，还应同时具备以下条件：
+ 1.项目负责人应具有博士学位或具有中级以上（含中级）专业技术职称，在所申报项目的研究领域内有突出成绩。
+ 2.项目实施周期不超过两年，即 2028年12月31日完成。
+ （四）校企协同创新项目申请人和申报项目除满足基本条件外，还应同时具备以下条件：
+ 1.项目负责人应为已备案入库校企研发中心的负责人或骨干成员，具有中级以上（含中级）专业技术职称，在所申报项目研究领域内有突出成绩。
+ 2.横向科研项目应依托已备案入库校企研发中心开展，且由项目负责人所在高校与共建企业（项目委托方）签订合同，经技术合同认定登记，实施周期不低于1年，且通过委托单位验收，单个横向科研项目实际到账总金额50万元（含）以上。
+ 3.需提交的申报材料除项目申报书外，应包括：（1）横向科研项目资金到账证明（银行回单）；（2）横向科研项目研究成果（包含论文、专著、专利、软著、工法、标准、科技奖励、研究报告等）；（3）横向科研项目合同文本、验收证明（委托单位对项目履行与完成情况进行综合评价）；（4）技术合同认定登记证明；（5）第三方出具的审计证明。
+ 三、项目申报方式及时间
+ 1.河南省高等学校重点科研项目计划申报、评审、立项和后期管理依托“河南省高校科技管理云服务平台”进行（进入方式：校科研处网站底部“相关资源”->河南省高校科技管理云服务平台->省厅科研->省厅申报），项目申请、结项等纸质材料由承担单位科技管理部门负责存档。
+ 2.申请人通过所在学校系统管理员分配的账号登录云平台（参与建设高校通过各学校子域入口登录，未参与建设高校通过云平台入口登录），按照申报项目类别下载《申请书》和《课题论证活页》等项目模板，填写完成并经过检查保护后，通过云平台进行在线提交，由学校科技管理部门负责人员进行网上审核。校企协同创新项目还需在系统中依次上传横向科研项目的相关支撑材料。
+ 四、项目申报要求及限额
+ 为保证项目质量和效益，分计划类别实行限额申报，“重点项目”限额18项，“青年项目”限额18项，“校企协同创新项目”限额7项，“基础研究专项”限额0项。具体数量主要依据我省关于实施高校分类发展的意见、近三年各高校填报的《全国普通高等学校科技统计年报》、2023年度项目执行情况、备案入库校企研发中心情况等因素综合确定。
+ 五、材料报送
+ 申请人网上填报并提交申报材料纸质版一式三份（纸质版简装、去除个人信息），以部门为单位统一报送至科研处C0821办公室，电子版同步发送至科研处邮箱。
+ 网上填报截止时间：6月2日，纸质、电子材料受理截止时间：6月2日18:00，逾期不再受理。
+ 联系人：科研处项目科
+ 联系电话：3691212
+ 邮箱：kycxm@hait.edu.cn
+ 科研处（学科办）
+ 2026年5月22日

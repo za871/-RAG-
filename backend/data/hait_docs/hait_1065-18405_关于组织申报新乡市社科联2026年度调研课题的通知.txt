@@ -1,0 +1,17 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Calibri";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:10.5000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:Calibri;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:Calibri; mso-fareast-font-family:宋体; mso-bidi-font-family:'Times New Roman'; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no;}@page Section0{ margin-top:72.0000pt; margin-bottom:72.0000pt; margin-left:90.0000pt; margin-right:90.0000pt; size:595.3000pt 841.9000pt; vsb_temp:15.6000pt; mso-header-margin:42.5500pt; mso-footer-margin:49.6000pt;} div.Section0{page:Section0;}
+各部门（单位）：
+根据新乡市社会科学界联合会《关于组织申报新乡市社科联2026年度调研课题的通知》相关要求，为大兴调查研究之风，深入学习贯彻习近平总书记关于哲学社会科学工作的重要论述，认真践行“哲学社会科学工作者要走出象牙塔，多到实地调查研究，了解百姓生活状况、把握群众思想脉搏，着眼群众需要解疑释惑、阐明道理，把学问写进群众心坎里”的殷切嘱托，引导全市社科工作者立足新乡、研究新乡、服务新乡，更好服务市委、市政府科学决策、助力中国式现代化建设新乡实践，经研究，市社科联决定开展2026年度调研课题申报工作。现将有关事项通知如下：
+一、指导思想
+新乡市社科联2026年度调研课题申报和评审工作坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，落实省委、市委全会暨经济工作会议部署，紧扣“十五五”规划实施主线，围绕新质生产力培育、县域经济振兴、城乡融合发展、文旅文创融合、民生保障改善、社会治理现代化等重大理论与现实问题，着力开展前瞻性、针对性、储备性研究，力争推出有理论深度、有实践价值、有决策参考意义的精品力作，为奋力谱写中原大地推进中国式现代化新乡实践提供切实有效的智力支持。
+二、选题要求与申报原则
+1.课题指南所列选题方向（详见附件1），申报人不得直接使用指南原题进行申报，须在指南方向内结合新乡实际及自身研究专长自行拟定申报题目，题目须科学、规范、简明、聚焦。
+2.申报者限定主持申报一项，可作为成员另参与一项，不得多头、重复申报。课题组成员不超过5人（含主持人）。
+三、课题申报流程
+课题申报人组成课题组后，应认真研究申报课题的设计框架，并按要求填写《新乡市社科联调研课题申报表》（见附件2，注意使用2026年最新版表格，不得沿用往年版本），于2026年4月28日下午16：00前将申报表纸质版两份（附电子版）及汇总表一份（附Excel电子版）由所在院部统一报送至办公楼C0820，电子版发送至邮箱kycxm@hait.edu.cn（不受理个人申报材料，邮件命名为“院部+新乡市社科联2026年度调研课题申报”，文件命名为“姓名+课题名称”），逾期不再受理。经市社科联组织评审并下达立项通知后，即作为新乡市社科联2026年度调研课题。
+四、课题验收
+申报课题获准立项后，申报人应按照要求，在规定时间内完成课题调研工作，各单位于2027年3月份（具体时间另行通知）将课题报告（附电子文档）报送市社科联办公室(不受理邮寄报送)。届时，市社科联将组织有关专家进行评审结项。
+联系人：科研处项目科 
+联系电话：3691219
+科研处（学科办）
+2026年4月20日

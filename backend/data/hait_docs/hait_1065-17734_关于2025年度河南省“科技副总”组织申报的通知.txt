@@ -1,0 +1,32 @@
+v_news_content">
+@font-face{ font-family:"Times New Roman";} @font-face{ font-family:"宋体";} @font-face{ font-family:"Wingdings";} @font-face{ font-family:"仿宋";} @font-face{ font-family:"楷体_GB2312";} @font-face{ font-family:"仿宋_GB2312";} p.MsoNormal{ mso-style-name:正文; mso-style-parent:""; margin:0pt; margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:仿宋; font-size:16.0000pt; mso-font-kerning:1.0000pt;} span.10{ font-family:'Times New Roman';} span.15{ font-family:'Times New Roman'; font-size:9.0000pt;} span.16{ font-family:'Times New Roman'; mso-ansi-font-weight:bold;} span.17{ font-family:'Times New Roman'; font-size:9.0000pt;} p.MsoBodyText{ mso-style-name:正文文本; mso-style-noshow:yes; mso-style-next:"正文文本 2"; margin-bottom:6.0000pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:仿宋; font-size:16.0000pt; mso-font-kerning:1.0000pt;} p.MsoFooter{ mso-style-name:页脚; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; tab-stops:center blank 207.6500pt right blank 415.3000pt ; vsb_temp-mode:char; mso-pagination:none; text-align:left; font-family:仿宋; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.MsoBodyText2{ mso-style-name:"正文文本 2"; margin:0pt; margin-bottom:.0001pt; mso-vsb_temp-align:none; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; vertical-align:baseline; line-height:150%; font-family:楷体_GB2312; mso-hansi-font-family:仿宋; mso-bidi-font-family:仿宋; font-size:14.0000pt; mso-font-kerning:22.0000pt;} p.MsoHeader{ mso-style-name:页眉; mso-style-noshow:yes; margin:0pt; margin-bottom:.0001pt; border-bottom:1.0000pt solid #000; mso-border-bottom-alt:0.7500pt solid #000; padding:0pt 0pt 1pt 0pt ; tab-stops:center blank 207.6500pt right blank 415.3000pt ; vsb_temp-mode:char; mso-pagination:none; text-align:center; font-family:仿宋; font-size:9.0000pt; mso-font-kerning:1.0000pt;} p.p{ mso-style-name:"普通\(网站\)"; margin-top:5.0000pt; margin-right:0.0000pt; margin-bottom:5.0000pt; margin-left:0.0000pt; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; mso-pagination:none; text-align:left; font-family:仿宋; font-size:12.0000pt;} span.msoIns{ mso-style-type:export-only; mso-style-name:""; text-decoration:underline; text-underline:single; color:blue;} span.msoDel{ mso-style-type:export-only; mso-style-name:""; text-decoration:line-through; color:red;} table.MsoNormalTable{ mso-style-name:普通表格; mso-style-parent:""; mso-style-noshow:yes; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} table.MsoTableGrid{ mso-style-name:网格型; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt; mso-border-top-alt:1px solid #000; mso-border-left-alt:1px solid #000; mso-border-bottom-alt:1px solid #000; mso-border-right-alt:1px solid #000; mso-border-insideh:1px solid #000; mso-border-insidev:1px solid #000; mso-para-margin:0pt; mso-para-margin-bottom:.0001pt; mso-pagination:none; text-align:justify; text-justify:inter-ideograph; font-family:'Times New Roman'; font-size:10.0000pt; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} @page{mso-page-border-surround-header:no; mso-page-border-surround-footer:no; mso-facing-pages:yes;}@page Section0{ margin-top:85.0500pt; margin-bottom:85.0500pt; margin-left:79.3500pt; margin-right:73.7000pt; size:595.3000pt 841.9000pt; vsb_temp:28.9500pt; mso-header-margin:42.5500pt; mso-footer-margin:73.7000pt; mso-even-header:url("vsb2215.files/header.html") eh0; mso-header:url("vsb2215.files/header.html") h0;} div.Section0{page:Section0;}
+ 各部门：
+ 为强化企业科技创新主体地位，加快推进教育科技人才一体化发展，助力培育新质生产力和现代化产业体系建设，按照《河南省人民政府关于印发河南省支持企业科技创新若干政策措施的通知》（豫政〔2025〕16号）、《河南省“科技副总”三年行动计划（2024-2026年）》（豫科〔2024〕75号）有关安排，现将2025年度河南省“科技副总”组织申报工作有关事项通知如下：
+ 一、支持重点
+ 2025年度河南省“科技副总”实施选派工作将围绕“两高四着力”，聚焦我省重点培育的“7+28+N”产业链群，重点支持电子信息、先进装备、新材料、新能源、生物医药、现代食品、节能环保等产业集群中相关企业，优先向建有省级及以上科技创新平台的各类创新型企业组织选派。
+ 二、选派条件和岗位情况
+ （一）“科技副总”申报条件
+ 1.政治素养好、专业能力强，具有吃苦奉献精神和服务企业意愿，能够适应企业工作环境的科技创新人才。
+ 2.具有一定科研创新能力不担任管理岗位（职务）的专业技术人员，原则上应当具有博士学位（境外学位需提供教育部留学服务中心学历认证）或正高级以上专业技术职称，初聘年龄一般不超过55周岁（截至2025年8月31日）。
+ 3.能够在省内同一企业工作不少于两年，且每年原则上不少于90天。
+ 4.具有与企业主营业务相关的工作经验，且近三年内无任何不良记录。
+ （二）“科技副总”岗位情况
+ 根据《关于征集2025年度河南省“科技副总”岗位及技术难题需求的通知》（豫科企〔2025〕7号）要求，各类企业通过“河南省科技服务综合体信息管理平台”报送了岗位需求。在此基础上，省科技厅对有“科技副总”需求但没有意向人选的企业筛选形成《河南省“科技副总”需求汇总表》（附件1）。对有需求且已有意向人选的企业筛选形成《河南省“科技副总”对接汇总表》（以电子版发至各地科技管理部门）。
+ 三、申报流程
+ （一）岗位对接
+ 对有“科技副总”需求但没有意向人选的，自评认为符合“科技副总”申报条件的申报人，可自行和企业开展对接洽谈。对有需求且已有意向人选的，由各地科技管理部门负责通知到企业或申报人，尽快完成对接。同一申报人限报一家企业，同一企业限选一名申报人，已纳入2024年度河南省“科技副总”选派名单的人员不得重复申报。
+ （二）自主填报
+ 双方对接成功后，企业（申报人和派出单位协助）可登录“河南省科技服务综合体信息管理平台（http://fuwu.hnkjt.gov.cn/）”，点击“河南省创新型企业管理系统（http://xt.hnkjt.gov.cn/qy/tzgs.ignore）—科技副总组织申报”，在线填写《河南省“科技副总”服务企业申请表》（附件2）并上传由达成意向的接收企业、“科技副总”本人及派出单位三方签订的《合作协议书》（附件3）及相关附件材料，无需报送纸质资料。在线申报时间为8月29日—9月23日。根据往年情况，申报最后时段登录企业过多易造成网络堵塞，请有关单位及早登录系统填报，确保按时提交。
+ （三）审核推荐
+ 申报需求经属地科技管理部门初审合格后，通过系统推送至省科技厅。省科技厅将会同省委组织部组织专家开展评估论证，并会同相关部门遴选确定本年度河南省“科技副总”选派人选。
+ 四、联系方式
+ （一）在线申报技术支持
+ 省科学技术情报中心
+ 联系电话：0371-65974111
+ （二）政策咨询
+ 省科技厅科技企业处
+ 联系电话：0371- 65990101/86230698
+ （三）科研处
+ 联系方式：3691212
+ 科研处（学科办）
+ 2025年9月1日
